@@ -1,0 +1,38 @@
+package com.example.TheGreenPanther.Entity;
+
+import java.util.Date;
+import java.util.List;
+
+import org.springframework.data.annotation.CreatedDate;
+import org.springframework.data.annotation.Id;
+import org.springframework.data.annotation.LastModifiedDate;
+import org.springframework.data.mongodb.core.mapping.Document;
+
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@Document(collection="garden_to_table")
+@NoArgsConstructor
+@AllArgsConstructor
+public class GardenToTableEntity {
+	
+	@Id
+	private String id;
+	private String customId;
+	
+	
+	private String name;
+	private String video;
+	private String description;
+	private String category;
+	private List<String> hashtags;
+	
+	@CreatedDate
+	private Date createdAt;
+	@LastModifiedDate
+	private Date updatedAt;
+	
+}
