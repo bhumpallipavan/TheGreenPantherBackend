@@ -1,6 +1,6 @@
 # 🌿 The Green Panther - Backend API (Spring Boot + MongoDB)
 
-The Green Panthers is a web-based gardening and nature learning platform designed to help users grow plants, purchase gardening supplies, explore garden-to-table recipes, and learn from inspiring natural agriculturists.  
+The Green Panther is a web-based gardening and nature learning platform designed to help users grow plants, purchase gardening supplies, explore garden-to-table recipes, and learn from inspiring natural agriculturists.  
 This repository contains the **Spring Boot REST API backend**, connected to **MongoDB**, implementing clean, scalable, and modular services across four major application modules.
 
 ---
@@ -143,16 +143,6 @@ API structure matches Grow & Nurture.
 
 ---
 
-## 🗃️ Database Enhancements
-
-| Feature | Description |
-|--------|-------------|
-| Projections | Lightweight API responses |
-| Regex Search | Partial flexible matching |
-| Aggregation `$sample` | Random item selection |
-| Pagination using Pageable | Infinite scroll support |
-
----
 
 ## 👨‍💻 Author
 
