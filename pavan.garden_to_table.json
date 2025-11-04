@@ -1,0 +1,1771 @@
+[{
+  "_id": {
+    "$oid": "689956bd5383631a85cd00cb"
+  },
+  "customId": "GTC005",
+  "name": "Palak Paneer",
+  "video": "https://youtu.be/cjGDsV6FvNE?si=54E8QByjJvDq-P8Y",
+  "description": "Palak Paneer beautifully combines fresh, handpicked spinach with soft, creamy paneer to create a rich and wholesome dish. This vibrant green curry blends farm-fresh leafy greens and homemade cheese into a comforting classic full of flavor and nutrition.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "PalakPaneer",
+    "CreamySpinach",
+    "FarmFreshGreens",
+    "IndianCurry",
+    "HomemadePaneer",
+    "NutritiousDelight",
+    "ComfortFood",
+    "LeafyGreens",
+    "TraditionalRecipe",
+    "FlavorfulCurry"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:34:37.508Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:34:37.508Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689956bd5383631a85cd00ca"
+  },
+  "customId": "GTC004",
+  "name": "Bendi Fry",
+  "video": "https://youtu.be/Q4wNyK2PhaM?si=cqtTPkhvJVOIgsyo",
+  "description": "Bendi Fry transforms fresh okra straight from the farm into a crispy, spiced delicacy. Lightly coated with traditional masalas and fried to perfection, this dish captures the earthy freshness of the vegetable with a satisfying crunch and bold flavor.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "BendiFry",
+    "CrispyOkra",
+    "SpicedDelight",
+    "SouthIndianSnacks",
+    "CrunchyVeggies",
+    "MasalaMagic",
+    "FarmFreshFlavor",
+    "FryLove",
+    "VegetableTreat",
+    "TraditionalTaste"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:34:37.508Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:34:37.508Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689956bd5383631a85cd00c7"
+  },
+  "customId": "GTC001",
+  "name": "Gutti Vankaya Fry",
+  "video": "https://youtu.be/S1aPK4QwfAU?si=x2TGRqK9g8OqocS9",
+  "description": "Gutti Vankaya Fry is a rich and flavorful way of transforming freshly picked eggplants from the farm into a delicious, aromatic dish. With traditional spices and slow cooking, this preparation highlights the farm-fresh texture and taste of vegetables, turning simple produce into a comforting culinary masterpiece.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "Gutti Vankaya",
+    "SpicyEggplant",
+    "SouthIndianFlavors",
+    "BrinjalFry",
+    "TangyAndSpicy",
+    "FlavorBurst",
+    "AndhraSpecial",
+    "VegetableDelight",
+    "MasalaMagic",
+    "CrispyFry",
+    "Hotly served"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:34:37.494Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-12T04:44:14.937Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689956bd5383631a85cd00c9"
+  },
+  "customId": "GTC003",
+  "name": "Lemon Rice",
+  "video": "https://youtu.be/UgGinthI9NU?si=-wgvb-R2RDQ87tUO",
+  "description": "Lemon Rice is a vibrant dish that transforms freshly harvested rice and tangy lemons into a zesty, flavorful meal. Infused with aromatic mustard seeds, curry leaves, and mild spices, this classic South Indian recipe brings farm-fresh ingredients to life in every bite.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "LemonRice",
+    "TangyDelight",
+    "SouthIndianFlavors",
+    "ZestyRice",
+    "CurryLeavesMagic",
+    "FarmFreshMeal",
+    "RiceRecipes",
+    "SimpleEats",
+    "FlavorfulBites",
+    "TraditionalTaste"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:34:37.508Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:34:37.508Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689956bd5383631a85cd00c8"
+  },
+  "customId": "GTC002",
+  "name": "Banana Chips",
+  "video": "https://youtu.be/y8P2LdvLadQ?si=GAhv4GEM2eQhzQ4G",
+  "description": "Banana Chips turn freshly harvested bananas into a crispy, crunchy snack bursting with rich, natural sweetness and a hint of saltiness. This timeless recipe perfectly balances flavor and texture, transforming simple farm produce into a beloved treat that’s perfect anytime.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "BananaChips",
+    "CrispySnack",
+    "CrunchyDelight",
+    "TropicalFlavors",
+    "SweetAndSalty",
+    "FarmFreshSnack",
+    "TraditionalRecipe",
+    "HealthyCrunch",
+    "SnackAttack",
+    "NaturalGoodness"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:34:37.508Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:34:37.508Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957175383631a85cd00cf"
+  },
+  "customId": "GTC009",
+  "name": "Pesto Penne Pasta",
+  "video": "https://youtu.be/HU_CNivkxaw?si=s1QeGVSAWFymEvCG",
+  "description": "Pesto Penne Pasta transforms fresh basil and garden herbs into a vibrant, aromatic sauce that beautifully coats perfectly cooked penne pasta. This dish combines farm-fresh greens with rich flavors and textures, making every bite a delightful celebration of freshness.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "PestoPenne",
+    "FreshHerbs",
+    "FarmToFork",
+    "BasilDelight",
+    "ItalianFlavors",
+    "GardenFresh",
+    "HerbaceousGoodness",
+    "PastaLovers",
+    "FlavorPacked",
+    "VibrantDish",
+    "palak"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:36:07.666Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:36:07.666Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957175383631a85cd00ce"
+  },
+  "customId": "GTC008",
+  "name": "Roasted Pumpkin Soup",
+  "video": "https://youtu.be/RPGBMkN-_Ys?si=2Ch_2mcyGSGlm2mC",
+  "description": "Roasted Pumpkin Soup takes freshly harvested pumpkins and transforms them into a creamy, comforting bowl of warmth. Roasting the pumpkin enhances its natural sweetness and depth of flavor, creating a nourishing soup perfect for cozy moments.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "RoastedPumpkinSoup",
+    "CreamyComfort",
+    "AutumnFlavors",
+    "FarmFreshSoup",
+    "HealthyWarmth",
+    "PumpkinDelight",
+    "NourishingBowl",
+    "SeasonalRecipe",
+    "FlavorRich",
+    "CozyEats"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:36:07.666Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:36:07.666Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957175383631a85cd00cd"
+  },
+  "customId": "GTC007",
+  "name": "Spinach Paratha",
+  "video": "https://youtu.be/GeclTJ1R60A?si=JqQfFULxpTV-dhWj",
+  "description": "Spinach Paratha transforms fresh, vibrant spinach into a soft, flaky flatbread packed with earthy flavors and nutrition. This wholesome, farm-fresh delight combines the goodness of leafy greens with traditional spices, perfect for a hearty meal.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "SpinachParatha",
+    "LeafyGreenGoodness",
+    "FlakyFlatbread",
+    "FarmFreshGreens",
+    "TraditionalIndianBread",
+    "NutritiousBites",
+    "HealthyMeals",
+    "FlavorfulParatha",
+    "HomemadeDelight",
+    "WholesomeEats"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:36:07.666Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:36:07.666Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957175383631a85cd00cc"
+  },
+  "customId": "GTC006",
+  "name": "Mango Roti Pachadi",
+  "video": "https://youtu.be/vnLoTqNsaAQ?si=E1yEO0KtNeLbpOSB",
+  "description": "Mango Roti Pachadi is a vibrant, tangy relish that transforms fresh, ripe mangoes into a deliciously sweet and spicy accompaniment. This traditional Andhra delicacy perfectly balances the freshness of the fruit with rich spices, enhancing any meal with its burst of flavors.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "MangoRotiPachadi",
+    "TangyDelight",
+    "AndhraSpecial",
+    "SpicyRelish",
+    "FreshMangoFlavor",
+    "TraditionalTaste",
+    "FlavorExplosion",
+    "SweetAndSpicy",
+    "FarmFreshGoodness",
+    "AuthenticRecipe"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:36:07.662Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:36:07.662Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957175383631a85cd00d0"
+  },
+  "customId": "GTC010",
+  "name": "Carrot Fry",
+  "video": "https://youtu.be/tR37WICdHok?si=Ez0LJEon3Td3A340",
+  "description": "Carrot Fry turns fresh, crunchy carrots into a flavorful and aromatic side dish. Tossed with traditional spices and tempered with mustard seeds and curry leaves, this simple preparation brings out the natural sweetness and vibrant color of farm-fresh carrots.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "CarrotFry",
+    "SpicedCarrots",
+    "CrunchyDelight",
+    "FarmFreshVeggies",
+    "SouthIndianFlavors",
+    "TemperedVeggies",
+    "SimpleSides",
+    "FlavorfulBites",
+    "VegetableTreat",
+    "TraditionalRecipe"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:36:07.666Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:36:07.666Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957705383631a85cd00d1"
+  },
+  "customId": "GNR001",
+  "name": "Resin Art Key Chains",
+  "video": "https://youtu.be/YG9TRGmJnsE?si=eFxZFInfjKLKzzQn",
+  "description": "Resin Art Key Chains combine personalized letters and delicate flowers preserved in crystal-clear resin to create unique keepsakes full of meaning. For example: “L” paired with a rose symbolizes love and affection, “M” with lavender conveys calmness and nurturing, perfect for mom, “B” alongside baby’s breath stands for innocence and new beginnings, “F” with fern leaves represents friendship and growth. Using a careful handcrafting technique, fresh flowers and custom letters are embedded into resin molds, then cured to form durable, glossy keychains. These handmade treasures preserve the beauty of nature and sentiment, making them ideal heartfelt gifts for friends and family on special occasions.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "ResinKeyChains",
+    "PersonalizedGifts",
+    "FloralResinArt",
+    "LetterSymbolism",
+    "HandmadeKeepsakes",
+    "MeaningfulTokens",
+    "BotanicalJewelry",
+    "NatureInspired",
+    "UniqueGiftIdeas",
+    "ArtWithHeart"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:37:36.517Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:37:36.517Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957705383631a85cd00d6"
+  },
+  "customId": "GNR006",
+  "name": "Resin Art Name Plates",
+  "video": "https://youtu.be/VoEVdSSx1BM?si=RpTjfl0ykQ_mrPM_",
+  "description": "Resin Art Name Plates are beautifully handcrafted creations that allow you to express your identity by customizing your name with desired flowers, colors, and designs. Each plate is made by carefully embedding fresh or dried blooms into resin, reflecting your personality and style in a unique and pure form. Creating your own name plate is a rich, hands-on experience that results in a stunning piece of art, perfect for welcoming guests and making a lasting impression at your home’s entrance.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "ResinNamePlates",
+    "PersonalizedDecor",
+    "HandmadeArt",
+    "FloralResinArt",
+    "CustomHomeSigns",
+    "UniqueEntrance",
+    "BotanicalDesign",
+    "ArtisticCraftsmanship",
+    "NatureInspired",
+    "CharacterExpression"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:37:36.521Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:37:36.521Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957705383631a85cd00d3"
+  },
+  "customId": "GNR003",
+  "name": "Resin Art Necklaces",
+  "video": "https://youtu.be/oh0Jcqy5-KI?si=7nDf45u4_SyvN9GU",
+  "description": "Resin Art Necklaces are exquisite handcrafted jewelry pieces that preserve the delicate beauty of flowers and natural elements within crystal-clear resin pendants. Using a careful embedding technique, each necklace captures tiny blossoms, leaves, or petals, creating wearable art that tells a personal story. These necklaces make thoughtful, unique gifts symbolizing memories, love, and nature’s charm, perfect for special occasions or everyday elegance.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "ResinNecklaces",
+    "HandmadeJewelry",
+    "FloralResinArt",
+    "BotanicalJewelry",
+    "UniqueGifts",
+    "NatureInspired",
+    "WearableArt",
+    "PersonalizedJewelry",
+    "ArtisticCraftsmanship",
+    "MeaningfulKeepsakes"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:37:36.517Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:37:36.517Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957705383631a85cd00d5"
+  },
+  "customId": "GNR005",
+  "name": "Resin Art Photo Frames",
+  "video": "https://youtu.be/fgHMH6mnSRw?si=tACk8vxHuG6xBYgb",
+  "description": "Resin Art Photo Frames beautifully preserve cherished memories by embedding meaningful keepsakes—like a rose gifted by your boyfriend—alongside a treasured photo within crystal-clear resin. This handcrafted technique locks freshness and sentiment in a timeless display, making every frame a unique tribute to love, friendship, and special moments. Other examples include preserving dried flowers from a wedding bouquet or tiny shells collected on a memorable beach trip, turning them into heartfelt decorative pieces.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "ResinPhotoFrames",
+    "MemoryPreservation",
+    "HandmadeKeepsakes",
+    "FloralResinArt",
+    "SentimentalGifts",
+    "LoveMemories",
+    "PersonalizedDecor",
+    "UniqueGiftIdeas",
+    "NatureInspired",
+    "ArtisticCraftsmanship"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:37:36.517Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:37:36.517Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957705383631a85cd00d4"
+  },
+  "customId": "GNR004",
+  "name": "Resin Art Earrings",
+  "video": "https://youtu.be/zpxzZ9qsdI0?si=a5iKoV41jlQEQyww",
+  "description": "Resin Art Earrings are delicate handmade accessories that encapsulate tiny flowers and natural elements in glossy resin, creating unique wearable art. Crafted with precision, each pair captures the beauty of fresh blooms preserved forever, making them perfect gifts that combine elegance and nature-inspired charm.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "ResinEarrings",
+    "HandmadeJewelry",
+    "FloralResinArt",
+    "BotanicalAccessories",
+    "UniqueGifts",
+    "NatureInspired",
+    "WearableArt",
+    "PersonalizedStyle",
+    "ArtisticCraftsmanship",
+    "ElegantDesign"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:37:36.517Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:37:36.517Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957705383631a85cd00d8"
+  },
+  "customId": "GNR008",
+  "name": "Resin Art Bookmarks",
+  "video": "https://youtu.be/qp5XOOdaysY?si=MaGeDFjJEpwgHoHs",
+  "description": "Resin Art Bookmarks preserve delicate flowers and meaningful keepsakes within crystal-clear resin, turning everyday reading into a special experience. Handcrafted with care, each bookmark combines nature’s beauty with practical use, making thoughtful gifts for book lovers that celebrate memories and artistry.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "ResinBookmarks",
+    "HandmadeGifts",
+    "FloralResinArt",
+    "BotanicalKeepsakes",
+    "UniqueBookAccessories",
+    "NatureInspired",
+    "ArtisticCraftsmanship",
+    "PersonalizedGifts",
+    "ReadingCompanions",
+    "ThoughtfulTokens"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:37:36.521Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:37:36.521Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957705383631a85cd00d2"
+  },
+  "customId": "GNR002",
+  "name": "Resin Art Wall Hangings",
+  "video": "https://youtu.be/eT3Zne8cTmc?si=hnvCAeXe4W7cMaEu",
+  "description": "Resin Art Wall Hangings are handcrafted masterpieces that capture the enchanting beauty of nature and celestial themes like the moon and sun. Each piece is carefully created by embedding vibrant flowers, leaves, and shimmering pigments into resin molds shaped as moons, suns, or garden-inspired designs. This meticulous process brings out the colors and textures vividly, transforming fresh natural elements into stunning wall decor. These unique art pieces add warmth and charm to any space and make meaningful, handmade gifts that celebrate nature’s wonders.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "ResinWallHangings",
+    "CelestialArt",
+    "HandmadeDecor",
+    "FloralResinArt",
+    "MoonAndSun",
+    "GardenInspired",
+    "NatureInArt",
+    "UniqueWallArt",
+    "ArtisticCraftsmanship",
+    "HandmadeGifts"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:37:36.517Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:37:36.517Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957705383631a85cd00d7"
+  },
+  "customId": "GNR007",
+  "name": "Resin Art Serving Trays",
+  "video": "https://youtu.be/LqM1xMS4qAw?si=Kt-SjimUAg40aksZ",
+  "description": "Resin Art Serving Trays transform everyday dining into an elegant experience by embedding vibrant flowers and natural elements into glossy resin surfaces. Each tray is handcrafted with attention to detail, combining durability with artistic beauty. Personalized with your choice of blooms and colors, these trays make perfect statement pieces for serving guests or gifting with love.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "ResinServingTrays",
+    "HandmadeHomeware",
+    "FloralResinArt",
+    "UniqueDining",
+    "BotanicalDesign",
+    "PersonalizedGifts",
+    "ArtisticCraftsmanship",
+    "NatureInspired",
+    "ElegantServing",
+    "CustomDecor"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:37:36.521Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:37:36.521Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957b75383631a85cd00df"
+  },
+  "customId": "GNL007",
+  "name": "Succulent Lantern",
+  "video": "https://youtu.be/a5yAQbiFYog?si=Q7s7OpBZG2wgIAg7",
+  "description": "Succulent Lantern combines the beauty of living plants with artistic design by planting cacti and succulents inside a decorative lantern. This unique fusion of greenery and light creates a charming, low-maintenance centerpiece that brings nature’s calm and elegance indoors or to your garden. Handmade with care, each lantern offers a refreshing blend of life and style, perfect for gifting or personal decor.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "SucculentLantern",
+    "CactusPlanter",
+    "LivingDecor",
+    "HandmadePlanters",
+    "BotanicalArt",
+    "LowMaintenancePlants",
+    "GreenCenterpiece",
+    "NatureInspired",
+    "ArtisticPlanters",
+    "UniqueGifts"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:38:47.553Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:38:47.553Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957b75383631a85cd00dd"
+  },
+  "customId": "GNL005",
+  "name": "Paper Cup LED Lantern",
+  "video": "https://youtube.com/shorts/k4tNdqj9NLc?si=B7NIdCxzYWKyxs1q",
+  "description": "Paper Cup LED Lantern Making is a fun and creative DIY project that transforms simple paper cups into charming lanterns using LED lights. This eco-friendly craft encourages upcycling and sparks imagination, perfect for kids and adults alike. Easy to assemble and customize with colors and patterns, these lanterns add a whimsical, glowing touch to gardens, parties, or indoor décor.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "PaperCupLantern",
+    "DIYLanterns",
+    "UpcycledDecor",
+    "LEDLantern",
+    "CreativeCrafts",
+    "EcoFriendlyDIY",
+    "HandmadeLighting",
+    "GardenDecor",
+    "WhimsicalGlow",
+    "CraftingFun"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:38:47.553Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:38:47.553Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957b75383631a85cd00e0"
+  },
+  "customId": "GNL008",
+  "name": "Sea Shell Lantern",
+  "video": "https://youtu.be/wfGyBGSc2mQ?si=rA6Xy6B9ECM8TV8d",
+  "description": "Sea Shell Lantern brings coastal beauty into your space by artistically arranging shimmering seashells into a handcrafted lantern. Though not a flower or vegetable, it complements natural decor by capturing the essence of the sea. This unique lantern creates a tranquil ambiance with soft light filtering through the shells, perfect for beach lovers and serene garden spaces.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "SeaShellLantern",
+    "CoastalDecor",
+    "HandmadeLantern",
+    "NaturalArt",
+    "BeachVibes",
+    "SereneLighting",
+    "UniqueDecor",
+    "NauticalCharm",
+    "OceanInspired",
+    "ArtisticLighting"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:38:47.553Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:38:47.553Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957b75383631a85cd00dc"
+  },
+  "customId": "GNL004",
+  "name": "Dried Leaf Lantern",
+  "video": "https://youtu.be/0dT64Z4zqsk?si=dJV2NtZ_iB71UmnX",
+  "description": "Dried Leaf Lantern showcases the natural beauty of preserved leaves encased in a handcrafted lantern frame. This artistic piece captures delicate leaf veins and textures, casting soft, organic patterns when illuminated. Perfect for creating a warm, earthy ambiance in your garden or living space, it combines eco-friendly design with rustic elegance.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "DriedLeafLantern",
+    "EcoFriendlyDecor",
+    "NaturalLighting",
+    "HandmadeLantern",
+    "RusticElegance",
+    "LeafArt",
+    "WarmAmbiance",
+    "BotanicalDesign",
+    "SustainableDecor",
+    "OrganicGlow"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:38:47.552Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:38:47.552Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957b75383631a85cd00d9"
+  },
+  "customId": "GNL001",
+  "name": "Mason Jar Fairy Lights",
+  "video": "https://youtu.be/4h95iBVHaRU?si=YXJWG3VCvQ3I8YM6",
+  "description": "Mason Jar Fairy Lights bring a touch of rustic charm and nostalgia, reminiscent of old-fashioned lanterns used to light up summer nights and cozy gatherings. These beautiful jars, filled with delicate LED fairy lights, create a warm, enchanting glow that transforms any space effortlessly. Easy to hang or place on tables, they’re perfect for adding magical ambiance to your garden parties, patios, or indoor nooks.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "MasonJarLights",
+    "FairyLights",
+    "RusticDecor",
+    "GardenAmbiance",
+    "CozyNights",
+    "EasyDecor",
+    "MagicalGlow",
+    "OutdoorLighting",
+    "VintageCharm",
+    "WarmLighting"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:38:47.550Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:38:47.550Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957b75383631a85cd00da"
+  },
+  "customId": "GNL002",
+  "name": "Coconut Shell Tea Light Holder",
+  "video": "https://youtu.be/Y47mTbLV5Ps?si=WO4G5HOWvEqwqM7z",
+  "description": "Coconut Shell Tea Light Holder combines natural sustainability with warm, inviting light. Crafted from repurposed coconut shells, each holder adds an earthy, tropical touch to your garden or indoor space. Historically, coconut shells have been used as versatile vessels in many cultures, making this holder both eco-friendly and rich in tradition. Easy to place or hang, it creates a cozy ambiance perfect for relaxing evenings or special occasions.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "CoconutShellHolder",
+    "TeaLightHolder",
+    "EcoFriendlyDecor",
+    "TropicalVibes",
+    "SustainableLiving",
+    "WarmAmbiance",
+    "RusticCharm",
+    "HandmadeDecor",
+    "NaturalLighting",
+    "CozySpaces"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:38:47.552Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:38:47.552Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957b75383631a85cd00db"
+  },
+  "customId": "GNL003",
+  "name": "Bamboo Stick Lantern",
+  "video": "https://youtu.be/ISIHcdPPlGs?si=byu3m4lobfBnwjvp",
+  "description": "Bamboo Stick Lantern blends traditional craftsmanship with natural elegance, creating a beautiful, eco-friendly light source inspired by centuries-old bamboo art. Lightweight and durable, this lantern casts warm, patterned shadows that add a serene ambiance to gardens, patios, or indoor spaces. Easy to hang or place, it’s perfect for bringing a touch of nature and calm to your surroundings.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "BambooLantern",
+    "EcoFriendlyLighting",
+    "TraditionalCraft",
+    "NaturalDecor",
+    "WarmGlow",
+    "HandmadeLantern",
+    "GardenAmbiance",
+    "RusticCharm",
+    "SustainableArt",
+    "PeacefulSpaces"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:38:47.552Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:38:47.552Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957b75383631a85cd00de"
+  },
+  "customId": "GNL006",
+  "name": "Pressed Flower Lantern",
+  "video": "https://youtu.be/BD9GZNwEcYs?si=5OdXaFj-XCI2C0cu",
+  "description": "Pressed Flower Lantern is a delicate handcrafted piece that incorporates beautifully preserved pressed flowers within a lantern frame. When lit, it casts enchanting floral patterns and soft, colorful glows, bringing the charm of a blooming garden indoors. This eco-friendly lantern is perfect for creating a cozy, nature-inspired ambiance in any space.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "PressedFlowerLantern",
+    "FloralLighting",
+    "HandmadeDecor",
+    "BotanicalArt",
+    "EcoFriendlyLighting",
+    "NatureInspired",
+    "FloralGlow",
+    "ArtisticLantern",
+    "SustainableDecor",
+    "CozyAmbiance"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:38:47.553Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:38:47.553Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957fd5383631a85cd00e4"
+  },
+  "customId": "GTM004",
+  "name": "Fenugreek Powder",
+  "video": "https://youtu.be/evulK8sJeuY?si=MOo-cU1rbQFtnYpx",
+  "description": "Fenugreek Powder is a fragrant spice made from roasted and ground fenugreek seeds, deeply rooted in Indian cooking traditions. Known for its slightly bitter and nutty flavor, this powder is an essential ingredient in dishes like Avakaya (Andhra mango pickle), various dals, and vegetable curries, adding depth and a distinctive aroma that enhances taste. Made using traditional methods, it retains all the authentic flavors and health benefits cherished in Indian cuisine.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "FenugreekPowder",
+    "AvakayaSpice",
+    "TraditionalIndianFlavors",
+    "HandcraftedMasala",
+    "BitterSweetFlavor",
+    "IndianCuisine",
+    "AuthenticSpices",
+    "KitchenEssentials",
+    "OldWorldRecipes",
+    "FlavorDepth"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:39:57.830Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:39:57.830Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957fd5383631a85cd00e9"
+  },
+  "customId": "GTM009",
+  "name": "Turmeric Powder",
+  "video": "https://youtu.be/Xxf_3hLwNjI?si=Msnr-CwTx1ISFShx",
+  "description": "Turmeric Powder is a vibrant yellow spice made by drying and grinding turmeric roots using traditional methods that preserve its earthy flavor and potent medicinal properties. Revered in Indian cooking and Ayurveda, turmeric adds warmth, color, and health benefits to curries, dals, and beverages. This handcrafted powder embodies centuries of culinary and healing traditions.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "TurmericPowder",
+    "TraditionalSpices",
+    "AyurvedicHealing",
+    "IndianCuisine",
+    "HandcraftedMasala",
+    "NaturalColorant",
+    "HealthBoost",
+    "KitchenEssential",
+    "AuthenticFlavor",
+    "GoldenSpice"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:39:57.830Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:39:57.830Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957fd5383631a85cd00e5"
+  },
+  "customId": "GTM005",
+  "name": "Cumin Powder",
+  "video": "https://youtu.be/hn_WZtl4a2k?si=_aM5iAnYpCzw4u5l",
+  "description": "Cumin Powder is a fundamental spice in Indian kitchens, made by roasting and grinding cumin seeds using traditional methods that preserve its warm, earthy aroma and robust flavor. Widely used in dals, curries, and spice blends, cumin powder adds a distinctive, slightly smoky taste that enhances the depth and complexity of Indian dishes. This authentic, handcrafted powder is a kitchen essential rooted in culinary heritage.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "CuminPowder",
+    "TraditionalSpices",
+    "HandcraftedMasala",
+    "EarthyFlavor",
+    "IndianCuisine",
+    "AuthenticSpiceBlend",
+    "KitchenStaple",
+    "OldWorldRecipes",
+    "AromaticSpices",
+    "FlavorEnhancer"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:39:57.830Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:39:57.830Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957fd5383631a85cd00e7"
+  },
+  "customId": "GTM007",
+  "name": "Mint Coriander Chutney",
+  "video": "https://youtu.be/niDJJaDZqM4?si=4tx9ELahjpwYN_3P",
+  "description": "Mint Coriander Chutney is a fresh, vibrant condiment made by blending farm-fresh mint and coriander leaves with traditional spices. Rooted in Indian culinary heritage, this chutney adds a zesty, refreshing flavor to snacks, grilled dishes, and meals, enhancing every bite with its aromatic and tangy profile. Handmade with natural ingredients, it’s a versatile accompaniment that brings the taste of the garden straight to your plate.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "MintCorianderChutney",
+    "FreshCondiments",
+    "TraditionalFlavors",
+    "HandmadeChutney",
+    "FarmFreshIngredients",
+    "IndianCuisine",
+    "ZestyTaste",
+    "FlavorBoost",
+    "HerbalGoodness",
+    "CulinaryEssentials"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:39:57.830Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:39:57.830Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957fd5383631a85cd00e1"
+  },
+  "customId": "GTM001",
+  "name": "Garam Masala",
+  "video": "https://youtu.be/uFGW0pF0cJ8?si=DocvTW1XlpK2wOiO",
+  "description": "Garam Masala is a deeply rooted blend of spices that forms the heart and soul of Indian cuisine. Handcrafted using the authentic old method of roasting whole spices like cinnamon, cloves, cardamom, and peppercorns, then grinding them fresh, this masala delivers rich aroma and robust flavor that elevate every dish. Its balanced warmth enhances curries, dals, and biryanis, making it an indispensable seasoning in Indian kitchens passed down through generations.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "GaramMasala",
+    "AuthenticSpices",
+    "TraditionalIndianFlavors",
+    "HandcraftedMasala",
+    "SpiceBlend",
+    "IndianCuisine",
+    "FlavorfulCooking",
+    "OldWorldRecipes",
+    "KitchenEssentials",
+    "AromaticSpices"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:39:57.830Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:39:57.830Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957fd5383631a85cd00e2"
+  },
+  "customId": "GTM002",
+  "name": "Dhaniya Powder",
+  "video": "https://youtu.be/Gwomchk5RA4?si=XTEW5AqBOnCxQYUO",
+  "description": "Dhaniya Powder is a cornerstone spice in Indian cooking, made by roasting and grinding fresh coriander seeds using traditional methods that preserve its bright aroma and earthy flavor. Rooted deeply in Indian culinary heritage, this powder adds a mild, citrusy warmth to curries, soups, and chutneys, making it essential for authentic dishes with rich, layered tastes.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "DhaniyaPowder",
+    "TraditionalSpices",
+    "AuthenticIndianFlavors",
+    "HandcraftedMasala",
+    "CorianderMagic",
+    "IndianCuisine",
+    "FlavorEssentials",
+    "OldWorldRecipes",
+    "KitchenStaple",
+    "AromaticSpices"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:39:57.830Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:39:57.830Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957fd5383631a85cd00ea"
+  },
+  "customId": "GTM010",
+  "name": "Kandi Podi",
+  "video": "https://youtu.be/2M_7QcOnNQA?si=Orzx6DFjVjpXduXX",
+  "description": "Kandi Podi is a flavorful roasted lentil and spice powder widely used in South Indian cuisine. Made by roasting and grinding lentils, red chilies, sesame seeds, and other spices using age-old methods, it adds a crunchy texture and spicy kick to meals. Typically sprinkled over rice with ghee or mixed into chutneys, this authentic podi brings rich taste and tradition to every bite.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "KandiPodi",
+    "RoastedSpiceBlend",
+    "TraditionalSouthIndian",
+    "HandcraftedMasala",
+    "SpicyCrunch",
+    "IndianCuisine",
+    "AuthenticFlavor",
+    "KitchenStaple",
+    "FlavorfulToppings",
+    "OldWorldRecipes"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:39:57.837Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:39:57.837Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957fd5383631a85cd00e3"
+  },
+  "customId": "GTM003",
+  "name": "Red Chilli Powder",
+  "video": "https://youtu.be/Q41F0AoUEUM?si=Y65tmSleAuosxWHd",
+  "description": "Red Chilli Powder is a fiery staple in Indian kitchens, made from carefully dried and ground red chilies using age-old traditional techniques. Known for adding vibrant color and bold heat, this powder is essential in crafting authentic curries, pickles, and spice blends, delivering the perfect balance of warmth and flavor rooted in Indian culinary heritage.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "RedChilliPowder",
+    "SpicyEssentials",
+    "TraditionalIndianSpices",
+    "HandcraftedMasala",
+    "FieryFlavor",
+    "IndianCuisine",
+    "AuthenticHeat",
+    "KitchenStaple",
+    "OldWorldRecipes",
+    "VibrantSpices"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:39:57.830Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:39:57.830Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957fd5383631a85cd00e6"
+  },
+  "customId": "GTM006",
+  "name": "Ginger Garlic Paste",
+  "video": "https://youtu.be/7iiG2gDEZCw?si=VSm1zvQ3qlU-NLw_",
+  "description": "Ginger Garlic Paste is an indispensable ingredient in Indian cooking, made by grinding fresh ginger and garlic into a smooth, aromatic paste. Rooted in traditional culinary practices, this paste forms the flavorful base of almost every curry, adding depth, warmth, and a vibrant aroma that enhances the taste of dals, gravies, and marinades. Handmade with care, it brings authenticity and rich flavor to every dish.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "GingerGarlicPaste",
+    "EssentialIngredient",
+    "TraditionalIndianCooking",
+    "AromaticBase",
+    "HandmadePaste",
+    "FlavorBooster",
+    "IndianCuisine",
+    "CurryStaple",
+    "KitchenEssentials",
+    "AuthenticFlavors"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:39:57.830Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:39:57.830Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689957fd5383631a85cd00e8"
+  },
+  "customId": "GTM008",
+  "name": "Sambar Powder",
+  "video": "https://youtu.be/ThvHva5iJ_s?si=UHui0E7a0j951Mxa",
+  "description": "Sambar Powder is a fragrant and flavorful spice blend integral to South Indian cuisine. Made using traditional methods, it combines carefully roasted and ground ingredients like coriander seeds, dried red chilies, fenugreek seeds, mustard seeds, cumin seeds, black pepper, curry leaves, and turmeric. This authentic powder brings a perfect balance of heat, aroma, and earthiness, essential for making the classic sambar—a hearty lentil stew enjoyed with rice or dosa.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "SambarPowder",
+    "TraditionalSpices",
+    "AuthenticSouthIndianFlavors",
+    "HandcraftedMasala",
+    "SpiceBlend",
+    "IndianCuisine",
+    "KitchenEssential",
+    "FlavorfulCooking",
+    "OldWorldRecipes",
+    "AromaticSpices"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:39:57.830Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:39:57.830Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "6899583b5383631a85cd00ef"
+  },
+  "customId": "GTP005",
+  "name": "Gift Tags",
+  "video": "https://youtu.be/J3N2n_dPvtw?si=tlQuhrQwg4cRmiBa",
+  "description": "Gift Tags Using Pressed Flower Art add a personal, natural touch to presents by featuring delicate pressed blooms on handcrafted tags. This traditional art combines floral beauty with thoughtful gifting, making every package unique and memorable. Perfect for special occasions, these eco-friendly tags enhance the joy of giving with a touch of nature’s charm.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "PressedFlowerGiftTags",
+    "HandmadeGiftTags",
+    "BotanicalArt",
+    "FloralCrafts",
+    "PersonalizedGifts",
+    "EcoFriendlyCrafts",
+    "NatureInspired",
+    "ArtisticKeepsakes",
+    "UniqueGiftWrap",
+    "ThoughtfulTouches"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:40:59.140Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:40:59.140Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "6899583b5383631a85cd00f3"
+  },
+  "customId": "GTP009",
+  "name": "Candle Wraps",
+  "video": "https://youtu.be/hzlwv29kJ5Y?si=6gQAFLW9BI-hke8X",
+  "description": "Candle Wraps Using Pressed Flower Art add a delicate, natural elegance to candles by featuring beautifully preserved pressed flowers on wraps that encircle the candle. This handcrafted art transforms ordinary candles into charming decorative pieces perfect for gifting or enhancing ambiance. Rooted in traditional floral preservation, these wraps bring a soft, floral touch to any setting.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "PressedFlowerCandleWraps",
+    "HandmadeDecor",
+    "BotanicalArt",
+    "FloralCrafts",
+    "NatureInspired",
+    "UniqueGifts",
+    "ArtisticKeepsakes",
+    "EcoFriendlyDesign",
+    "FloralElegance",
+    "DecorativeCandles"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:40:59.140Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:40:59.140Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "6899583b5383631a85cd00f1"
+  },
+  "customId": "GTP007",
+  "name": "Diary Covers",
+  "video": "https://youtu.be/jH7d9AT7US0?si=2elKTvVO7bsgCaS8",
+  "description": "Diary Covers Using Pressed Flower Art elegantly combine nature’s delicate beauty with everyday functionality. These handcrafted covers feature carefully arranged pressed flowers embedded in protective materials, creating unique and personalized journals. Rooted in traditional floral preservation, they inspire creativity and add a timeless charm to your writing experience.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "PressedFlowerDiaryCovers",
+    "HandmadeJournals",
+    "BotanicalArt",
+    "FloralCrafts",
+    "NatureInspired",
+    "PersonalizedStationery",
+    "UniqueGifts",
+    "ArtisticKeepsakes",
+    "EcoFriendlyDesign",
+    "FloralElegance"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:40:59.140Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:40:59.140Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "6899583b5383631a85cd00eb"
+  },
+  "customId": "GTP001",
+  "name": "Pressed Flowers",
+  "video": "https://youtu.be/ilUfZpWqk8o?si=nEkQ2-movRDBpxrs",
+  "description": "Making Pressed Flowers is the timeless art of preserving the delicate beauty of blooms by carefully flattening and drying them to retain color and shape. Rooted in centuries-old traditions, this technique allows you to capture the essence of fresh flowers and transform them into lasting decorative elements. Perfect for crafting personalized cards, bookmarks, and framed art, pressed flowers bring natural elegance to any project.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "PressedFlowers",
+    "FlowerPreservation",
+    "HandmadeArt",
+    "BotanicalCrafts",
+    "TimelessTechnique",
+    "NaturalBeauty",
+    "FloralDecor",
+    "CraftingWithNature",
+    "ArtisticKeepsakes",
+    "EcoFriendlyArt"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:40:59.131Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:40:59.131Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "6899583b5383631a85cd00ee"
+  },
+  "customId": "GTP004",
+  "name": "Frames",
+  "video": "https://youtu.be/veldbsa5blg?si=4jtZij8wdYq1cjm8",
+  "description": "Frames Using Pressed Flower Art showcase the delicate beauty of carefully preserved blooms arranged artfully within decorative frames. This timeless craft transforms natural elements into stunning wall decor that adds a touch of elegance and nature-inspired charm to any space. Handmade with patience and precision, these framed artworks make thoughtful gifts and lasting keepsakes.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "PressedFlowerFrames",
+    "BotanicalArt",
+    "HandmadeDecor",
+    "FloralCrafts",
+    "NatureInspired",
+    "ArtisticKeepsakes",
+    "EcoFriendlyArt",
+    "TimelessWallArt",
+    "UniqueGifts",
+    "FloralElegance"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:40:59.140Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:40:59.140Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "6899583b5383631a85cd00ec"
+  },
+  "customId": "GTP002",
+  "name": "Greeting Cards",
+  "video": "https://youtu.be/H_O_UuWpkpA?si=fECgKARcWv5RojQU",
+  "description": "Greeting Cards Using Pressed Flowers transform delicate, preserved blooms into beautiful, handcrafted cards that convey heartfelt emotions. By carefully arranging pressed flowers on quality cardstock, these cards blend nature’s charm with personal creativity, making every greeting unique and memorable. Rooted in traditional craft, they are perfect for special occasions, offering a timeless way to share love and appreciation.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "PressedFlowerCards",
+    "HandmadeGreetingCards",
+    "BotanicalArt",
+    "FloralCrafts",
+    "NaturalBeauty",
+    "PersonalizedGifts",
+    "ArtisticKeepsakes",
+    "EcoFriendlyCrafts",
+    "TimelessGreetings",
+    "NatureInspired"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:40:59.131Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:40:59.131Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "6899583b5383631a85cd00f0"
+  },
+  "customId": "GTP006",
+  "name": "Mobile Cases",
+  "video": "https://youtu.be/81DGn1snr40?si=mT68kPIXXXUPSoTS",
+  "description": "Mobile Cases Using Pressed Flower Art transform everyday phone accessories into unique, nature-inspired statements. By embedding carefully preserved pressed flowers into durable case designs, these handcrafted covers combine protection with floral elegance. Rooted in traditional preservation techniques, they make stylish, personalized gifts that bring a touch of natural beauty everywhere you go.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "PressedFlowerMobileCases",
+    "HandmadePhoneCases",
+    "BotanicalArt",
+    "FloralCrafts",
+    "NatureInspired",
+    "PersonalizedAccessories",
+    "UniqueGifts",
+    "ArtisticKeepsakes",
+    "EcoFriendlyDesign",
+    "FloralElegance"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:40:59.140Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:40:59.140Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "6899583b5383631a85cd00ed"
+  },
+  "customId": "GTP003",
+  "name": "Bookmarks",
+  "video": "https://youtu.be/0NEkpoAiECA?si=iZJIN4OEdzrVsSj6",
+  "description": "Bookmarks Using Pressed Flower Art beautifully preserve the delicate charm of pressed blooms within handcrafted bookmarks. This timeless art combines natural elegance with functionality, creating unique and thoughtful accessories for book lovers. Rooted in traditional craft, these bookmarks make meaningful gifts that celebrate nature’s beauty every time you turn a page.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "PressedFlowerBookmarks",
+    "HandmadeBookmarks",
+    "BotanicalArt",
+    "FloralCrafts",
+    "NatureInspired",
+    "ArtisticKeepsakes",
+    "EcoFriendlyCrafts",
+    "UniqueGifts",
+    "TimelessAccessories",
+    "BookLoversGift"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:40:59.139Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:40:59.139Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "6899583b5383631a85cd00f2"
+  },
+  "customId": "GTP008",
+  "name": "Magnets",
+  "video": "https://youtu.be/FjkaAFIhm-o?si=OXsCZWuv0h3C14BL",
+  "description": "Magnets Using Pressed Flower and Resin are charming handcrafted pieces that preserve delicate pressed blooms within glossy resin, creating unique and decorative accessories for your fridge or workspace. Combining nature’s beauty with practical use, these magnets add a personalized, artistic touch to everyday spaces. Rooted in traditional floral preservation, they make perfect eco-friendly gifts.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "PressedFlowerMagnets",
+    "ResinArt",
+    "HandmadeAccessories",
+    "BotanicalCrafts",
+    "FloralDecor",
+    "NatureInspired",
+    "UniqueGifts",
+    "ArtisticKeepsakes",
+    "EcoFriendlyCrafts",
+    "PersonalizedArt"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:40:59.140Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:40:59.140Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "6899588e5383631a85cd00f5"
+  },
+  "customId": "GTV002",
+  "name": "Pickling Cucumbers",
+  "video": "https://youtu.be/yCDLxWMnXbw?si=E8Aa-E5gQnjtBwt5",
+  "description": "Pickling Cucumbers are carefully selected fresh cucumbers preserved through traditional pickling methods that transform them into tangy, crunchy delights. Rooted in farming and culinary heritage, this preservation technique extends the shelf life of cucumbers, allowing their crisp texture and refreshing flavor to be enjoyed year-round. Pickled cucumbers are a staple accompaniment in many Indian meals, adding zest and crunch to the dining experience.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "PicklingCucumbers",
+    "TraditionalPickles",
+    "FarmFresh",
+    "PreservedVegetables",
+    "TangyDelights",
+    "IndianCuisine",
+    "CrunchySnacks",
+    "HomemadePickles",
+    "FoodPreservation",
+    "SeasonalHarvest"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:42:22.590Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:42:22.590Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "6899588e5383631a85cd00fb"
+  },
+  "customId": "GTV008",
+  "name": "Curry Leaf Powder",
+  "video": "https://youtu.be/QhY-KYyhCbw?si=ViyLU93m9kedV-vF",
+  "description": "Curry Leaf Powder is a flavorful spice made by drying and grinding fresh curry leaves, a staple in Indian kitchens. This powder, prepared using traditional methods, imparts a distinct aromatic flavor and is rich in nutrients known for digestive and health benefits. Widely used in dals, chutneys, and curries, curry leaf powder preserves the essence of fresh leaves, adding authentic taste and wellness to every dish.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "CurryLeafPowder",
+    "TraditionalSpices",
+    "AuthenticFlavors",
+    "HandmadeMasala",
+    "IndianCuisine",
+    "NutrientRich",
+    "HomemadeSpices",
+    "FlavorEnhancer",
+    "CulinaryHeritage",
+    "HealthBoost"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:42:22.592Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:42:22.592Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "6899588e5383631a85cd00f9"
+  },
+  "customId": "GTV006",
+  "name": "Usirikaya Pachadi",
+  "video": "https://youtu.be/zeWmoBt53C4?si=XxLyeXaFcEu3j7EQ",
+  "description": "Usirikaya Pachadi is a traditional Indian chutney made from the fresh, tangy Indian gooseberry (amla), known locally as usirikaya. Prepared using time-honored recipes, this pachadi balances sourness with spices, creating a refreshing accompaniment to rice and meals. Rooted in farming and culinary heritage, usirikaya pachadi preserves the seasonal fruit’s nutrients and flavor, making it a beloved staple across households.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "UsirikayaPachadi",
+    "TraditionalChutney",
+    "IndianGooseberry",
+    "AuthenticFlavors",
+    "FarmFresh",
+    "HomemadeCondiments",
+    "TangyDelights",
+    "CulinaryHeritage",
+    "NaturalIngredients",
+    "SeasonalRecipes"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:42:22.592Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:42:22.592Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "6899588e5383631a85cd00fa"
+  },
+  "customId": "GTV007",
+  "name": "Allam Pachadi",
+  "video": "https://youtu.be/aCB9Y0Jk6AA?si=8xMPuRW-kznTV5yB",
+  "description": "Allam Pachadi is a traditional ginger-based chutney cherished in Indian cuisine for its spicy, tangy, and slightly sweet flavor. Made from freshly ground ginger combined with tamarind, jaggery, and spices using authentic recipes passed down through generations, this pachadi adds a vibrant kick to meals. Rooted in farm-fresh ingredients and traditional preparation, it preserves the natural zest and warmth of ginger, enhancing the taste and health benefits of any dish.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "AllamPachadi",
+    "GingerChutney",
+    "TraditionalFlavors",
+    "AuthenticRecipes",
+    "FarmFresh",
+    "SpicyCondiments",
+    "HomemadeChutney",
+    "IndianCuisine",
+    "FlavorfulDelights",
+    "CulinaryHeritage"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:42:22.592Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:42:22.592Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "6899588e5383631a85cd00f6"
+  },
+  "customId": "GTV003",
+  "name": "Dehydrated Pumpkin Slices",
+  "video": "https://youtu.be/uJE4uSDEM7s?si=vibq_kKhHpaWUVNh",
+  "description": "Dehydrated Pumpkin Slices are thinly sliced pumpkins carefully dried using traditional or modern dehydration techniques to preserve their natural sweetness and nutrients. This method allows farmers and home cooks to extend the pumpkin’s shelf life, making it available for year-round use in soups, snacks, and baking. Dehydrated pumpkin retains its rich flavor and offers a convenient, healthy ingredient that celebrates sustainable food preservation.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "DehydratedPumpkin",
+    "SustainablePreservation",
+    "FarmFresh",
+    "HealthySnacks",
+    "NaturalDrying",
+    "SeasonalHarvest",
+    "FoodPreservation",
+    "PumpkinSlices",
+    "VersatileIngredients",
+    "LongTermStorage"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:42:22.590Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:42:22.590Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "6899588e5383631a85cd00f7"
+  },
+  "customId": "GTV004",
+  "name": "Gummadi Vadiyalu",
+  "video": "https://youtu.be/mUkMbKskuT8?si=TNWnoWw-LjjdfhYg",
+  "description": "Gummadi Vadiyalu are traditional Andhra-style dried and fried snack wraps made from tender bottle gourd (lauki) slices filled with spiced lentil or vegetable stuffing. These crispy delights showcase the art of preserving seasonal vegetables through drying and frying, allowing them to be enjoyed long after harvest. Rooted in rustic farming communities, Gummadi Vadiyalu carry the rich flavors and heritage of homemade, preserved foods perfect for snacking anytime.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "GummadiVadiyalu",
+    "TraditionalSnacks",
+    "AndhraCuisine",
+    "PreservedVegetables",
+    "FarmFresh",
+    "HomemadeDelights",
+    "CrispySnacks",
+    "FoodPreservation",
+    "AuthenticFlavors",
+    "SeasonalTreats"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:42:22.592Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:42:22.592Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "6899588e5383631a85cd00f8"
+  },
+  "customId": "GTV005",
+  "name": "Uppu Mirapakaya",
+  "video": "https://youtu.be/-u0Y9d1yf_g?si=eg6jmWwGw8iOuk9l",
+  "description": "Uppu Mirapakaya is a traditional method of preserving chili peppers by drying and salting them, enhancing their heat and flavor. This age-old technique, practiced in many Indian farming communities, allows for long-term storage and convenient use in cooking. The salted dried chilies add a fiery, tangy kick to dals, pickles, and curries, making them an essential ingredient in authentic Indian cuisine.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "UppuMirapakaya",
+    "SaltedChilies",
+    "TraditionalPreservation",
+    "SpicyFlavors",
+    "FarmFresh",
+    "IndianCuisine",
+    "LongTermStorage",
+    "AuthenticSpices",
+    "CulinaryEssentials",
+    "PreservedVegetables"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:42:22.592Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:42:22.592Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "6899588e5383631a85cd00f4"
+  },
+  "customId": "GTV001",
+  "name": "Sun-Drying Tomatoes",
+  "video": "https://youtu.be/5yTWGjPdj-g?si=x19WHYlJjOrQPDEd",
+  "description": "Sun-Drying Tomatoes is a traditional method of preserving ripe tomatoes by slowly drying them under the sun, concentrating their natural sweetness and flavor. This age-old technique, rooted in farming traditions, allows for the long-term storage of seasonal produce, turning fresh harvests into delicious, shelf-stable ingredients. Farmers have long relied on such preservation methods to enjoy the bounty throughout the year, inspiring sustainable food use and reducing waste.",
+  "category": "Art from Vegetables",
+  "hashtags": [
+    "SunDriedTomatoes",
+    "TraditionalPreservation",
+    "FarmFresh",
+    "SustainableFood",
+    "SeasonalHarvest",
+    "NaturalDrying",
+    "LongTermStorage",
+    "HomemadeIngredients",
+    "FlavorConcentrate",
+    "FoodPreservation"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:42:22.590Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:42:22.590Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689958af5383631a85cd00ff"
+  },
+  "customId": "GTB004",
+  "name": "Dried Lavender and Wheat Bouquet",
+  "video": "https://youtu.be/7-U22FHQLiE?si=b2lusMtQ8XTymTIb",
+  "description": "Dried Lavender and Wheat Bouquet blends soothing lavender with golden wheat stalks, symbolizing calm, abundance, and enduring affection. This rustic arrangement evokes peaceful countryside vibes and timeless care, perfect for expressing gratitude, serenity, or heartfelt warmth. Carefully handcrafted, it brings natural elegance and a fragrant touch to any space.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "DriedLavenderWheat",
+    "RusticBouquet",
+    "CalmAndAbundance",
+    "HandcraftedFlowers",
+    "NaturalElegance",
+    "TimelessAffection",
+    "PeacefulDecor",
+    "BotanicalBeauty",
+    "FloralArt",
+    "HeartfeltGifts"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:42:55.958Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:42:55.958Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689958af5383631a85cd0100"
+  },
+  "customId": "GTB005",
+  "name": "Colourful Dahlia Bouquet",
+  "video": "https://youtu.be/mKzzz8ub9no?si=ZpZzuysHhe1F9w39",
+  "description": "Colourful Dahlia Bouquet bursts with vibrant, multi-hued dahlias symbolizing joy, creativity, and celebration. This lively arrangement conveys heartfelt happiness and brightens any occasion with its bold colors and elegant form. Perfect for expressing admiration, gratitude, or pure delight, it’s a stunning floral gift full of life and positive energy.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "ColourfulDahliaBouquet",
+    "VibrantFlowers",
+    "JoyfulGift",
+    "CelebrationBlooms",
+    "FloralArt",
+    "HeartfeltEmotions",
+    "BrightBouquet",
+    "BotanicalBeauty",
+    "CreativeExpression",
+    "NatureInspired"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:42:55.958Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:42:55.958Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689958af5383631a85cd00fd"
+  },
+  "customId": "GTB002",
+  "name": "Mixed Wildflower Bouquet",
+  "video": "https://youtu.be/RlAKkA7eI88?si=mWZES7iRtUNR_wdF",
+  "description": "Mixed Wildflower Bouquet is a vibrant celebration of nature’s untamed beauty, symbolizing freedom, care, and heartfelt sincerity. This bouquet, bursting with colorful wild blooms, conveys a message of pure-heartedness and spontaneous affection. Perfect for those who cherish uniqueness and natural charm, it’s an ideal gift to brighten spirits and express warm, genuine emotions.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "MixedWildflowerBouquet",
+    "NaturalBeauty",
+    "HeartfeltGifts",
+    "WildflowerMagic",
+    "PureAffection",
+    "FloralCharm",
+    "RusticElegance",
+    "GenuineEmotions",
+    "UniqueBouquet",
+    "NatureInspired"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:42:55.958Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:42:55.958Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689958af5383631a85cd0101"
+  },
+  "customId": "GTB006",
+  "name": "Mini Succulent Arrangement",
+  "video": "https://youtu.be/7jPavnl-dx8?si=mtV8rdzD1-7fLbvQ",
+  "description": "Mini Succulent Arrangement is a charming collection of tiny, hardy succulents that symbolize resilience, care, and lasting affection. Perfectly arranged in a compact design, this miniature garden brings a touch of green elegance to any space. Ideal as a thoughtful gift, it expresses nurturing love and appreciation with its low-maintenance beauty.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "MiniSucculentArrangement",
+    "SucculentGifts",
+    "GreenDecor",
+    "ResilientPlants",
+    "ThoughtfulGifts",
+    "BotanicalCharm",
+    "NatureInspired",
+    "LastingAffection",
+    "CompactGarden",
+    "EasyCarePlants"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:42:55.958Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:42:55.958Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689958af5383631a85cd0102"
+  },
+  "customId": "GTB007",
+  "name": "Marigold Garland",
+  "video": "https://youtu.be/xF7I4w0P0DY?si=gcwWYhUOVzDig9PL",
+  "description": "Marigold Garland is a vibrant, fragrant arrangement traditionally used to adorn the necks of deities and sanctify spaces in Indian culture. Symbolizing purity, devotion, and positive energy, these bright orange and yellow blossoms bring warmth and spiritual blessing. Handcrafted with care, the marigold garland is perfect for festive occasions, religious ceremonies, or as a meaningful gift expressing reverence and goodwill.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "MarigoldGarland",
+    "SacredFlowers",
+    "TraditionalDecor",
+    "SpiritualBlessings",
+    "FestiveFloral",
+    "DevotionalArt",
+    "HandmadeGarland",
+    "PositiveEnergy",
+    "IndianCulture",
+    "FloralTradition"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:42:55.958Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:42:55.958Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689958af5383631a85cd00fc"
+  },
+  "customId": "GTB001",
+  "name": "Red Rose Bouquet",
+  "video": "https://youtu.be/Ijr4rBUYT3s?si=QMNNng5uEkHIpWMd",
+  "description": "Red Rose Bouquet is the timeless symbol of love and passion, carefully arranged to convey deep affection and heartfelt emotions. Each velvety red rose in the bouquet speaks the language of romance, making it the perfect gift to express devotion, admiration, or a pure, loving heart. Crafted with care and elegance, this bouquet captures the essence of timeless love, creating moments that linger forever.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "RedRoseBouquet",
+    "SymbolOfLove",
+    "RomanticFlowers",
+    "HeartfeltGifts",
+    "TimelessRomance",
+    "FloralExpressions",
+    "LoveInBloom",
+    "ElegantBouquet",
+    "PureAffection",
+    "PassionateGifts"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:42:55.958Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:42:55.958Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689958af5383631a85cd00fe"
+  },
+  "customId": "GTB003",
+  "name": "Herbal Bouquet",
+  "video": "https://youtu.be/zEuxDk6cOmM?si=l0q9XCpxuF1QlFMq",
+  "description": "Herbal Bouquet is a thoughtful assembly of aromatic herbs and delicate blooms, symbolizing healing, care, and nurturing love. Crafted with fresh, fragrant herbs like rosemary, lavender, and mint, this bouquet conveys warmth and wellness, making it a perfect gift for comforting someone or expressing gentle affection. Rooted in nature’s healing touch, it’s a beautiful blend of beauty and purpose.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "HerbalBouquet",
+    "HealingFlowers",
+    "AromaticHerbs",
+    "ThoughtfulGifts",
+    "NurturingLove",
+    "NatureInspired",
+    "WellnessBouquet",
+    "FloralCare",
+    "BotanicalHealing",
+    "GentleAffection"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:42:55.958Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:42:55.958Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+},
+{
+  "_id": {
+    "$oid": "689ad5215c2698651639ecaa"
+  },
+  "customId": "GTB008",
+  "name": "Chrysanthemum Bouquet",
+  "video": "https://youtu.be/8mA9j_3PPQI?si=N5hcg7ca030UEzk4",
+  "description": "Chrysanthemum Bouquet features elegant blooms symbolizing loyalty, honesty, and friendship. These vibrant flowers convey heartfelt emotions and bring a sense of grace and warmth to any occasion. Perfect for expressing sincere care or celebrating special moments, this bouquet blends traditional floral beauty with meaningful sentiment.",
+  "category": "Art from Flowers",
+  "hashtags": [
+    "ChrysanthemumBouquet",
+    "ElegantBlooms",
+    "HeartfeltGifts",
+    "FloralExpressions",
+    "MeaningfulFlowers",
+    "FriendshipSymbols",
+    "BotanicalBeauty",
+    "ThoughtfulGifts",
+    "TimelessElegance",
+    "NatureInspired"
+  ],
+  "createdAt": {
+    "$date": "2025-08-12T05:46:09.504Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-12T05:46:09.504Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GardenToTableEntity"
+}]

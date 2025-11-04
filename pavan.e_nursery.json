@@ -1,0 +1,2197 @@
+[{
+  "_id": {
+    "$oid": "68989e5a5383631a85cd008a"
+  },
+  "customId": "ENS001",
+  "name": "Cherry Tomato",
+  "originalPrice": 100,
+  "discount": 40,
+  "finalPrice": 60,
+  "weight": [
+    "10 gms"
+  ],
+  "description": "Premium quality red Cherry Tomato seeds which is very good for salads and dressings and a great choice for sauces and dals, 10 g pack with a high germination rate of 85–90%, ideal for home gardens and terrace pots.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://cdn.mos.cms.futurecdn.net/WaZM7X6HxT5pEZQThL9TLE-1200-80.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyq4DGaOY6iVPwvwWjv4u5mRktowRBvwClLA&s",
+    "https://femina.wwmindia.com/thumb/content/2023/aug/tomatoes-11693388892.jpg?width=720&height=960",
+    "https://img500.exportersindia.com/product_images/bc-500/2022/5/1573867/tomato-seeds-1651554311-6319499.jpeg"
+  ],
+  "category": "seeds",
+  "searchWords": [
+    "cherry",
+    "tomato",
+    "seeds",
+    "vegetable",
+    "organic",
+    "garden"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:27:54.560Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-12T04:38:43.813Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "68989eac5383631a85cd008b"
+  },
+  "customId": "ENS002",
+  "name": "Sunflower Seeds",
+  "originalPrice": 80,
+  "discount": 25,
+  "finalPrice": 60,
+  "weight": [
+    "30 gms"
+  ],
+  "description": "High-quality Sunflower seeds, 30 g pack (~45 seeds) with an excellent germination rate of 85%, perfect for vibrant garden blooms and pollinator attraction.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://gardendost.com/wp-content/uploads/2022/03/sunflower.webp",
+    "https://gonefarmers.com/cdn/shop/products/D28E109C-92C8-492A-811C-4D0D92EA5E39.jpg?v=1597888528",
+    "https://www.allthatgrows.in/cdn/shop/products/Sunflower_Sunset_-_1.jpg?v=1571036458",
+    "https://5.imimg.com/data5/SELLER/Default/2022/5/ZB/HR/HI/105040311/indian-sunflower-seeds-250x250.jpeg"
+  ],
+  "category": "seeds",
+  "searchWords": [
+    "sunflower",
+    "seeds",
+    "garden",
+    "pollinator",
+    "flower",
+    "organic"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:29:16.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:29:16.165Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "68989ecb5383631a85cd008c"
+  },
+  "customId": "ENS003",
+  "name": "Spinach (Organic) Seeds",
+  "originalPrice": 90,
+  "discount": 20,
+  "finalPrice": 72,
+  "weight": [
+    "100 gms"
+  ],
+  "description": "Premium organic Spinach seeds, 100 g pack with a germination rate of 90%, ideal for nutrient-rich leafy harvests in home gardens and farms.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "Available",
+  "images": [
+    "https://freshindiaorganics.com/cdn/shop/products/Spinach-Edited.jpg?v=1569230059",
+    "https://prabhaorganics.com/cdn/shop/files/WhatsAppImage2023-08-15at1.10.36PM.jpg?v=1692089100",
+    "https://www.greendna.in/cdn/shop/files/palak2_1200x1200.jpg?v=1715600291",
+    "https://www.agrifarming.in/wp-content/uploads/2020/07/green-2565925_1920.jpg"
+  ],
+  "category": "seeds",
+  "searchWords": [
+    "spinach",
+    "organic",
+    "seeds",
+    "leafy",
+    "vegetable",
+    "garden"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:29:47.084Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:29:47.084Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "68989eec5383631a85cd008d"
+  },
+  "customId": "ENS004",
+  "name": "Green Chilli Seeds",
+  "originalPrice": 80,
+  "discount": 15,
+  "finalPrice": 68,
+  "weight": [
+    "25 gms"
+  ],
+  "description": "High-quality Green Chilli seeds, 25 g pack with a germination rate of 85%, producing spicy and aromatic fruits suitable for kitchen gardens and farms.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "Available",
+  "images": [
+    "https://www.asiafarming.com/wp-content/uploads/2022/08/Grow-Green-Chilli-4.jpg",
+    "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/5a167894463a877a59b4cd0d3722ef34",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS56b_1tJN1J38-OJbtyCf86cZ5Hcdj5HGKw&s"
+  ],
+  "category": "seeds",
+  "searchWords": [
+    "green",
+    "chilli",
+    "seeds",
+    "spicy",
+    "vegetable",
+    "garden"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:30:20.284Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:30:20.284Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "68989f0c5383631a85cd008e"
+  },
+  "customId": "ENS005",
+  "name": "Zinnia Mixed Flower Seeds",
+  "originalPrice": 70,
+  "discount": 10,
+  "finalPrice": 63,
+  "weight": [
+    "15 gms"
+  ],
+  "description": "Premium mixed Zinnia flower seeds, 5 g pack with a germination rate of 85%, producing vibrant blooms in various colors ideal for home gardens and landscapes.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "Available",
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuP4E2SKOlAm68xzK5bP9BEzrTR2zLQLJH9w&s",
+    "https://cdn.mos.cms.futurecdn.net/cjLqqoVNuMjgWe7yVKGzm3.jpg",
+    "https://seedsnpots.com/wp-content/uploads/2018/02/zinnia-dahlia-2.jpg",
+    "https://www.reinventeddelaware.com/wp-content/uploads/2024/09/Harvest-Zinnia-Seeds-10.jpg"
+  ],
+  "category": "seeds",
+  "searchWords": [
+    "zinnia",
+    "mixed",
+    "flower",
+    "seeds",
+    "garden",
+    "colorful"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:30:52.644Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:30:52.644Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "68989f2a5383631a85cd008f"
+  },
+  "customId": "ENS006",
+  "name": "Marigold Desi Yellow Seeds",
+  "originalPrice": 65,
+  "discount": 10,
+  "finalPrice": 58,
+  "weight": [
+    "15 gms"
+  ],
+  "description": "High-quality Desi Yellow Marigold seeds, 5 g pack with a germination rate of 85%, producing bright yellow blooms perfect for garlands, puja, and ornamental gardening.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "Available",
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJTXpCJ2bzoOytt7p4Xb_j0Z-uSP5nm8NKQQ&s",
+    "https://cdn.shopify.com/s/files/1/0432/7938/4737/files/Marigoldseedquestions_600x600.jpg?v=1708096784",
+    "https://goldenhillsfarm.in/media/product_images/yhedg.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnPmxDzSMRhllkxiFbq7OmchV4eWmaIWAwzg&s"
+  ],
+  "category": "seeds",
+  "searchWords": [
+    "marigold",
+    "desi",
+    "yellow",
+    "seeds",
+    "flower",
+    "garden"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:31:22.455Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:31:22.455Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "68989f5a5383631a85cd0090"
+  },
+  "customId": "ENS007",
+  "name": "Keera (Cucumber) Seeds",
+  "originalPrice": 70,
+  "discount": 10,
+  "finalPrice": 63,
+  "weight": [
+    "20 gms"
+  ],
+  "description": "Premium Desi Cucumber seeds, 10 g pack with an excellent 85% germination rate, producing crisp and juicy cucumbers ideal for fresh salads and pickling.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "Available",
+  "images": [
+    "https://prabhaorganics.com/cdn/shop/files/Untitled-design-2022-12-19T160139.535.jpg?v=1708605758",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQedwUCez341jv3P_L6nWwf1c_oJR9tl0QjYQ&s",
+    "https://freshclub.co.in/cdn/shop/files/cucumberslice3_760x_a161fc37-51de-4abe-acb5-e9c948081ea9.webp?v=1693727019",
+    "https://images.herzindagi.info/image/2019/Jan/cucumber-seeds-health-benefits-main.jpg"
+  ],
+  "category": "seeds",
+  "searchWords": [
+    "keera",
+    "cucumber",
+    "seeds",
+    "desi",
+    "vegetable",
+    "garden"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:32:10.735Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:32:10.735Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "68989f6b5383631a85cd0091"
+  },
+  "customId": "ENS008",
+  "name": "Red Okra (Lady’s Finger) Seeds",
+  "originalPrice": 85,
+  "discount": 10,
+  "finalPrice": 76,
+  "weight": [
+    "10 gms"
+  ],
+  "description": "High-quality Red Okra seeds, 10 g pack with an 80% germination rate, producing tender, nutrient-rich pods with a striking red color perfect for culinary use.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://seedsnpots.com/wp-content/uploads/2020/01/bhindi-red.jpg",
+    "https://m.media-amazon.com/images/I/41po1jKeZtL._UF350,350_QL80_.jpg",
+    "https://samsgardenstore.com/cdn/shop/files/RedOkra_Benda_DesiVegetableSeeds_Bendakaya_e43f0f79-5a8f-4806-9844-c1fe342b7dda.webp?v=1726145919",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4B-zIe1O_v_m93cKlt1kcQqwRR6HcLk36JQ&s"
+  ],
+  "category": "seeds",
+  "searchWords": [
+    "red",
+    "okra",
+    "lady’s finger",
+    "seeds",
+    "vegetable",
+    "garden"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:32:27.395Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:32:27.395Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "68989f8b5383631a85cd0092"
+  },
+  "customId": "ENS009",
+  "name": "Yellow Bell Pepper Seeds",
+  "originalPrice": 95,
+  "discount": 10,
+  "finalPrice": 85,
+  "weight": [
+    "15 gms"
+  ],
+  "description": "Premium quality Yellow Bell Pepper seeds, 5 g pack with an 85% germination rate, producing thick-walled, sweet, and vibrant yellow fruits ideal for salads and cooking.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://gardenerspath.com/wp-content/uploads/2019/03/Grow-Bell-Peppers-in-the-Home-Garden.jpg",
+    "https://greenparadiselive.com/cdn/shop/products/bellpepperseeds_1200x1200.jpg?v=1713510616",
+    "https://bonnieplants.com/cdn/shop/products/yellow-bell-pepper.jpg?v=1642630029",
+    "https://i.etsystatic.com/18669781/r/il/0aaeae/3102190165/il_fullxfull.3102190165_903g.jpg"
+  ],
+  "category": "seeds",
+  "searchWords": [
+    "yellow",
+    "bell pepper",
+    "seeds",
+    "vegetable",
+    "sweet",
+    "garden"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:32:59.856Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:32:59.856Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "68989f9a5383631a85cd0093"
+  },
+  "customId": "ENS010",
+  "name": "Purple Clove Beans Seeds",
+  "originalPrice": 85,
+  "discount": 10,
+  "finalPrice": 76,
+  "weight": [
+    "20 gms"
+  ],
+  "description": "High-quality Purple Clove Beans seeds, 20 g pack with an 80% germination rate, producing vibrant purple pods with tender texture and rich flavor, perfect for home gardens.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://samsgardenstore.com/cdn/shop/files/CloveBeansPurple.webp?v=1726217423",
+    "https://storeassets.im-cdn.com/products/c5d790/oLHZ8CDRp6rtASqmd0Z3_FB_IMG_1614179756524_0x0_webp.jpg",
+    "https://www.csrorganics.com/image/cache/catalog/Product/seeds/greens/csr-organics-organic-terrace-garden-clove-beans-Ipomoea-4-270x270.jpg",
+    "https://seedsandsmiles.com/cdn/shop/files/maxresdefault_f4f56f29-b770-424e-aa15-ba78adb70b00_grande.jpg?v=1684648596"
+  ],
+  "category": "seeds",
+  "searchWords": [
+    "purple",
+    "clove beans",
+    "seeds",
+    "vegetable",
+    "garden",
+    "organic"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:33:14.718Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:33:14.718Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "6898a01b5383631a85cd0094"
+  },
+  "customId": "ENP001",
+  "name": "Mango Plant(Alphonso)",
+  "originalPrice": 299,
+  "discount": 15,
+  "finalPrice": 254,
+  "description": "Healthy grafted Mango plant, 1-year-old, carefully nurtured for strong growth. Packed with high-quality protective materials to ensure the plant survives the journey and reaches you in excellent condition.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Nu4wg67LsTjxF6Edu7vZnxcLgeCeYh59zA&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Nu4wg67LsTjxF6Edu7vZnxcLgeCeYh59zA&s",
+    "https://5.imimg.com/data5/QO/AK/XS/ANDROID-14146599/1585567520141-jpg-500x500.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk9Q1mW8YZWW9IykCiC0wAveRVFcacIS7t7A&s"
+  ],
+  "category": "plants",
+  "searchWords": [
+    "mango",
+    "alphonso",
+    "plant",
+    "grafted",
+    "fruit",
+    "garden"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:35:23.985Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:35:23.985Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "6898a04b5383631a85cd0095"
+  },
+  "customId": "ENP002",
+  "name": "Rose Red Naatu Plant",
+  "originalPrice": 199,
+  "discount": 10,
+  "finalPrice": 179,
+  "description": "Vibrant desi red rose plant, 6-month-old, non-grafted, known for its rich fragrance and traditional charm. Packed securely with high-quality materials to ensure the plant’s survival and freshness during transit.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://rosenursery.co/wp-content/uploads/2024/09/download-6.jpeg",
+    "https://5.imimg.com/data5/SELLER/Default/2021/7/RC/MG/QU/68139278/button-rose-red-500x500.jpg",
+    "https://i.ytimg.com/vi/Q0osy8Yk-R4/maxresdefault.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_J9lyUJxh3D52JU-tEf0Jw1xCqGQR5L9GAw&s"
+  ],
+  "category": "plants",
+  "searchWords": [
+    "rose",
+    "red",
+    "naatu",
+    "plant",
+    "flower",
+    "garden"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:36:11.308Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:36:11.308Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "6898a05b5383631a85cd0096"
+  },
+  "customId": "ENP003",
+  "name": "Bougainvillea Plant(pink)",
+  "originalPrice": 249,
+  "discount": 12,
+  "finalPrice": 219,
+  "description": "Hardy, 1-year-old bougainvillea plant, non-grafted, with vibrant blooms in shades of pink and magenta. Known for low maintenance and year-round flowering in warm climates. Packed with care to ensure safe arrival and survival during transit.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://m.media-amazon.com/images/I/51c2XOE9R+L._UF1000,1000_QL80_.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsmR_K9oGdpmpMMCYNERYaMWqLxfyOIIKb4g&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTskcN5VmJOfzesrGgHFJ5WgljDn7ZIu14IMw&s",
+    "https://m.media-amazon.com/images/I/71V8CQ4iMLL._UF350,350_QL80_.jpg"
+  ],
+  "category": "plants",
+  "searchWords": [
+    "bougainvillea",
+    "pink",
+    "plant",
+    "flower",
+    "garden",
+    "hardy"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:36:27.342Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:36:27.342Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "6898a0705383631a85cd0097"
+  },
+  "customId": "ENP004",
+  "name": "Money Plant (Golden Pothos)",
+  "originalPrice": 149,
+  "discount": 10,
+  "finalPrice": 135,
+  "description": "Healthy, 6-month-old money plant, non-grafted, known for lush green-golden leaves and excellent indoor air-purifying qualities. Packed securely to retain freshness and ensure survival during shipping.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://budsnblush.com/cdn/shop/files/Spring_Starter_Pack_Flowers_Instagram_Post_Instagram_Post__o6b6QGiC2y.jpg?v=1730602659",
+    "https://www.urvann.com/s/6176774ef575bbd2b3331c8a/6874a7d516fbc480b89d41af/11.jpg",
+    "https://m.media-amazon.com/images/I/71V8CQ4iMLL._UF350,350_QL80_.jpg"
+  ],
+  "category": "plants",
+  "searchWords": [
+    "money plant",
+    "golden pothos",
+    "indoor",
+    "plant",
+    "air-purifying",
+    "green"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:36:48.857Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:36:48.857Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "6898a0805383631a85cd0098"
+  },
+  "customId": "ENP005",
+  "name": "Guava Red Inside",
+  "originalPrice": 199,
+  "discount": 15,
+  "finalPrice": 170,
+  "description": "Healthy 1-year-old grafted red guava plant, known for its sweet, pink-red flesh and high yield. Carefully packed to maintain plant health and ensure it survives the journey intact.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSGm7V4rQSQjxzZgYTBH9h2dGf3JyUNSOwbA&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAd20U8974v0osMd_ZyatyrH_XEaHW3FzWCA&s",
+    "https://royalsplant.com/wp-content/uploads/2024/04/6d9e1658-ef0d-4d8e-91f9-6d6251d25b17.webp",
+    "https://m.media-amazon.com/images/I/71V8CQ4iMLL._UF350,350_QL80_.jpg"
+  ],
+  "category": "plants",
+  "searchWords": [
+    "guava",
+    "red",
+    "grafted",
+    "plant",
+    "fruit",
+    "garden"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:37:04.651Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:37:04.651Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "6898a0925383631a85cd0099"
+  },
+  "customId": "ENP006",
+  "name": "Snake Plant (Sansevieria)",
+  "originalPrice": 249,
+  "discount": 20,
+  "finalPrice": 200,
+  "description": "Hardy, air-purifying snake plant around 8–10 inches tall, perfect for indoor décor and low-maintenance gardening. Packed securely to keep leaves fresh and plant healthy during transit.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://m.media-amazon.com/images/I/715ow8JqF8L._UF1000,1000_QL80_.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6LkxVm3IOGNcGY7vs0Jw6bp3gAzmrlOdQew&s",
+    "https://static.toiimg.com/photo/112611465/112611465.jpg",
+    "https://m.media-amazon.com/images/I/71V8CQ4iMLL._UF350,350_QL80_.jpg"
+  ],
+  "category": "plants",
+  "searchWords": [
+    "snake plant",
+    "sansevieria",
+    "air-purifying",
+    "indoor",
+    "plant",
+    "decor"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:37:22.906Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:37:22.906Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "6898a0a35383631a85cd009a"
+  },
+  "customId": "ENP007",
+  "name": "Aloe Vera Plant",
+  "originalPrice": 199,
+  "discount": 25,
+  "finalPrice": 150,
+  "description": "Healthy Aloe Vera plant around 8–10 inches tall, known for its medicinal and skincare benefits, shipped with roots intact and leaves protected to ensure survival during delivery.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDMhwyHmVQUex4cFiYhN0ajlMPcSQ46LIOw&s",
+    "https://unlimitedgreens.com/cdn/shop/products/Aloe-Vera-Website-Front.webp?crop=center&height=600&v=1676457070&width=600",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQY08PfzT3zDfUgMOZPOfCSnnYY46T7jEowg&s",
+    "https://m.media-amazon.com/images/I/71V8CQ4iMLL._UF350,350_QL80_.jpg"
+  ],
+  "category": "plants",
+  "searchWords": [
+    "aloe vera",
+    "plant",
+    "medicinal",
+    "skincare",
+    "succulent",
+    "indoor"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:37:39.310Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:37:39.310Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "6898a0b45383631a85cd009b"
+  },
+  "customId": "ENP008",
+  "name": "Jasmine Plant",
+  "originalPrice": 180,
+  "discount": 20,
+  "finalPrice": 145,
+  "description": "Fragrant Jasmine plant around 10–12 inches tall, ideal for home gardens and balconies, shipped in secure packaging to keep the plant fresh and safe until delivery.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://m.media-amazon.com/images/I/41e1LA0W3jL._UF1000,1000_QL80_.jpg",
+    "https://cdn.britannica.com/56/197956-050-5062911A/Arabian-jasmine.jpg",
+    "https://www.trustbasket.com/cdn/shop/articles/Jasmine_2.webp?v=1687165677",
+    "https://m.media-amazon.com/images/I/71V8CQ4iMLL._UF350,350_QL80_.jpg"
+  ],
+  "category": "plants",
+  "searchWords": [
+    "jasmine",
+    "plant",
+    "fragrant",
+    "flower",
+    "garden",
+    "balcony"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:37:56.834Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:37:56.834Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "6898a0c65383631a85cd009c"
+  },
+  "customId": "ENP009",
+  "name": "Starfruit (Carambola) Plant",
+  "originalPrice": 320,
+  "discount": 15,
+  "finalPrice": 270,
+  "description": "Healthy grafted Starfruit plant, approximately 1.5–2 feet tall, ready to be grown in pots or gardens, shipped with premium packing to ensure freshness and safe arrival.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://exoticflora.in/cdn/shop/products/U85KHpXG58_900x.jpg?v=1598864565",
+    "https://m.media-amazon.com/images/I/61C9zp7j13L._UF1000,1000_QL80_.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe-DtIzH0kowuIryTqyV9tl9_ZJ6jfAlA-uw&s",
+    "https://m.media-amazon.com/images/I/71V8CQ4iMLL._UF350,350_QL80_.jpg"
+  ],
+  "category": "plants",
+  "searchWords": [
+    "starfruit",
+    "carambola",
+    "plant",
+    "grafted",
+    "fruit",
+    "garden"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:38:14.867Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:38:14.867Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "6898a0cc5383631a85cd009d"
+  },
+  "customId": "ENP010",
+  "name": "White Hybrid Rose Plant",
+  "originalPrice": 280,
+  "discount": 10,
+  "finalPrice": 250,
+  "description": "Premium grafted White Hybrid Rose plant, 1.5–2 feet tall, producing elegant pure white blooms, shipped in high-quality packaging to ensure plant health and survival during transit.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://www.jiomart.com/images/product/original/rvnqvdjofs/cloud-farm-hybrid-white-rose-plant-200-mm-cf_a423-product-images-orvnqvdjofs-p602995763-2-202307071319.jpg?im=Resize=(420,420)",
+    "https://m.media-amazon.com/images/I/41WjKWmhfnL._UF1000,1000_QL80_.jpg",
+    "https://images.jdmagicbox.com/quickquotes/images_main/hybrid-rose-plant-yellow-g07akca8.jpg",
+    "https://m.media-amazon.com/images/I/71V8CQ4iMLL._UF350,350_QL80_.jpg"
+  ],
+  "category": "plants",
+  "searchWords": [
+    "white",
+    "hybrid",
+    "rose",
+    "plant",
+    "flower",
+    "grafted"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:38:20.549Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:38:20.549Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "6898a0fa5383631a85cd009e"
+  },
+  "customId": "ENT001",
+  "name": "Hand Trowel",
+  "originalPrice": 160,
+  "discount": 12,
+  "finalPrice": 140,
+  "description": "Durable stainless-steel hand trowel with ergonomic grip, ideal for planting, transplanting, and soil loosening; rust-resistant and lightweight for long-term garden use.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://m.media-amazon.com/images/I/51jA+fU9d0L._UF1000,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/51bwxRIWJjL._SX425_.jpg",
+    "https://m.media-amazon.com/images/I/51Si7EycBvL._SX425_.jpg"
+  ],
+  "category": "tools",
+  "searchWords": [
+    "hand trowel",
+    "garden tool",
+    "planting",
+    "transplanting",
+    "soil loosening",
+    "stainless steel"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:39:06.150Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-12T04:39:53.384Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "6898a1185383631a85cd009f"
+  },
+  "customId": "ENT002",
+  "name": "Pruning Shears",
+  "originalPrice": 220,
+  "discount": 14,
+  "finalPrice": 190,
+  "description": "High-quality carbon steel pruning shears with non-slip handles, perfect for precise cutting of stems and small branches; spring-loaded mechanism for smooth operation.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://m.media-amazon.com/images/I/51XItov4yVL._SX425_.jpg",
+    "https://m.media-amazon.com/images/I/71ue7Es6OCL._SX425_.jpg",
+    "https://m.media-amazon.com/images/I/71w-k7Af68L._SX425_.jpg"
+  ],
+  "category": "tools",
+  "searchWords": [
+    "pruning shears",
+    "garden tool",
+    "carbon steel",
+    "cutting",
+    "branches",
+    "spring loaded"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:39:36.578Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:39:36.578Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "6898a12b5383631a85cd00a0"
+  },
+  "customId": "ENT003",
+  "name": "Garden Hoe",
+  "originalPrice": 250,
+  "discount": 12,
+  "finalPrice": 220,
+  "description": "Durable garden hoe with a sturdy metal blade and wooden handle, ideal for weeding, loosening soil, and shaping garden beds.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://m.media-amazon.com/images/I/2157SP5MlPS._SX300_SY300_QL70_FMwebp_.jpg",
+    "https://m.media-amazon.com/images/I/31Yt4+EB+qL._SY450_.jpg"
+  ],
+  "category": "tools",
+  "searchWords": [
+    "garden hoe",
+    "weeding",
+    "soil loosening",
+    "garden tool",
+    "metal blade",
+    "wooden handle"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:39:55.956Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:39:55.956Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "6898a13f5383631a85cd00a1"
+  },
+  "customId": "ENT004",
+  "name": "Garden Hand Fork",
+  "originalPrice": 180,
+  "discount": 10,
+  "finalPrice": 160,
+  "description": "Strong and rust-resistant 3-prong hand fork with ergonomic wooden handle, perfect for loosening soil, aerating, and removing weeds in garden beds and pots.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://m.media-amazon.com/images/I/61boH-ol5uL._SX425_.jpg",
+    "https://m.media-amazon.com/images/I/61JYPlyOibL._SX425_.jpg",
+    "https://m.media-amazon.com/images/I/71msNzRpJiL._SX425_.jpg"
+  ],
+  "category": "tools",
+  "searchWords": [
+    "garden hand fork",
+    "3-prong",
+    "soil loosening",
+    "aerating",
+    "weed removal",
+    "wooden handle"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:40:15.178Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:40:15.178Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "6898a1855383631a85cd00a2"
+  },
+  "customId": "ENT005",
+  "name": "Watering Can",
+  "originalPrice": 350,
+  "discount": 15,
+  "finalPrice": 300,
+  "description": "Durable 5-liter plastic watering can with detachable sprinkler head, designed for even water distribution in gardens, pots, and seedbeds.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://m.media-amazon.com/images/I/31Sf+rCMsxL._SY300_SX300_.jpg",
+    "https://m.media-amazon.com/images/I/61XfL72FIcL._SX425_.jpg",
+    "https://m.media-amazon.com/images/I/817VN83i1jL._SX425_.jpg"
+  ],
+  "category": "tools",
+  "searchWords": [
+    "watering can",
+    "garden",
+    "plastic",
+    "sprinkler",
+    "5 liter",
+    "watering"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:41:25.845Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:41:25.845Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "6898a18c5383631a85cd00a3"
+  },
+  "customId": "ENT006",
+  "name": "Garden Rake (Small)",
+  "originalPrice": 280,
+  "discount": 10,
+  "finalPrice": 250,
+  "description": "Compact 8-inch steel rake with ergonomic wooden handle, ideal for loosening soil, clearing debris, and maintaining small garden beds.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://m.media-amazon.com/images/I/41ky6daY+yL._SY300_SX300_.jpg",
+    "https://m.media-amazon.com/images/I/81BEJ4xfVtL._SX425_.jpg",
+    "https://m.media-amazon.com/images/I/811YUMCQqTL._SX425_.jpg"
+  ],
+  "category": "tools",
+  "searchWords": [
+    "garden rake",
+    "small rake",
+    "soil loosening",
+    "steel",
+    "wooden handle",
+    "garden tool"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:41:32.977Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:41:32.977Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "6898a1a35383631a85cd00a5"
+  },
+  "customId": "ENT007",
+  "name": "Transplanting Trowel",
+  "originalPrice": 220,
+  "discount": 10,
+  "finalPrice": 200,
+  "description": "Narrow, stainless-steel blade with depth markings, perfect for precise planting and transplanting seedlings with minimal root disturbance.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://m.media-amazon.com/images/I/31GIy6PLA2L._SX300_SY300_QL70_FMwebp_.jpg",
+    "https://m.media-amazon.com/images/I/61LKqh6tXlL._SY450_.jpg",
+    "https://m.media-amazon.com/images/I/81RDgXniDJL._SY450_.jpg"
+  ],
+  "category": "tools",
+  "searchWords": [
+    "transplanting trowel",
+    "stainless steel",
+    "planting",
+    "seedlings",
+    "garden tool",
+    "depth markings"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:41:55.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:41:55.046Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "6898a1c05383631a85cd00a6"
+  },
+  "customId": "ENT008",
+  "name": "Garden Gloves",
+  "originalPrice": 150,
+  "discount": 10,
+  "finalPrice": 135,
+  "description": "Durable, breathable fabric with reinforced fingertips and non-slip grip, ideal for protecting hands while planting, pruning, or handling soil.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://m.media-amazon.com/images/I/61109SNT91L._SX300_SY300_QL70_FMwebp_.jpg",
+    "https://m.media-amazon.com/images/I/81yn7DsTAxL._SX425_.jpg",
+    "https://m.media-amazon.com/images/I/612PV-XoSiL._SX425_.jpg"
+  ],
+  "category": "tools",
+  "searchWords": [
+    "garden gloves",
+    "breathable",
+    "non-slip grip",
+    "reinforced fingertips",
+    "planting gloves",
+    "pruning gloves"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:42:24.230Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:42:24.230Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "6898a1cf5383631a85cd00a7"
+  },
+  "customId": "ENT009",
+  "name": "Hedge Shears",
+  "originalPrice": 480,
+  "discount": 10,
+  "finalPrice": 430,
+  "description": "High-quality steel blades with ergonomic handles, perfect for trimming and shaping hedges with precision and ease.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://m.media-amazon.com/images/I/71vaholjgWL._SX425_.jpg",
+    "https://m.media-amazon.com/images/I/71tm-rlaWCL._SX425_.jpg",
+    "https://m.media-amazon.com/images/I/61cIbJBsPWL._SX425_.jpg"
+  ],
+  "category": "tools",
+  "searchWords": [
+    "hedge shears",
+    "garden tool",
+    "steel blades",
+    "trimming",
+    "shaping",
+    "ergonomic handles"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:42:39.351Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:42:39.351Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "6898a1d65383631a85cd00a8"
+  },
+  "customId": "ENT010",
+  "name": "Soil Scoop",
+  "originalPrice": 220,
+  "discount": 15,
+  "finalPrice": 185,
+  "description": "Durable stainless steel scoop with a comfortable grip, ideal for scooping soil, compost, or fertilizers with ease.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://m.media-amazon.com/images/I/31BsHEVziZL._SX300_SY300_QL70_FMwebp_.jpg",
+    "https://m.media-amazon.com/images/I/61uPksVwhSL._SY450_.jpg",
+    "https://m.media-amazon.com/images/I/71bfhTmmT1L._SY450_.jpg"
+  ],
+  "category": "tools",
+  "searchWords": [
+    "soil scoop",
+    "stainless steel",
+    "garden tool",
+    "soil",
+    "compost",
+    "fertilizer scoop"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T13:42:46.723Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T13:42:46.723Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689953525383631a85cd00a9"
+  },
+  "customId": "ENM001",
+  "name": "Organic Soil Mix",
+  "originalPrice": 80,
+  "discount": 10,
+  "finalPrice": 72,
+  "weight": [
+    "1kg",
+    "100g",
+    "500g",
+    "2kg",
+    "5kg"
+  ],
+  "description": "Premium blend made from decomposed cow dung, composted kitchen waste, coco peat, neem cake powder, and natural minerals, processed through aerobic composting to retain maximum nutrients for healthy plant growth. Suitable for vegetables, flowers, and indoor plants.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN5acGxgzCkwjmQG3W9EHVOwuyH-W1E53_vg&s",
+    "https://goldenhillsfarm.in/media/ckeditor_uploads/2024/08/05/organic-potting-soil-20l-bag-870625_2000x.jpg"
+  ],
+  "category": "soils",
+  "searchWords": [
+    "organic soil mix",
+    "soil",
+    "compost",
+    "potting soil",
+    "organic fertilizer",
+    "garden soil"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:20:02.109Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:20:02.109Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689953765383631a85cd00aa"
+  },
+  "customId": "ENM002",
+  "name": "Cocopeat Block",
+  "originalPrice": 90,
+  "discount": 15,
+  "finalPrice": 77,
+  "weight": [
+    "650g",
+    "5kg"
+  ],
+  "description": "100% natural and eco-friendly growing medium made from coconut husk fiber, ideal for seed starting, soil conditioning, and water retention. Expands up to 5–6 times its volume when soaked in water, ensuring excellent aeration for plant roots.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://plantlane.com/cdn/shop/products/PLCocopeat1.jpg?v=1681891462",
+    "https://rukminim2.flixcart.com/image/704/844/khuvxjk0-0/soil-manure/b/q/x/2-5-cocopeat-brick-coir-block-for-gardening-plants-2-5-kg-original-imafxrb9zcejemjh.jpeg?q=90&crop=false",
+    "https://www.ugaoo.com/cdn/shop/files/Cocopeat_Block_Main.jpg?v=1747310961&width=1000"
+  ],
+  "category": "soils",
+  "searchWords": [
+    "cocopeat",
+    "cocopeat block",
+    "coconut husk fiber",
+    "growing medium",
+    "soil conditioning",
+    "seed starting"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:20:38.404Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:20:38.404Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "6899538f5383631a85cd00ab"
+  },
+  "customId": "ENM003",
+  "name": "Red Soil",
+  "originalPrice": 50,
+  "discount": 10,
+  "finalPrice": 45,
+  "weight": [
+    "1kg",
+    "2kg",
+    "5kg"
+  ],
+  "description": "High-quality natural red soil rich in essential minerals, perfect for potting and gardening. Ensures proper drainage and root aeration, suitable for vegetables, fruits, and ornamental plants. Carefully sieved for a fine texture.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://sasyamruth.com/wp-content/uploads/2024/04/red-soil-fruit-plants-purchase.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Soil_Auroville.JPG/1200px-Soil_Auroville.JPG",
+    "https://hyderabadbuilders.in/wp-content/uploads/2023/11/Red-Soil.png"
+  ],
+  "category": "soils",
+  "searchWords": [
+    "red soil",
+    "natural soil",
+    "potting soil",
+    "garden soil",
+    "mineral rich soil",
+    "drainage soil"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:21:03.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:21:03.770Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689953af5383631a85cd00ac"
+  },
+  "customId": "ENM004",
+  "name": "Clay Soil",
+  "originalPrice": 60,
+  "discount": 10,
+  "finalPrice": 54,
+  "weight": [
+    "1kg",
+    "2kg",
+    "5kg"
+  ],
+  "description": "Premium quality clay soil with excellent water-holding capacity, ideal for moisture-loving plants and improving soil structure in sandy areas. Enriched with natural nutrients to promote healthy plant growth.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD7tn-6s42wOGIxegFMW0L3e3GjXy-yuyWxg&s",
+    "https://northernnester.com/wp-content/uploads/2022/08/is-clay-soil-good-for-plant-growth.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzpSdBQxQxB9Cj-pwKhU3FMP_cALk97BT8zw&s"
+  ],
+  "category": "soils",
+  "searchWords": [
+    "clay soil",
+    "moisture soil",
+    "water retention soil",
+    "garden soil",
+    "nutrient rich soil",
+    "soil conditioner"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:21:35.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:21:35.055Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689953c25383631a85cd00ad"
+  },
+  "customId": "ENM005",
+  "name": "Bonsai Soil Mix",
+  "originalPrice": 120,
+  "discount": 10,
+  "finalPrice": 108,
+  "weight": [
+    "1kg",
+    "500g",
+    "2kg"
+  ],
+  "description": "Specially formulated bonsai soil mix containing akadama, pumice, lava rock, and organic compost for perfect drainage, aeration, and nutrient balance, ensuring healthy root development for bonsai trees.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://nurserylive.com/cdn/shop/products/nurserylive-g-soil-and-fertilizers-potting-soil-mix-for-bonsai-plants-3-kg-138409_512x512.jpg?v=1679750946",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1XB9-A65qBmdJ5JCBNUxcYEDeHXOqUB3Qdg&s",
+    "https://gardenerspath.com/wp-content/uploads/2021/12/Bonsai-Soil-in-a-Blue-Pot.jpg"
+  ],
+  "category": "soils",
+  "searchWords": [
+    "bonsai soil",
+    "akadama",
+    "pumice",
+    "lava rock",
+    "organic compost",
+    "bonsai growing medium"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:21:54.468Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:21:54.468Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689953d25383631a85cd00ae"
+  },
+  "customId": "ENM006",
+  "name": "Vermiculite",
+  "originalPrice": 90,
+  "discount": 10,
+  "finalPrice": 81,
+  "weight": [
+    "1kg",
+    "500g",
+    "2kg"
+  ],
+  "description": "Lightweight, sterile mineral used for seed germination, soil aeration, and moisture retention, enhancing root growth and overall plant health; ideal for potting mixes and seed starting trays.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://cdn.mos.cms.futurecdn.net/PEwLzETZhnvFwK9YmqTmRe.jpg",
+    "https://m.media-amazon.com/images/I/81A7aHrvU1L.jpg",
+    "https://www.urbanplant.in/cdn/shop/products/IMG_8091.jpg?v=1654963656"
+  ],
+  "category": "soils",
+  "searchWords": [
+    "vermiculite",
+    "soil aeration",
+    "seed germination",
+    "moisture retention",
+    "potting mix",
+    "plant health"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:22:10.258Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:22:10.258Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689953e45383631a85cd00af"
+  },
+  "customId": "ENM007",
+  "name": "Perlite",
+  "originalPrice": 95,
+  "discount": 10,
+  "finalPrice": 86,
+  "weight": [
+    "1kg",
+    "500g",
+    "2kg"
+  ],
+  "description": "Naturally occurring volcanic glass, heat-expanded to create lightweight, porous granules that improve soil aeration, drainage, and root development; excellent for potting mixes and hydroponics.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhIMzj3I1uUiT7WZmcBXhUVrRzFtfMfyH5ow&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTElVBqbJvH1UHSUwcM6UQlN2ZPCbvDQmC8Xg&s",
+    "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:128,cw:768,ch:576,q:80,w:768/dgLfbCHrbdV6fDaxMsa4UT.jpg"
+  ],
+  "category": "soils",
+  "searchWords": [
+    "perlite",
+    "volcanic glass",
+    "soil aeration",
+    "drainage",
+    "root development",
+    "hydroponics"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:22:28.253Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:22:28.253Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689953f65383631a85cd00b0"
+  },
+  "customId": "ENM008",
+  "name": "Cactus & Succulent Soil Mix",
+  "originalPrice": 90,
+  "discount": 10,
+  "finalPrice": 81,
+  "weight": [
+    "1kg",
+    "500g",
+    "2kg"
+  ],
+  "description": "Specially formulated blend of coarse sand, perlite, and organic matter for excellent drainage and aeration, preventing root rot and promoting healthy growth in cacti and succulents.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR46fVx4IJzz8_ef-tQm8b6dzXxPafFQFuVQ&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRvxJqOCuIKjJr3eunkSbKsmCMtg0j-BIKxw&s",
+    "https://images.saymedia-content.com/.image/ar_4:3,c_fill,cs_srgb,fl_progressive,q_auto:eco,w_1200/MTg0NTM5NjYwNTE1NjE2MjMx/how-to-make-cactus-and-succulent-soil-mix.jpg"
+  ],
+  "category": "soils",
+  "searchWords": [
+    "cactus soil",
+    "succulent soil",
+    "drainage",
+    "aeration",
+    "root rot prevention",
+    "organic matter"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:22:46.896Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:22:46.896Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689954095383631a85cd00b1"
+  },
+  "customId": "ENM009",
+  "name": "Seed Starting Mix",
+  "originalPrice": 85,
+  "discount": 10,
+  "finalPrice": 77,
+  "weight": [
+    "1kg",
+    "500g",
+    "2kg"
+  ],
+  "description": "Fine-textured blend of cocopeat, vermiculite, and compost, designed for excellent moisture retention and aeration to promote fast germination and strong seedling growth.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNLZaWsthZcN7D1o98ZDfW4ydjlpXq7Jrfw&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9jBAZQcG-HrDPRIWCk8FW16MSpESLUZKzjA&s",
+    "https://gardenbetty.com/wp-content/uploads/2020/02/seed-starting-mix-10.jpg"
+  ],
+  "category": "soils",
+  "searchWords": [
+    "seed starting",
+    "moisture retention",
+    "aeration",
+    "cocopeat",
+    "vermiculite",
+    "compost"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:23:05.949Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:23:05.949Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689954145383631a85cd00b2"
+  },
+  "customId": "ENM010",
+  "name": "Organic Compost",
+  "originalPrice": 90,
+  "discount": 10,
+  "finalPrice": 81,
+  "weight": [
+    "1kg",
+    "500g",
+    "2kg",
+    "5kg"
+  ],
+  "description": "Nutrient-rich compost made from decomposed organic matter including vegetable waste, cow dung, and green leaves; improves soil fertility, structure, and water retention for healthy plant growth.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTf3muojn1-FbYP6pJPG9NxM6GD7pp1csh4Q&s",
+    "https://m.media-amazon.com/images/I/71DvzBrAPiL._UF350,350_QL80_.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_2M2EVxrUTiMW6g4R9irS_G4Ao4_TYzYnQ&s"
+  ],
+  "category": "soils",
+  "searchWords": [
+    "organic compost",
+    "nutrient rich",
+    "soil fertility",
+    "decomposed organic matter",
+    "cow dung",
+    "vegetable waste",
+    "green leaves",
+    "water retention"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:23:16.779Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:23:16.779Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689954525383631a85cd00b3"
+  },
+  "customId": "ENF001",
+  "name": "Vermi Compost",
+  "originalPrice": 80,
+  "discount": 10,
+  "finalPrice": 72,
+  "weight": [
+    "1kg",
+    "500g",
+    "2kg",
+    "5kg"
+  ],
+  "description": "100% natural compost produced by earthworms breaking down organic waste; rich in humus, beneficial microbes, and plant nutrients, ideal for vegetables, flowers, and fruit plants.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0047/9730/0847/files/compost-with-redworm_480x480.jpg?v=1624826892",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEtxsvsKq8d2HqIvVqFYYcz5wgaq2uah39Cw&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Fjmbk_2ZZ3cArNcfQA5XhwlDsPx5_VdJHQ&s"
+  ],
+  "category": "organic fertilizers",
+  "searchWords": [
+    "vermi compost",
+    "earthworm compost",
+    "natural fertilizer",
+    "humus rich",
+    "beneficial microbes",
+    "organic waste",
+    "plant nutrients"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:24:18.615Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:24:18.615Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689954635383631a85cd00b4"
+  },
+  "customId": "ENF002",
+  "name": "Neem Cake",
+  "originalPrice": 90,
+  "discount": 10,
+  "finalPrice": 81,
+  "weight": [
+    "1kg",
+    "500g",
+    "2kg",
+    "5kg"
+  ],
+  "description": "Natural organic fertilizer made from cold-pressed neem seeds, rich in nitrogen, phosphorus, potassium, and essential micronutrients; acts as a pest repellent while improving soil fertility.",
+  "shippingDetails": "Dispatch within 24 hours; will reach in 5 days all across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOJXPyVVmWK3jFnIfISFhP9rcTsn-SYA1J9Q&s",
+    "https://www.jiomart.com/images/product/original/rvpfvublgv/go-garden-neem-cake-powder-for-plants-garden-organic-fertilizer-and-manure-0-95-kg-powder-product-images-orvpfvublgv-p591276321-0-202205120346.jpg?im=Resize=(1000,1000)",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuVlwaTn9zRDrMeDktJ0DJ7AnTRXepxK056Q&s"
+  ],
+  "category": "organic fertilizers",
+  "searchWords": [
+    "neem cake",
+    "organic fertilizer",
+    "cold pressed neem",
+    "soil fertility",
+    "pest repellent",
+    "nitrogen rich",
+    "phosphorus",
+    "potassium",
+    "micronutrients"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:24:35.612Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:24:35.612Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689954765383631a85cd00b5"
+  },
+  "customId": "ENF003",
+  "name": "Seaweed Extract Powder",
+  "originalPrice": 200,
+  "discount": 10,
+  "finalPrice": 180,
+  "weight": [
+    "1kg",
+    "500g",
+    "2kg",
+    "5kg"
+  ],
+  "description": "Natural seaweed-based powder rich in trace minerals, vitamins, and growth hormones; enhances plant stress resistance, improves soil structure, and stimulates root and shoot development. Ideal for vegetables, flowers, and fruit plants.",
+  "shippingDetails": "Dispatch within 24 hours; delivery within 5 days across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdH6BNcyFPyVXFU5V5IiidYYsigJA1pMeaZg&s",
+    "https://ases.in/cdn/shop/products/seaweed-extract-powder-500x500.png?v=1674111892",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjUoBfvsY3oJhWrcrXQh8eYlXfJ4nBlDTqLg&s"
+  ],
+  "category": "organic fertilizers",
+  "searchWords": [
+    "seaweed extract",
+    "growth hormone",
+    "plant stress resistance",
+    "soil structure",
+    "trace minerals",
+    "vitamins",
+    "root development",
+    "shoot development"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:24:54.710Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:24:54.710Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689954875383631a85cd00b6"
+  },
+  "customId": "ENF004",
+  "name": "Cow Manure",
+  "originalPrice": 50,
+  "discount": 30,
+  "finalPrice": 35,
+  "weight": [
+    "1kg",
+    "5kg",
+    "10kg"
+  ],
+  "description": "Organic and nutrient-rich cow manure that improves soil fertility and texture; promotes healthy microbial activity and sustainable plant growth. Suitable for gardens, lawns, and farm crops.",
+  "shippingDetails": "Dispatch within 24 hours; delivery within 5 days across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMMGG1HR-YHifRQ9upk0ZV-iLK-lhATr_coA&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDPuVdAZelBIaH42CZHssnasSm0XJWXTHO8A&s",
+    "https://www.farmatma.in/wp-content/uploads/2018/02/organic-manure.jpg"
+  ],
+  "category": "organic fertilizers",
+  "searchWords": [
+    "cow manure",
+    "organic fertilizer",
+    "soil fertility",
+    "microbial activity",
+    "nutrient-rich",
+    "sustainable growth",
+    "garden manure",
+    "farm manure"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:25:11.760Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:25:11.760Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689954a75383631a85cd00b7"
+  },
+  "customId": "ENF005",
+  "name": "Mustard Cake Powder",
+  "originalPrice": 110,
+  "discount": 25,
+  "finalPrice": 83,
+  "weight": [
+    "1kg",
+    "500g",
+    "2kg"
+  ],
+  "description": "Rich organic fertilizer made from crushed mustard seeds; provides essential nitrogen and other nutrients to boost soil fertility and promote vigorous plant growth. Ideal for vegetables, flowers, and fruit crops.",
+  "shippingDetails": "Dispatch within 24 hours; delivery within 5 days across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5mQMGg2mSjlXgfKtFvNGWeqZoJlX9MGH-tQ&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBqim66RCV796CZdhIrD6DYbMPW-mNqIIUEQ&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQajc_4yN8uz7R3Dm6czyTuuqrfoV9tClGWog&s"
+  ],
+  "category": "organic fertilizers",
+  "searchWords": [
+    "mustard cake powder",
+    "organic fertilizer",
+    "nitrogen rich",
+    "soil fertility",
+    "plant growth booster",
+    "vegetable fertilizer",
+    "flower fertilizer",
+    "fruit crop fertilizer"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:25:43.461Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:25:43.461Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689954bb5383631a85cd00b8"
+  },
+  "customId": "ENF006",
+  "name": "Bone Meal Fertilizer",
+  "originalPrice": 120,
+  "discount": 22,
+  "finalPrice": 94,
+  "weight": [
+    "1kg",
+    "500g",
+    "2kg"
+  ],
+  "description": "Natural slow-release fertilizer made from finely ground animal bones; high in phosphorus and calcium to support root development and flowering.",
+  "shippingDetails": "Dispatch within 24 hours; delivery within 5 days across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://www.spic.in/wp-content/uploads/2021/10/2.-SPIC-BONE-POWDER-scaled.jpg",
+    "https://nurserynisarga.in/wp-content/uploads/2021/06/Bone-Meal.jpg",
+    "https://plantscart.com/wp-content/uploads/2020/12/Bonemeal.jpg"
+  ],
+  "category": "organic fertilizers",
+  "searchWords": [
+    "bone meal fertilizer",
+    "slow release fertilizer",
+    "phosphorus rich",
+    "calcium fertilizer",
+    "root development",
+    "flowering support",
+    "natural fertilizer",
+    "organic fertilizer"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:26:03.495Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:26:03.495Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689954d55383631a85cd00b9"
+  },
+  "customId": "ENF007",
+  "name": "Fish Amino Acid Liquid",
+  "originalPrice": 300,
+  "discount": 25,
+  "finalPrice": 225,
+  "weight": [
+    "1 litre",
+    "500 ml"
+  ],
+  "description": "Organic liquid fertilizer made from fermented fish waste; rich in amino acids, nitrogen, and micronutrients that stimulate plant growth, improve soil health, and enhance crop yield. Suitable for vegetables, fruits, and flowers.",
+  "shippingDetails": "Dispatch within 24 hours; delivery within 5 days across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://www.jiomart.com/images/product/original/rvszr0u80o/cloudgarden-organic-fish-amino-liquid-fertilizer-1000ml-organic-plant-nutrient-boost-for-vegetables-fruits-flowers-and-herbs-product-images-orvszr0u80o-p609927266-0-202409101229.jpg?im=Resize=(1000,1000)",
+    "https://m.media-amazon.com/images/I/617YgFJ9G4L._UF350,350_QL80_.jpg",
+    "https://cdn.bazodo.com/images/p/5/9/2/592-large_default.jpg"
+  ],
+  "category": "organic fertilizers",
+  "searchWords": [
+    "fish amino acid",
+    "organic liquid fertilizer",
+    "amino acid fertilizer",
+    "nitrogen fertilizer",
+    "micronutrients fertilizer",
+    "plant growth stimulant",
+    "soil health enhancer",
+    "crop yield booster"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:26:29.284Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:26:29.284Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689954e45383631a85cd00ba"
+  },
+  "customId": "ENF008",
+  "name": "Banana Peel Fertilizer Powder",
+  "originalPrice": 90,
+  "discount": 25,
+  "finalPrice": 68,
+  "weight": [
+    "1kg",
+    "500g",
+    "2kg"
+  ],
+  "description": "Natural organic fertilizer made from dried and powdered banana peels; rich in potassium, phosphorus, and essential nutrients that enhance flowering and fruiting, improve soil texture, and promote healthy plant growth.",
+  "shippingDetails": "Dispatch within 24 hours; delivery within 5 days across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://m.media-amazon.com/images/I/71CwtmyNzaS.jpg",
+    "https://i.ebayimg.com/images/g/fLgAAOSwDKhkch3r/s-l400.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG5NsHRr0NxBFNuB5Ty3cpfUFtIocYFK7lWQ&s"
+  ],
+  "category": "organic fertilizers",
+  "searchWords": [
+    "banana peel fertilizer",
+    "organic fertilizer",
+    "potassium fertilizer",
+    "phosphorus fertilizer",
+    "soil conditioner",
+    "flowering enhancer",
+    "fruiting fertilizer",
+    "natural fertilizer"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:26:44.874Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:26:44.874Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689954f55383631a85cd00bb"
+  },
+  "customId": "ENF009",
+  "name": "Panchagavya",
+  "originalPrice": 350,
+  "discount": 22,
+  "finalPrice": 273,
+  "description": "Traditional organic fertilizer and growth enhancer made from a blend of five cow products (milk, curd, ghee, urine, and dung); improves soil fertility, boosts microbial activity, and strengthens plant immunity naturally. Ideal for all types of crops and garden plants.",
+  "shippingDetails": "Dispatch within 24 hours; delivery within 5 days across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7iwkwKl6j6bAIp4Jh1unpWCZkiANQRHDGyQ&s",
+    "https://www.agrifarming.in/wp-content/uploads/2018/12/Panchagavya-Preparation..jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIe-nia5Hy86mwD0q433ZyQcW1UGk0N3hZJg&s"
+  ],
+  "category": "organic fertilizers",
+  "searchWords": [
+    "panchagavya",
+    "organic fertilizer",
+    "growth enhancer",
+    "cow products fertilizer",
+    "natural plant booster",
+    "soil fertility",
+    "microbial activity",
+    "plant immunity"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:27:01.899Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:27:01.899Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689955035383631a85cd00bc"
+  },
+  "customId": "ENF010",
+  "name": "Humic Acid Granules",
+  "originalPrice": 180,
+  "discount": 25,
+  "finalPrice": 135,
+  "weight": [
+    "1kg",
+    "500g",
+    "2kg"
+  ],
+  "description": "Concentrated humic acid in granule form that enhances soil structure, improves nutrient uptake, and stimulates beneficial microbial activity. Ideal for all types of soil and crops to boost growth and yield.",
+  "shippingDetails": "Dispatch within 24 hours; delivery within 5 days across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://3.imimg.com/data3/SL/HR/MY-11864813/humic-acid-granules.jpg",
+    "https://m.media-amazon.com/images/I/51o0+tnIfEL._UF1000,1000_QL80_.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdWXYtfMvVUTtpU8os2EWNZuVAVNmOjCek_A&s"
+  ],
+  "category": "organic fertilizers",
+  "searchWords": [
+    "humic acid",
+    "soil enhancer",
+    "nutrient uptake",
+    "microbial activity",
+    "soil structure",
+    "organic fertilizer",
+    "crop growth"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:27:15.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:27:15.768Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689955535383631a85cd00bd"
+  },
+  "customId": "ENA001",
+  "name": "Decorative Pebbles",
+  "originalPrice": 150,
+  "discount": 25,
+  "finalPrice": 113,
+  "description": "High-quality decorative pebbles ideal for garden pathways, plant pots, and terrariums; adds aesthetic appeal and helps with soil moisture retention. Comes in packs containing approximately 200–300 pebbles.",
+  "shippingDetails": "Dispatch within 24 hours; delivery within 5 days across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://m.media-amazon.com/images/I/51Yejr9UoLL._SX300_SY300_QL70_FMwebp_.jpg",
+    "https://m.media-amazon.com/images/I/814R1391BDL._SX425_.jpg",
+    "https://m.media-amazon.com/images/I/714uK3CCT7L._SX425_.jpg"
+  ],
+  "category": "garden accessories",
+  "searchWords": [
+    "decorative pebbles",
+    "garden pathways",
+    "plant pots",
+    "terrariums",
+    "aesthetic pebbles",
+    "soil moisture retention"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:28:35.933Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:28:35.933Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689955735383631a85cd00be"
+  },
+  "customId": "ENA002",
+  "name": "Hanging Ceramic Plant",
+  "originalPrice": 350,
+  "discount": 20,
+  "finalPrice": 280,
+  "description": "Elegant hanging ceramic planter perfect for indoor and outdoor use; comes with one sturdy hanging rope and is suitable for small to medium-sized plants. Each unit includes one planter.",
+  "shippingDetails": "Dispatch within 24 hours; delivery within 5 days across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://m.media-amazon.com/images/I/71Kv-mq4xVL._SY679_.jpg",
+    "https://m.media-amazon.com/images/I/71P29njGmtL._SX425_.jpg",
+    "https://m.media-amazon.com/images/I/71ZY-11LM0L._SX425_.jpg"
+  ],
+  "category": "garden accessories",
+  "searchWords": [
+    "hanging ceramic planter",
+    "indoor planter",
+    "outdoor planter",
+    "hanging rope planter",
+    "ceramic plant pot"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:29:07.811Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:29:07.811Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "6899557d5383631a85cd00bf"
+  },
+  "customId": "ENA003",
+  "name": "Terracotta Planters",
+  "originalPrice": 400,
+  "discount": 22,
+  "finalPrice": 312,
+  "description": "Classic terracotta planters that provide excellent breathability and drainage for healthy plant growth. Available in sets of 2 planters, perfect for indoor or outdoor gardening.",
+  "shippingDetails": "Dispatch within 24 hours; delivery within 5 days across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://m.media-amazon.com/images/I/41A7aVjdL4L._SX300_SY300_QL70_FMwebp_.jpg",
+    "https://m.media-amazon.com/images/I/61ozoJiaaPL._SX425_.jpg",
+    "https://m.media-amazon.com/images/I/51f+94JY7tL._SX425_.jpg"
+  ],
+  "category": "garden accessories",
+  "searchWords": [
+    "terracotta planters",
+    "clay planters",
+    "indoor garden pots",
+    "outdoor planters",
+    "breathable planters"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:29:17.965Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:29:17.965Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "6899559e5383631a85cd00c0"
+  },
+  "customId": "ENA004",
+  "name": "Macrame Plant Hangers",
+  "originalPrice": 250,
+  "discount": 25,
+  "finalPrice": 188,
+  "description": "Handcrafted macrame plant hangers made from durable cotton rope; designed to hold one medium-sized plant pot. Ideal for adding a boho-chic touch to your indoor or outdoor garden.",
+  "shippingDetails": "Dispatch within 24 hours; delivery within 5 days across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://m.media-amazon.com/images/I/61e1cTs6dlL._SX300_SY300_QL70_FMwebp_.jpg",
+    "https://m.media-amazon.com/images/I/61RHVCLRSvL._SX425_.jpg",
+    "https://m.media-amazon.com/images/I/51nWv-gW1RL._SX425_.jpg"
+  ],
+  "category": "garden accessories",
+  "searchWords": [
+    "macrame plant hanger",
+    "cotton plant hanger",
+    "boho garden decor",
+    "indoor plant holder",
+    "outdoor plant hanger"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:29:50.304Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:29:50.304Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689955b95383631a85cd00c2"
+  },
+  "customId": "ENA006",
+  "name": "Plant Name Tags",
+  "originalPrice": 120,
+  "discount": 25,
+  "finalPrice": 90,
+  "description": "Durable and reusable plant name tags made from eco-friendly plastic; pack includes approximately 20 tags to label your plants easily in gardens or pots.",
+  "shippingDetails": "Dispatch within 24 hours; delivery within 5 days across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://m.media-amazon.com/images/I/613lPsSejgL._SY355_.jpg",
+    "https://m.media-amazon.com/images/I/61WFU6vWqUL._SY355_.jpg",
+    "https://m.media-amazon.com/images/I/71iMwS2LAyL._SY355_.jpg"
+  ],
+  "category": "garden accessories",
+  "searchWords": [
+    "plant name tags",
+    "garden labels",
+    "reusable plant tags",
+    "eco friendly plastic tags",
+    "plant labeling"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:30:17.706Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:30:17.706Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689955b95383631a85cd00c1"
+  },
+  "customId": "ENA005",
+  "name": "Solar Lights",
+  "originalPrice": 800,
+  "discount": 20,
+  "finalPrice": 640,
+  "description": "Energy-efficient solar-powered garden lights; pack contains approximately 4 lights perfect for illuminating pathways, patios, or garden beds. Easy to install with automatic dusk-to-dawn operation.",
+  "shippingDetails": "Dispatch within 24 hours; delivery within 5 days across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://m.media-amazon.com/images/I/81a1M3LpKnL._SY450_.jpg",
+    "https://m.media-amazon.com/images/I/71zgMbjPuCL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/71TLFWSXPVL._SL1500_.jpg"
+  ],
+  "category": "garden accessories",
+  "searchWords": [
+    "solar garden lights",
+    "solar pathway lights",
+    "solar patio lights",
+    "energy efficient lights",
+    "automatic dusk-to-dawn"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:30:17.706Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:30:17.706Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689955ee5383631a85cd00c4"
+  },
+  "customId": "ENA008",
+  "name": "Wooden Plant Stands",
+  "originalPrice": 1200,
+  "discount": 20,
+  "finalPrice": 960,
+  "description": "Sturdy and stylish wooden plant stands crafted from natural wood; each set contains 2 stands suitable for holding medium to large pots, perfect for elevating your plants indoors or outdoors.",
+  "shippingDetails": "Dispatch within 24 hours; delivery within 5 days across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://m.media-amazon.com/images/I/515Qn2vKpyL._SX300_SY300_QL70_FMwebp_.jpg",
+    "https://m.media-amazon.com/images/I/61M1lScSdvL._SY606_.jpg",
+    "https://m.media-amazon.com/images/I/61QkAyF7tcL._SY606_.jpg"
+  ],
+  "category": "garden accessories",
+  "searchWords": [
+    "wooden plant stands",
+    "plant pot stands",
+    "natural wood stands",
+    "indoor plant stands",
+    "outdoor plant stands"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:31:10.368Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:31:10.368Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689955ee5383631a85cd00c3"
+  },
+  "customId": "ENA007",
+  "name": "Mini Gnome Statues (Set of 10)",
+  "originalPrice": 600,
+  "discount": 25,
+  "finalPrice": 450,
+  "description": "Charming set of 10 mini gnome statues perfect for decorating garden beds, pots, or indoor plant displays. Each statue is approximately 5 inches tall, adding a whimsical touch to your garden.",
+  "shippingDetails": "Dispatch within 24 hours; delivery within 5 days across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://m.media-amazon.com/images/I/813KYvxXxWS._SX425_.jpg",
+    "https://m.media-amazon.com/images/I/81nHwfMrrdS._SX425_.jpg",
+    "https://m.media-amazon.com/images/I/81omSKpuePS._SX425_.jpg"
+  ],
+  "category": "garden accessories",
+  "searchWords": [
+    "mini gnome statues",
+    "garden gnome set",
+    "decorative garden statues",
+    "whimsical garden decor",
+    "mini garden ornaments"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:31:10.362Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:31:10.362Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689955ee5383631a85cd00c5"
+  },
+  "customId": "ENA009",
+  "name": "Water Fountain",
+  "originalPrice": 2500,
+  "discount": 20,
+  "finalPrice": 2000,
+  "description": "Handcrafted Natural Bamboo Water Fountain with Water Pump (Included), creating a calming ambiance for your home or garden. Easy to Set Up: Ready to use — just place over a bowl, add water, connect the pump, and enjoy.",
+  "shippingDetails": "Dispatch within 24 hours; delivery within 5 days across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://m.media-amazon.com/images/I/91ytdx1+-6L._SX425_.jpg",
+    "https://m.media-amazon.com/images/I/91D1FlwTydL._SX425_.jpg",
+    "https://m.media-amazon.com/images/I/71vJHUxGyCL._SX425_.jpg"
+  ],
+  "category": "garden accessories",
+  "searchWords": [
+    "bamboo water fountain",
+    "garden water fountain",
+    "indoor water fountain",
+    "calming water feature",
+    "handcrafted fountain"
+  ],
+  "createdAt": {
+    "$date": "2025-08-11T02:31:10.369Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T02:31:10.369Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+},
+{
+  "_id": {
+    "$oid": "689ad4c35c2698651639eca8"
+  },
+  "customId": "ENA010",
+  "name": "Artificial Moss Wall Panels",
+  "originalPrice": 1800,
+  "discount": 22,
+  "finalPrice": 1404,
+  "description": "Eco-friendly artificial moss wall panels designed to add a lush green look indoors without maintenance; each pack covers approximately 1 square meter and can be combined for larger areas.",
+  "shippingDetails": "Dispatch within 24 hours; delivery within 5 days across Andhra Pradesh and Telangana.",
+  "stock": "available",
+  "images": [
+    "https://m.media-amazon.com/images/I/61RI7BPyRMS._SX300_SY300_QL70_FMwebp_.jpg",
+    "https://m.media-amazon.com/images/I/91YOImoFQQL._SX425_.jpg",
+    "https://m.media-amazon.com/images/I/61TvXXgpxOS._SY450_.jpg"
+  ],
+  "category": "garden accessories",
+  "searchWords": [
+    "artificial moss panels",
+    "moss wall decor",
+    "indoor green walls",
+    "eco-friendly moss",
+    "maintenance-free moss"
+  ],
+  "createdAt": {
+    "$date": "2025-08-12T05:44:35.583Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-12T05:44:35.583Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.ENurseryEntity"
+}]

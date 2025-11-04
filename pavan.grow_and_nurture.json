@@ -1,0 +1,2823 @@
+[{
+  "_id": {
+    "$oid": "6898409165eb8870f02481b9"
+  },
+  "customId": "GNV001",
+  "name": "Tomato",
+  "coverImage": "https://www.richardjacksonsgarden.co.uk/wp-content/uploads/2021/04/AdobeStock_554658202_1200px.jpg.webp",
+  "video": "https://youtu.be/rqkMuYO0oj8?si=y5oDc_IEC3u7y_3k",
+  "doYouKnow": "Tomatoes, often called the “apple of love” in Europe, are the second most consumed vegetable in the world after potatoes. In India, they are a staple in curries, chutneys, sambars, and salads. Rich in Vitamin C, lycopene, and antioxidants, they not only boost immunity but also protect your skin and heart. A single tomato plant can give you up to 10–15 kg of fruit with proper care. Imagine plucking fresh, bright red tomatoes from your own garden for dishes like paneer butter masala, rasam, tomato chutney, or a fresh salad — no preservatives, just natural goodness. Growing tomatoes at home isn’t just healthy, it’s also economical and deeply satisfying.",
+  "varietiesText": [
+    "Pusa Ruby – Popular hybrid, ideal for Indian climate.",
+    "Arka Vikas – Resistant variety, good yield.",
+    "Roma – Great for sauces and pastes.",
+    "Cherry Tomatoes – Bite‑sized and perfect for salads.",
+    "Punjab Chhuhara – Special for chutneys and ketchups"
+  ],
+  "varietiesImages": [
+    "https://nurserylive.com/cdn/shop/products/nurserylive-seeds-tomato-pusa-ruby-desi-vegetable-seeds-16969383903372.jpg?v=1634205181",
+    "https://www.global-agriculture.com/wp-content/uploads/2022/07/tomoto1.jpg",
+    "https://images.immediate.co.uk/production/volatile/sites/10/2022/12/2048x1365-Tomato-Roma-SEO-LI3171235-1affef7.jpg",
+    "https://www.bhg.com/thmb/q8rfs1JikMcnBN8StgjLdYFwHdE=/4000x0/filters:no_upscale():strip_icc()/BHG-Cherry-Tomato-Plant-1407386653-69dc42c014cb4fc1a9788e595cf000b7.jpg",
+    "https://m.media-amazon.com/images/I/51h80aYs+bL._UF1000,1000_QL80_.jpg"
+  ],
+  "bestCondition": {
+    "sunlight": "6–8 hours of direct sunlight daily. Morning sunlight is best for healthy growth.",
+    "water": "Water regularly but not excessively. Soil should stay moist, not soggy.Drip irrigation or watering at the base is best",
+    "soil": " Prefers well‑drained loamy soil with pH 6.0–7.0. Enrich with compost or well‑rotted cow dung. Mix neem cake powder to prevent soil pests."
+  },
+  "whenToSow": "Kharif Season (Rainy): June–July. Rabi Season (Winter): October–November. Zaid Season (Summer): January–February (in southern India). Tomatoes can be grown year‑round in India, but avoid peak monsoon to prevent fungal infections.",
+  "growingGuide": [
+    "Seed Preparation /p Start with high‑quality, disease‑resistant seeds such as Pusa Ruby. Soak them overnight to encourage faster sprouting and treat them with Trichoderma powder to prevent fungal infections. Sow the seeds in nursery trays or small pots, covering them lightly with soil. Keep the trays moist and shaded, and within a week, you’ll notice tiny seedlings emerging.",
+    "Transplanting /p When your seedlings are about 10 to 15 centimeters tall — usually after three to four weeks — they’re ready to move to their permanent spot. Prepare your main bed or larger pots with loose, fertile, compost‑rich soil. Space the seedlings about 45 to 60 centimeters apart and water them immediately after planting to help them settle in.",
+    "Watering and Sunlight /p Tomatoes love sunlight, so ensure they receive at least 6–8 hours of direct light daily. During the first week after transplanting, water lightly every day. As they grow stronger, shift to watering every 2–3 days. Once the plants begin flowering, water daily in the mornings to support healthy fruit development. Always water at the base to keep the leaves dry and reduce the risk of fungal diseases.",
+    "Support and Feeding /p As tomato plants grow tall, they need support to carry the weight of their fruits. Use bamboo stakes or sticks, tying the stems gently as they rise. Every two weeks, feed the plants with compost or organic liquid fertilizers such as jeevamrutham or vermi‑wash. Avoid excess nitrogen, as it encourages leaves at the expense of fruit.",
+    "Pruning and Care /p Keep your plants healthy by pinching off side shoots (suckers) that appear between the main stem and branches. This directs more energy toward fruiting. Remove any yellow or diseased leaves and mulch the soil with dry leaves or straw to conserve moisture and suppress weeds.",
+    "Flowering and Fruits /p Around 35 to 40 days after transplanting, you’ll notice the first flowers. To encourage pollination, gently shake the plants during the morning hours. A light spray of seaweed extract will further improve fruit set. Soon, you’ll see clusters of green fruits that gradually ripen into the bright red tomatoes you’ve been waiting for."
+  ],
+  "growingGuideImages": [
+    "https://harvesttotable.com/wp-content/uploads/2017/01/bigstock-Tomato-Seedling-Being-Started-201948859-1024x683.jpg",
+    "https://gardenerspath.com/wp-content/uploads/2020/04/Planting-Out-Tomatoes-in-the-Garden.jpg",
+    "https://www.thespruce.com/thmb/sJ6ToHtwolFUni5V8jVG4LrR1l8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1266067408-604c5d82922d4a95bd7322f1f20b1026.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTow6Y6p93ihLmABOFeExfppZiyYJV_Pq4HA&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq0tHdVXae_tATuAzD5UYU6b4OO6t5sczn0A&s",
+    "https://sproutedgarden.com/wp-content/uploads/2023/04/tomatoes-self-pollination-top.jpg"
+  ],
+  "harvesting": "Tomatoes are ready for picking about 60 to 70 days after transplanting. Look for fruits that are evenly red, slightly soft to the touch, and free of green patches. Harvest gently by twisting them off the vine or cutting them with scissors to avoid damaging the plant. Avoid fruits that are too firm and green, or overly squishy and wrinkled.",
+  "harvestingImage": "https://cdn.mos.cms.futurecdn.net/rZ3WvgvWtwwUGksQBJ6K2d.jpg",
+  "commonTroubles": [
+    "Tomato Fruit Borer /p Tiny caterpillars bore into fruits, leaving holes. Inspect plants daily and handpick the pests. A weekly spray of neem oil is an effective organic control.",
+    "Leaf Curl Virus /p Leaves twist upwards and the plant looks stunted. Whiteflies spread this disease, so remove affected plants quickly and use yellow sticky traps to reduce whitefly numbers.",
+    "Blossom End Rot /p A black, sunken patch forms at the bottom of fruits due to irregular watering and calcium deficiency. Keep the soil consistently moist and add crushed eggshells or lime to restore calcium."
+  ],
+  "commonTroublesImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIdSfNApKdMIGCmFNQiF9ZJKxnQwI0PpSJyg&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvsFFk94ozvUd9ajsTf7xcRmMSfX037SlpuQ&s",
+    "https://gardenerspath.com/wp-content/uploads/2020/05/Tomato-Blossom-End-Rot-Cover.jpg"
+  ],
+  "quickFacts": [
+    "India ranks second in tomato production worldwide.",
+    "Tomatoes were once considered poisonous in Europe!",
+    "One medium tomato fulfills nearly 40% of your daily Vitamin C needs."
+  ],
+  "category": "Vegetables",
+  "searchWords": [
+    "Tomato",
+    "Cherry Tomato",
+    "Red",
+    "Tomato Plant",
+    "Grow Tomato",
+    "Easy Growing"
+  ],
+  "updatedAt": {
+    "$date": "2025-11-04T19:39:36.275Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "6898417065eb8870f02481ba"
+  },
+  "customId": "GNV002",
+  "name": "Brinjal",
+  "coverImage": "https://gardeningsg.nparks.gov.sg/images/Plants/Brinjal_JacChua%20(2).jpg",
+  "video": "https://youtu.be/sZg8vCDz1_c?si=zvsuadBMYLAtIxja",
+  "doYouKnow": "Brinjal, also called the “King of Vegetables,” has been cultivated in India for over 2,500 years. It comes in a wide range of shapes and colors — from deep purple to green, striped, and even white. Rich in fiber, antioxidants, and minerals, brinjal supports digestion, lowers cholesterol, and is considered heart-friendly. In Indian kitchens, brinjal takes many delicious forms — the famous Hyderabadi Gutthi Vankaya Curry, smoky Baingan Bharta, crispy Beguni fritters from Bengal, and stuffed brinjal gravies loved across Maharashtra and Andhra.",
+  "varietiesText": [
+    "Pusa Purple Long – Popular elongated variety, high-yielding.",
+    "Arka Shirish – Medium-long, green fruits with good disease tolerance.",
+    "Arka Kusumakar – Round, violet-striped variety.",
+    "White Round (Pusa Anmol) – Smooth white brinjal, mild flavor.",
+    "Gutthi Vankaya (Local Desi Small Round) – Traditional Andhra specialty for stuffed curry.",
+    "Bhagyamati (Long Violet) – Slender violet fruits, very tender."
+  ],
+  "varietiesImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJMlYpEi4dX6CKsecGFJ_4fjeI1ye-3MJcsQ&s",
+    "https://www.tradeindia.com/products/natural-fresh-arka-kusumkar-brinjal-for-cooking-7221012.html",
+    "https://www.sahajaseeds.com/wp-content/uploads/2022/11/VEGETABLE-BRINJAL-Brinjal-Purple-Stripe-Round-2.jpg",
+    "https://images.meesho.com/images/products/429942423/m7nps_512.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw2hG_s6_1EkkVTGfCzlD6yHfK5icNkR8BBQ&s",
+    "https://m.media-amazon.com/images/I/61rfbDevUCL._UF1000,1000_QL80_.jpg"
+  ],
+  "bestCondition": {
+    "sunlight": "Requires 6–7 hours of direct sunlight daily.",
+    "water": "Needs consistent watering; 2–3 times a week in early growth, daily during flowering and fruiting.",
+    "soil": "Fertile loamy soil, pH between 5.5 and 6.6, enriched with compost or farmyard manure."
+  },
+  "whenToSow": "Kharif: June–July | Rabi: October–November | Summer: January–February in southern and central India. Brinjal is a year-round crop in many parts of India, but yields best when sown in warm, humid conditions following seasonal schedules.",
+  "growingGuide": [
+    "Seed Preparation/pBegin by selecting high-quality seeds such as Pusa Purple Long or Arka Shirish. Soak the seeds in water for 12 hours to boost germination. Treat with Trichoderma or neem seed powder to prevent soil-borne diseases. Sow in nursery trays with light soil cover. Germination takes 7–10 days.",
+    "Transplanting/pAfter 4–5 weeks, when seedlings are 12–15 cm tall with 4–5 leaves, transplant into prepared soil enriched with compost. Keep 45–60 cm between plants and 60–75 cm between rows.",
+    "Watering and Sunlight/pProvide 6–7 hours of sunlight. Water 2–3 times a week in early stages, then daily during flowering and fruiting. Water at the base to avoid fungal infection.",
+    "Support and Feeding/pStake plants with bamboo or wooden supports as fruits grow. Add compost every 15 days. Use potassium-rich organic fertilizer during fruiting.",
+    "Pruning and Care/pRemove yellow or damaged leaves. Pinch growing tips at 40–50 days to encourage branching. Mulch with dry leaves or straw to retain moisture.",
+    "Flowering and Fruiting/pBrinjal flowers 40–45 days after transplanting. Ensure pollination by gentle shaking or allowing bees. Fruits set within 15–20 days after flowering."
+  ],
+  "growingGuideImages": [
+    "https://urbanplants.co.in/cdn/shop/products/urban-plants-brinjal-seeds-38821764595927.jpg?v=1675517375",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaZht_kV91vqg6b5bjrCGOkEvOBJAzP-Yfg&s",
+    "https://cdn.mos.cms.futurecdn.net/qFecAUxmG6CpumBwsF2tub.jpg",
+    "https://i.ytimg.com/vi/tiZAu1SFHlI/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/ZXfJfYCzlUI/sddefault.jpg",
+    "https://www.agrifarming.in/wp-content/uploads/2020/05/Comp2-2.jpg"
+  ],
+  "harvesting": "Ready 70–90 days after transplanting. Harvest when skin is glossy and firm. Use scissors or knife to cut with a short stalk. Small round fruits suit stuffed dishes, long ones for roasting.",
+  "harvestingImage": "https://harvesttotable.com/wp-content/uploads/2016/08/Eggplant-Harvest-bigstock-Farmer-Harvesting-Organic-Ripe-314866435-683x1024.jpg",
+  "commonTroubles": [
+    "Shoot and Fruit Borer/pBores into stems and fruits, causing wilting. Remove infested shoots and spray neem oil weekly.",
+    "Leafhopper Attack/pSucks sap from leaves, causing curling and yellowing. Control with sticky traps and neem oil spray.",
+    "Bacterial Wilt/pCauses sudden plant death in humid conditions. Avoid waterlogging, rotate crops, and add organic compost."
+  ],
+  "commonTroublesImages": [
+    "https://content.peat-cloud.com/w400/brinjal-shoot-and-fruit-borer-eggplant-5.jpg",
+    "https://plantwiseplusknowledgebank.org/cms/asset/f8fe92d1-4d59-4875-b2e8-0f1430c9ef61/leaf-hoppers-on-brinjal-sri-lanka-1.png",
+    "https://abtec.in/wp-content/uploads/2024/10/4.Bacterial-wilt-of-brinjal.jpg"
+  ],
+  "quickFacts": [
+    "India is one of the top producers of brinjal in the world.",
+    "Brinjal contains anthocyanins, antioxidants that boost heart health.",
+    "In Ayurveda, brinjal is considered a warming food aiding digestion."
+  ],
+  "category": "Vegetable",
+  "createdAt": {
+    "$date": "2025-08-10T06:51:28.310Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T06:51:28.310Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "6898422665eb8870f02481bb"
+  },
+  "customId": "GNV003",
+  "name": "Okra (Bhindi)",
+  "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0r-KUUl7J4OTgcRFNUloBe7PhWmKclby2iQ&s",
+  "video": "https://youtu.be/5EOfBeuVWu4?si=fAXIxT-S-_lC59_s",
+  "doYouKnow": "Okra, fondly called lady’s finger, is one of the most popular summer vegetables in India. From bhindi masala to sambar and even crispy fried bhindi, it adds both taste and nutrition to our plates. Rich in dietary fiber, vitamin C, and folate, okra helps regulate blood sugar levels, supports digestion, and boosts immunity. Did you know that okra was cultivated as early as 3,000 years ago in Egypt? Its sticky mucilage, which some people avoid, is actually beneficial—it’s used in soups and stews to naturally thicken them!",
+  "varietiesText": [
+    "Parbhani Kranti – A widely grown hybrid, tolerant to Yellow Vein Mosaic Virus.",
+    "Pusa A-4 – Early-maturing and ideal for summer cultivation.",
+    "Arka Anamika – Popular in South India; produces long, tender pods.",
+    "Pusa Sawani – Highly adaptable, suitable for year-round cultivation."
+  ],
+  "varietiesImages": [
+    "https://goldenhillsfarm.in/media/product_images/dghjgfhjf.jpg",
+    "https://m.media-amazon.com/images/I/41zLYNGUHiL._UF1000,1000_QL80_.jpg",
+    "https://nurserylive.com/cdn/shop/products/nurserylive-seeds-okra-arka-anamika-desi-vegetable-seeds-16969047048332.jpg?v=1634204377",
+    "https://nurserylive.com/cdn/shop/products/nurserylive-seeds-okra-pusa-sawni-desi-vegetable-seeds-16969047081100.jpg?v=1634204378"
+  ],
+  "bestCondition": {
+    "sunlight": "Okra loves warmth and requires 6–8 hours of direct sunlight daily for healthy growth.",
+    "water": "Keep soil consistently moist but avoid waterlogging. Water every 2–3 days in summer.",
+    "soil": "Fertile, well-drained loamy soil enriched with compost. Ideal pH: 6–6.8."
+  },
+  "whenToSow": "Summer Crop: February–March | Kharif Crop: June–July | Rabi Crop (South India): October–November.",
+  "growingGuide": [
+    "Seed Preparation/pStart by soaking okra seeds in lukewarm water overnight. This softens the hard seed coat and ensures quicker germination.",
+    "Sowing/pSow the seeds directly in prepared beds or grow bags, spacing them 30 cm apart in rows 45–60 cm apart. Plant 2 seeds per pit, then thin to one healthy seedling after germination.",
+    "Supporting Early Growth/pOnce seedlings emerge (5–7 days), keep the soil lightly moist. Mulch around the base with dry leaves or straw to retain moisture and suppress weeds.",
+    "Fertilization/pMix compost or well-rotted manure into the soil at sowing. After 3–4 weeks, side-dress with organic fertilizers like neem cake or vermicompost to boost pod production.",
+    "Plant Care/pPinch off older yellowing leaves to improve airflow. Regularly check for pest infestations. Hand-pick pests if needed and spray neem oil every 10–12 days as a preventive measure."
+  ],
+  "growingGuideImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXUgSycLd_fN7VXWKWEnRHQgN8Ttdm7i2Neg&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkhTrMX-fkENHzkMLzVJHDNF3cixi9bPlhlQ&s",
+    "https://media.greg.app/Y2FyZS1wbGFudC1wcm9maWxlLzgzNjI0LzBFNTVFNzY4LUY4OUUtNDU3Qy04N0Y1LTdCQzMzNDBBRDFEMC5wbmc=?format=pjpeg&optimize=high&auto=webp&width=450",
+    "https://media.istockphoto.com/id/599760326/photo/okra-flower-and-fruit-vegetable-organic-agriculture-gardening.jpg?s=612x612&w=is&k=20&c=vc31nX2DyCP2YFdmOfkkfK5R-UgKdggYw5HZMUdniHU=",
+    "https://www.gardeningchores.com/wp-content/uploads/2020/12/How-to-Grow-Okra-in-Containers_-An-Easy-Guide-.jpg"
+  ],
+  "harvesting": "Okra pods are ready for harvest 45–50 days after sowing. Pick them when they are 3–5 inches long, tender, and bright green. Harvest every 2–3 days. Avoid over-mature pods as they become fibrous and tough. Always use gloves or scissors to harvest, as okra plants may cause skin irritation.",
+  "harvestingImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlCEF3INovrAsai7RRUo1Ez1tkcFg-I8c7_w&s",
+  "commonTroubles": [
+    "Yellow Vein Mosaic Virus (YVMV)/pYellowing veins on leaves and poor fruit set. Use resistant varieties like Parbhani Kranti, control whiteflies with neem oil sprays, and remove infected plants immediately.",
+    "Powdery Mildew/pWhite powdery coating on leaves, reducing photosynthesis. Spray sulfur-based organic fungicides or neem oil solution.",
+    "Fruit Borers/pHoles in pods with caterpillars inside. Use pheromone traps, handpick affected pods, and spray Bacillus thuringiensis (Bt) solution if infestation increases."
+  ],
+  "commonTroublesImages": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/64/Bhendi_vein_clearingPhoto-0028.jpg",
+    "https://katyayanikrishidirect.com/cdn/shop/articles/1573969.webp?v=1747227298",
+    "https://www.researchgate.net/profile/Arun-Kumar-763/publication/365873644/figure/fig3/AS:11431281104601868@1670150279326/Damaging-Symptoms-of-Okra-by-Shoot-and-fruit-borer-Earias-vittella_Q320.jpg"
+  ],
+  "quickFacts": [
+    "Okra is native to Africa but is now a staple in Indian kitchens.",
+    "Okra mucilage is used as a natural thickener in soups and stews.",
+    "Regular harvesting encourages continuous pod production."
+  ],
+  "category": "Vegetable",
+  "createdAt": {
+    "$date": "2025-08-10T06:54:30.694Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T06:54:30.694Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "68984f7d65eb8870f02481bc"
+  },
+  "customId": "GNV004",
+  "name": "Bottle Gourd (Anapakaya / Lauki)",
+  "coverImage": "https://budsnblush.com/cdn/shop/files/F1HybridBottleGourdBudsnblush.png?v=1709075516",
+  "video": "https://youtu.be/1MnkZEhANhk?si=U2PyXspPtQtv3PFn",
+  "doYouKnow": "Bottle gourd, known as lauki in Hindi and anapakaya in Telugu, is one of India’s oldest cultivated vegetables. Ancient Ayurvedic texts describe it as a cooling food that soothes the stomach, hydrates the body, and supports heart health. In Indian kitchens, it shines in dishes like lauki kofta, lauki chana dal curry, and refreshing lauki juice, which is a summer favorite. Packed with water (about 92%), fiber, and vitamins, this humble vegetable is a perfect choice for both taste and health.",
+  "varietiesText": [
+    "Anapakaya (Round / Bottle-shaped) – Popular in Andhra kitchens, tender and flavorful.",
+    "Normal Long Bottle Gourd – The most common lauki, cylindrical, ideal for curries and juices.",
+    "Arka Bahar – Hybrid, long fruits with good yield.",
+    "Summer Special Lauki – Light green, tender, best for juice.",
+    "Pusa Naveen – Early yielding, long tender fruits."
+  ],
+  "varietiesImages": [
+    "https://www.skorganicfarms.com/cdn/shop/products/bottle-gourd4_1.jpg?v=1596340107",
+    "https://kisanvedika.bighaat.com/wp-content/uploads/2022/11/Pic1-1.jpg",
+    "https://m.media-amazon.com/images/I/51sWeXekplL._AC_UF1000,1000_QL80_.jpg",
+    "https://cdn.shopify.com/s/files/1/0579/7924/0580/files/bd17af1d65_600x600.jpg?v=1735908453",
+    "https://m.media-amazon.com/images/I/41sxdJ1QsnL._UF350,350_QL80_.jpg"
+  ],
+  "bestCondition": {
+    "sunlight": "Requires 6–7 hours of bright sunlight daily.",
+    "water": "Needs plenty of water; deep irrigation 2–3 times a week. Avoid standing water.",
+    "soil": "Fertile sandy loam soil, well-drained and rich in organic compost. Ideal pH: 6.5–7.5."
+  },
+  "whenToSow": "Summer Crop: February – March | Kharif Crop (Rainy): June – July | Rabi Crop (South India): October – November (mild winter areas).",
+  "growingGuide": [
+    "Seed Preparation/pSelect healthy seeds, preferably from local varieties like Anapakaya. Soak the seeds in water for 6–8 hours to improve germination. Scarify thick seeds by gently rubbing with sandpaper before sowing.",
+    "Sowing/pSow the seeds directly in the main field or large grow bags. Place 2 seeds per pit, about 1.5–2 meters apart, as bottle gourd vines spread vigorously. Thin later to one healthy seedling per pit.",
+    "Supporting Growth/pBottle gourd vines love to climb. Provide a strong trellis made of bamboo or wires so fruits can hang down straight without bending. This also prevents pest attacks and makes harvesting easier.",
+    "Watering and Sunlight/pEnsure steady watering, especially during the flowering and fruiting stages. Overwatering should be avoided as it may cause root rot. Mulch around the base to keep soil cool and moist.",
+    "Feeding and Care/pAdd compost or farmyard manure every 20 days. During flowering, spray a liquid fertilizer like jeevamrutham or seaweed extract to encourage fruit set. Pinch off extra side shoots after the main vine develops 6–8 leaves to direct energy into fruiting.",
+    "Flowering and Pollination/pBottle gourd produces both male and female flowers. Female flowers can be identified by the tiny fruit at their base. To ensure good pollination, allow bees or hand-pollinate by gently transferring pollen from male to female flowers in the morning hours."
+  ],
+  "growingGuideImages": [
+    "https://i.ytimg.com/vi/ofqJROLScT0/sddefault.jpg",
+    "https://cdn.shopify.com/s/files/1/0573/3993/6868/t/6/assets/gourd-bottle-seedling-1693512097274.jpg?v=1693512098",
+    "https://cdn.shopify.com/s/files/1/0013/7075/1020/files/opu_large.jpg?v=1524571681",
+    "https://i.ytimg.com/vi/KrTwzWOuVus/hqdefault.jpg",
+    "https://i.ytimg.com/vi/0ShU0MVkLO8/maxresdefault.jpg"
+  ],
+  "harvesting": "Fruits are ready for harvest 60–70 days after sowing. Pick them when they are 25–40 cm long, tender, and bright green. If the skin hardens or turns yellow, they become fibrous and lose taste. Frequent harvesting every 2–3 days promotes more fruiting.",
+  "harvestingImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQezqVSDLT-FOD-y0TAlY01DoPXPyo1hCq0_w&s",
+  "commonTroubles": [
+    "Fruit Fly/pSmall holes with larvae inside fruits. Remedy: Use pheromone traps, cover young fruits with paper bags, and spray neem oil.",
+    "Powdery Mildew/pWhite powdery coating on leaves. Remedy: Spray diluted cow milk solution or neem oil weekly.",
+    "Downy Mildew/pYellow patches on upper leaf surfaces with grayish mold below. Remedy: Remove affected leaves and spray copper fungicide."
+  ],
+  "commonTroublesImages": [
+    "https://www.direct2farmer.com/wp-content/uploads/image/catalog/Lures/OFF.jpg",
+    "https://agrio.app/wp-content/uploads/2019/11/image2-56-768x1024.jpg",
+    "https://kisanvedika.bighaat.com/wp-content/uploads/2023/05/MicrosoftTeams-image-45.jpg"
+  ],
+  "quickFacts": [
+    "Bottle gourd is composed of about 92% water, making it a great summer vegetable.",
+    "It has been mentioned in ancient Ayurvedic texts for its cooling and heart-health benefits.",
+    "Frequent harvesting encourages continuous fruit production."
+  ],
+  "category": "Vegetable",
+  "createdAt": {
+    "$date": "2025-08-10T07:51:25.156Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T07:51:25.156Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "68984fd565eb8870f02481bd"
+  },
+  "customId": "GNV005",
+  "name": "Bitter Gourd (Karela)",
+  "coverImage": "https://www.trustbasket.com/cdn/shop/articles/Bittergourd.webp?v=1687165171",
+  "video": "https://youtu.be/S74VnekR1Z0?si=9I0sYWX8aJRZKeQ0",
+  "doYouKnow": "Bitter gourd, or karela, may not be everyone’s favorite for its taste, but it is a superfood in disguise. Packed with iron, vitamin C, and antioxidants, it is well known for regulating blood sugar and cleansing the body. In Ayurveda, karela is described as a natural blood purifier. Popular recipes like bharwa karela (stuffed karela), crispy karela fry, and karela sabzi with onions turn this bitter vegetable into a delicious treat. If grown at home, karela becomes less bitter and more tender, making it easier for the whole family to enjoy.",
+  "varietiesText": [
+    "Priya Karela (Long Green) – Slim, dark-green fruits, widely grown in Andhra and Maharashtra.",
+    "MDU-1 (Small Round Karela) – Compact and suitable for backyard gardens.",
+    "Arka Harit – Uniform fruits with high yield.",
+    "Desi Karela (Small Spiny) – Traditional, more bitter, used in stuffed curries."
+  ],
+  "varietiesImages": [
+    "https://images-eu.ssl-images-amazon.com/images/I/519qu8RUsUS._AC_UL495_SR435,495_.jpg",
+    "https://m.media-amazon.com/images/I/61Gb6iUstGL.jpg",
+    "https://m.media-amazon.com/images/I/511cDj298hL._UF1000,1000_QL80_.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1pRnBautZ2pYG61KpX4eCDTmt1W1v0VViWgdwu2Lke08x5Xz4d3G4BiLfK3Fz4LZto7I&usqp=CAU"
+  ],
+  "bestCondition": {
+    "sunlight": "Needs 6–8 hours of strong sunlight daily.",
+    "water": "Requires moderate watering; 3–4 times a week. Avoid waterlogging as roots rot easily.",
+    "soil": "Sandy loam soil rich in organic compost. pH: 6–7."
+  },
+  "whenToSow": "Summer Crop: January – March | Kharif Crop (Rainy): June – July | Late Crop: October – November (in mild winter areas of South India).",
+  "growingGuide": [
+    "Seed Preparation/pBitter gourd seeds have a hard outer coat. Soak them in water overnight and nick one edge with a knife for better germination. For organic protection, coat seeds with neem powder before sowing.",
+    "Sowing/pSow seeds directly in pits about 1.5 m apart on raised beds. Place 2–3 seeds per pit and later thin to one healthy seedling. Since the vines spread fast, ensure enough spacing for proper airflow and growth.",
+    "Supporting Growth/pProvide a strong trellis made from bamboo poles or wires for climbing vines. Trellising allows fruits to hang down straight, preventing them from curling and getting damaged.",
+    "Watering and Mulching/pKeep the soil evenly moist, especially during flowering. Mulch with dry leaves or straw around the base to keep soil cool and control weeds. Avoid overhead watering as it increases fungal risk.",
+    "Feeding and Care/pTop dress with compost or vermicompost every 20–25 days. During flowering, spray an organic foliar fertilizer such as panchagavya or seaweed extract for better fruiting. Pinch the tips of vines after 6–7 leaves to encourage side branching.",
+    "Flowering and Pollination/pBitter gourd produces separate male and female flowers. Hand pollination in the morning can ensure higher fruit set — gently transfer pollen from a male flower to the female (which has a tiny fruit at the base)."
+  ],
+  "growingGuideImages": [
+    "https://i.ytimg.com/vi/v2Mb7cZW_Fw/maxresdefault.jpg",
+    "https://seedy.farm/wp-content/uploads/2024/03/bitter-gourd-seedling-true-leaves-thinning-stage.webp",
+    "https://m.media-amazon.com/images/I/81tRv5b-9nL.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNhBy5nqJV0YLzQmRNV6w7Fn6w9YWjiq25nQ&s",
+    "https://www.agrifarming.in/wp-content/uploads/2018/05/Bitter-Gourd-Growing-Steps..jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-g3pCW3QQTDQF9dclgxb3bYk7HBK2-RYSVA&s"
+  ],
+  "harvesting": "Fruits are ready for picking 55–65 days after sowing. Harvest them while still green, tender, and glossy, about 10–15 cm long. Avoid waiting too long, as overripe fruits turn yellow, bitterer, and filled with hard seeds. Harvest every 3–4 days to keep the vine producing continuously.",
+  "harvestingImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuXix1HvOgfs5-3bHQAF0l2L2NRUaC0msckQ&s",
+  "commonTroubles": [
+    "Fruit Fly/pTiny holes on fruits with larvae inside. Remedy: Use pheromone traps; wrap young fruits in paper; spray neem oil weekly.",
+    "Powdery Mildew/pWhite powdery patches on leaves. Remedy: Spray diluted cow milk solution or sulfur-based organic fungicide.",
+    "Root Rot/pSudden wilting of vines. Remedy: Avoid waterlogging; grow in raised beds; mix Trichoderma in soil before planting."
+  ],
+  "commonTroublesImages": [
+    "https://compress-pop-images.s3.ap-south-1.amazonaws.com/static/fruitfly3_397163041JrttD.webp",
+    "https://compress-pop-images.s3.ap-south-1.amazonaws.com/static/bittergourdpowdery_370499014PaZSG.webp",
+    "https://compress-pop-images.s3.ap-south-1.amazonaws.com/static/nematodes3_519150367BDnQw_1625231403_1625231407.webp"
+  ],
+  "quickFacts": [
+    "Bitter gourd is rich in iron, vitamin C, and antioxidants, and is used in Ayurveda as a natural blood purifier.",
+    "Home-grown bitter gourd tends to be less bitter and more tender.",
+    "Good companion plants for bitter gourd include beans, cucumber, and radish.",
+    "Avoid planting bitter gourd with bottle gourd and pumpkin to reduce competition and shared pests."
+  ],
+  "category": "Vegetable",
+  "createdAt": {
+    "$date": "2025-08-10T07:52:53.429Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T07:52:53.429Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "6898507965eb8870f02481be"
+  },
+  "customId": "GNV006",
+  "name": "Ridge Gourd (Turai / Beerakaya)",
+  "coverImage": "https://www.asiafarming.com/wp-content/uploads/2016/01/Ridge-Gourd-Flowering.jpg",
+  "video": "https://youtu.be/5k81wy7j7Gg?si=scM421nUltcGkL86",
+  "doYouKnow": "Ridge gourd, called turai in Hindi and beerakaya in Telugu, is a staple in Indian kitchens. It is valued for its light taste and cooling effect, making it perfect for dishes like beerakaya pappu, ridge gourd chutney, and stuffed turai curry. Rich in dietary fiber, vitamin C, and antioxidants, ridge gourd supports digestion and skin health. Interestingly, if left to mature, its dried shell becomes a natural loofah used as a body scrubber.",
+  "varietiesText": [
+    "Beerakaya (Traditional Ridge Gourd) – Popular in South Indian households, long and ribbed.",
+    "Smooth Ridge Gourd (Dodka) – Less ribbed, tender, and commonly grown in Maharashtra.",
+    "Arka Sumeet – Hybrid with uniform, tender fruits.",
+    "Desi Long Ridge Gourd – Cylindrical, firm, ideal for chutneys and curries."
+  ],
+  "varietiesImages": [
+    "https://www.sainursery.com.au/uploads/services/1663671971_47B74B0D-E634-42FB-AA21-E87C74DC3506.jpeg",
+    "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-79265520/79265520.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVaM7DvCurKee1pbZQjYfWYX0sPtePchL4zg&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGwtav4fWqy1RI_BqFxq4193b_tScIh-K8DA&s"
+  ],
+  "bestCondition": {
+    "sunlight": "Needs 6–7 hours of bright sunlight daily.",
+    "water": "Regular watering, especially during flowering and fruiting. Avoid waterlogging.",
+    "soil": "Sandy loam soil enriched with organic manure; pH 6–7."
+  },
+  "whenToSow": "Summer Crop: January – March | Kharif Crop: June – July | Late Crop: October – November (in southern India).",
+  "cropCalender": "Ridge gourd is a warm-season crop and grows best in summer and rainy seasons.",
+  "growingGuide": [
+    "Seed Preparation/pSoak seeds overnight to soften their hard coat and ensure quick germination.",
+    "Sowing/pSow directly in pits spaced 1.5 m apart. Plant 2 seeds per pit; thin later to one healthy seedling. Use raised beds for good drainage.",
+    "Supporting Growth/pProvide a sturdy trellis so the vines can climb, which helps fruits grow straight and prevents rotting.",
+    "Watering and Feeding/pIrrigate 2–3 times a week. Apply compost or vermicompost every 20–25 days. During flowering, use liquid organic fertilizers for better fruit set.",
+    "Pollination/pHand pollination may be done in the mornings to improve yield, especially if bee activity is low."
+  ],
+  "growingGuideImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEBC_lK5g5tSacoh7HknB-saQoqLPTc41brQ&s",
+    "https://myecobin.in/img/cms/ridge02.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2024/8/446449511/VT/FZ/PW/9853201/ridge-gourd-supporting-net-500x500.jpeg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVRW7LxL8DzJluNwW53EdGP8Pe66lAwf2GpA&s",
+    "https://i.ytimg.com/vi/yVfyWGXh2tI/hqdefault.jpg"
+  ],
+  "harvesting": "Ready for harvest 55–65 days after sowing. Pick fruits when they are 20–25 cm long, tender, and bright green. Delay in harvesting leads to hard, fibrous fruits unsuitable for cooking. Harvest every 2–3 days for continuous production.",
+  "harvestingImage": "https://images.news18.com/ibnlive/uploads/2024/04/untitled-design-2024-04-10t125201.938-2024-04-9ecd97dff3d11e79e5fe67fec3ffe20c-16x9.jpg",
+  "commonTroubles": [
+    "Fruit Fly/pSmall holes on fruits, rotting inside. Remedy: Use pheromone traps and neem oil sprays.",
+    "Powdery Mildew/pWhite powdery coating on leaves. Remedy: Spray diluted cow milk or sulfur-based fungicide.",
+    "Downy Mildew/pYellow patches on leaves with gray fungus below. Remedy: Remove affected leaves; spray copper fungicide."
+  ],
+  "commonTroublesImages": [
+    "https://www.desikheti.com/cdn/shop/files/Ridge_Gourd_Fruit_Fly_4.png?v=1738220814&width=3840",
+    "https://www.desikheti.com/cdn/shop/files/Ridge_Gourd_Powdery_Mildew_2.png?v=1738222820&width=3840",
+    "https://kisanvedika.bighaat.com/wp-content/uploads/2023/05/downy-mildew-1200x900.jpg"
+  ],
+  "quickFacts": [
+    "Ridge gourd is rich in dietary fiber, vitamin C, and antioxidants.",
+    "If left to mature, its dried shell becomes a natural loofah.",
+    "Good companion plants: beans, corn, and radish.",
+    "Avoid planting with other gourds to reduce pest transfer."
+  ],
+  "category": "Vegetable",
+  "searchWords": [
+    "ridge gourd",
+    "turai",
+    "beerakaya",
+    "beerakaya varieties",
+    "smooth ridge gourd",
+    "arka sumeet",
+    "desi long ridge gourd",
+    "ridge gourd recipes",
+    "ridge gourd farming",
+    "grow ridge gourd at home"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T07:55:37.589Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T07:55:37.589Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "689850a465eb8870f02481bf"
+  },
+  "customId": "GNV006",
+  "name": "Cucumber (Kheera / Dosakaya)",
+  "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/ARS_cucumber.jpg/1200px-ARS_cucumber.jpg",
+  "video": "https://youtu.be/GJFt_jdUutM?si=d9ugpoLXsbFqk5lK",
+  "doYouKnow": "Cucumber, called kheera in Hindi and dosakaya in Telugu, is one of the most refreshing summer vegetables in India. With about 95% water content, cucumbers are excellent for hydration, digestion, and skin health. From cucumber salads and raitas to dosakaya pappu and pickles, it fits into a wide variety of Indian dishes. Ancient civilizations, including Egyptians and Greeks, grew cucumbers for their cooling and medicinal properties.",
+  "varietiesText": [
+    "Dosakaya (Yellow Round Cucumber) – Popular in Andhra cuisine, especially for curries and dals.",
+    "Green Long Cucumber (Desi Kheera) – Commonly eaten raw in salads and raitas.",
+    "Japanese Cucumber – Slim, long, and tender, with fewer seeds.",
+    "Hybrid White Cucumber – Early bearing, crisp, and mild flavored.",
+    "Poona Kheera – Thick-skinned, turns brown when mature, crunchy texture."
+  ],
+  "varietiesImages": [
+    "https://in.zohocommercecdn.com/product-images/N1QEYv4WYv.jpg/1481995000000248072/600x600?storefront_domain=www.gandhisgardentokitchen.com",
+    "https://m.media-amazon.com/images/I/51-SR2+hLPL._UF894,1000_QL80_.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSru-ix6ppgvQ8xTTnkhjXXOKI1hYMqb_SXfw&s",
+    "https://m.media-amazon.com/images/I/61OtfHnU0HL._UF1000,1000_QL80_.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUpJuPfwhD-ib9jOXSapgM4mYaMsr_Cbpi2A&s"
+  ],
+  "bestCondition": {
+    "sunlight": "Needs 5–6 hours of sunlight daily; thrives in warm weather.",
+    "water": "Requires consistent watering; soil should remain moist but never waterlogged.",
+    "soil": "Well-drained sandy loam soil rich in organic matter; pH 6–7."
+  },
+  "whenToSow": "Summer Crop: January – March | Kharif Crop: June – July | Late Crop: September – October (suitable for southern India).",
+  "cropCalender": "",
+  "growingGuide": [
+    "Seed Preparation/pSoak seeds in water for 6–8 hours before sowing to improve germination.",
+    "Sowing/pSow directly into soil beds or grow bags, 1.5–2 m apart. Plant 2–3 seeds per pit, thinning later to the healthiest seedling. Raised beds improve drainage and root health.",
+    "Supporting Growth/pThough cucumbers can trail along the ground, growing them on a trellis or support keeps fruits cleaner, straighter, and reduces pest issues.",
+    "Watering and Feeding/pWater regularly, especially during flowering and fruiting. Apply compost or vermicompost every 15–20 days. Spray seaweed extract or liquid compost during flowering to increase fruit set.",
+    "Pollination/pCucumber has both male and female flowers. Hand pollinate in the early morning if bees are not active — transfer pollen from male to female flowers (the female has a small fruit beneath)."
+  ],
+  "growingGuideImages": [
+    "https://i.ytimg.com/vi/Ag12GlUzCTY/sddefault.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT36Y7JgS3r-kBZG1IqYGKoSsbq86ciK4gdZQ&s",
+    "https://www.realsimple.com/thmb/nbxbpEtJnx99cdmvfEA6akO267E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Cucumbers-growing-in-raised-bed-683x1024-2f351e17d9d543058d80e3bf4300e94f.jpg",
+    "https://localexpert.com.au/wp-content/uploads/2022/03/Identifying-Flower-Types-1024x512.jpg"
+  ],
+  "harvesting": "Ready for harvest 45–55 days after sowing. Pick cucumbers when they are firm, green, and 15–20 cm long, before they turn yellow. Tender fruits taste the best. Harvest every 2–3 days to encourage continuous production.",
+  "harvestingImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ4aPmAHoUUfvAuTiNR6buaevPkD6pGuAC1A&s",
+  "commonTroubles": [
+    "Downy Mildew/pYellow angular spots on leaves. Remedy: Spray neem oil or copper fungicide; ensure proper spacing.",
+    "Fruit Fly/pSmall punctures on fruits with rotting inside. Remedy: Use pheromone traps; cover young fruits with paper bags.",
+    "Powdery Mildew/pWhite powdery patches on leaf surfaces. Remedy: Spray diluted cow milk solution or sulfur-based fungicide."
+  ],
+  "commonTroublesImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfn8WL_EAHrGv0lBGZQYm-yYZ1nik2-EsEZg&s",
+    "https://us-central1-plantix-8e0ce.cloudfunctions.net/v1/image/w400/e93c2aca-00e8-47dd-b59b-1aa8217a7218",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWu2haBWI7vx9N-bC1VgGeMz7w7dHdDO_rZQ&s"
+  ],
+  "quickFacts": [
+    "Cucumber contains about 95% water, making it excellent for hydration.",
+    "Cucumber is used in salads, raitas, pickles, and curries across India.",
+    "It has been cultivated since ancient Egyptian and Greek times for cooling and medicinal purposes.",
+    "Good companion plants for cucumber include beans, carrots, and radish.",
+    "Avoid planting cucumber with potatoes to reduce nutrient competition."
+  ],
+  "category": "Vegetable",
+  "searchWords": [
+    "cucumber",
+    "kheera",
+    "dosakaya",
+    "yellow cucumber",
+    "green cucumber",
+    "japanese cucumber",
+    "hybrid white cucumber",
+    "poona kheera",
+    "grow cucumber at home",
+    "cucumber salad"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T07:56:20.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T07:56:20.205Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "689851d465eb8870f02481c0"
+  },
+  "customId": "GNV008",
+  "name": "Pumpkin (Kaddu / Gummadikaya) – From Seed to Harvest",
+  "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPeQRh9iaukGhZVhd0BZeuhUg27lI_LpjVtg&s",
+  "video": "https://youtu.be/EMPozsJpTBE?si=yeFLfv0jnypE90H_",
+  "doYouKnow": "Pumpkin, called kaddu in Hindi and gummadikaya in Telugu, is a nutrient-rich vegetable enjoyed across India. From kaddu ki sabzi and pumpkin halwa to sambar and even pumpkin soup, it’s a versatile ingredient in kitchens. Rich in vitamin A, antioxidants, and beta-carotene, pumpkin supports vision and boosts immunity. Its seeds are also edible and full of healthy fats and proteins. In many cultures, pumpkins symbolize prosperity and are even offered in traditional rituals.",
+  "varietiesText": [
+    "Gummadikaya (Round Desi Pumpkin) – Common in South India, used in sambars and curries.",
+    "Long Neck Pumpkin – Cylindrical with a bulbous end, high yielding.",
+    "Arka Chandan – Sweet, yellow-fleshed variety good for halwa and sweets.",
+    "Kashi Harit – High-yielding hybrid with uniform fruits.",
+    "Sugar Pumpkin – Small, sweet variety perfect for soups and desserts."
+  ],
+  "varietiesImages": [
+    "https://m.media-amazon.com/images/I/51AOZSv1tZL._UF894,1000_QL80_.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlA_eW6fAaoAt4CSz9YLVoJrmxONMN-B3niw&s",
+    "https://m.media-amazon.com/images/I/21OQwLMFWmL._UF1000,1000_QL80_.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdPpjSQhn3lDYNf1cRfnSq5aQJBRGR9zWmMA&s",
+    "https://www.thespruceeats.com/thmb/h4r1Ze6tPdtCOTE2Gn6Jfkp_Wo4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sugarpumpkinsLaylandmasuda-28d7af0ad2bb4244852a4db3d198b7c9.jpg"
+  ],
+  "bestCondition": {
+    "sunlight": "Needs 6–8 hours of full sunlight daily.",
+    "water": "Requires plenty of water; deep watering twice a week. Avoid waterlogging.",
+    "soil": "Sandy loam soil enriched with compost; pH 6–7.5."
+  },
+  "whenToSow": "Summer Crop: February – March | Kharif Crop: June – July | Late Crop: October – November (in South India).",
+  "cropCalender": "Pumpkin is a warm-season crop that adapts well in most Indian regions.",
+  "growingGuide": [
+    "Seed Preparation/pSoak pumpkin seeds for 6 hours before sowing for better germination.",
+    "Sowing/pSow directly in pits spaced 2 m apart, 2 seeds per pit. Thin later to one healthy plant. Provide enough space as vines spread vigorously.",
+    "Supporting Growth/pAllow vines to spread on the ground or provide a trellis. For small gardens, training vines on supports saves space.",
+    "Watering and Feeding/pRegular watering is crucial, especially during flowering and fruiting. Add compost or farmyard manure every 20 days. During fruit set, spray organic liquid fertilizer like panchagavya to boost yield.",
+    "Pollination/pPumpkin produces separate male and female flowers. Hand pollination ensures better fruiting, especially in small gardens."
+  ],
+  "growingGuideImages": [
+    "https://healthiersteps.com/wp-content/uploads/2022/04/planting-pumpkin-seeds.jpeg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmdSDMatPLnV-1H2hFA67RuKZibm3IbLDZ7Q&s",
+    "https://external-preview.redd.it/zU2ybzhy4yZQ08uOz4gbhukmWw4c7uROH8WqDw_aayo.jpg?auto=webp&s=b31488d453bf53af501b91be38a227e7bb4596bb",
+    "https://giantveggiegardener.com/wp-content/uploads/2011/07/pollinating-flower.jpg"
+  ],
+  "harvesting": "Fruits are ready 90–120 days after sowing. Harvest when the skin is hard and develops a deep color (orange, green, or yellow depending on the variety). A hollow sound when tapped indicates maturity. Leave a small portion of the stem attached during harvest to improve storage life.",
+  "harvestingImage": "https://unsdg.un.org/sites/default/files/styles/hero_header_2xl_1x/public/2023-12/WFP%20Lena%20Zabern.jpeg?itok=LuGq0LZO",
+  "commonTroubles": [
+    "Fruit Fly/pSymptom: Maggots inside fruits, rotting. Remedy: Use pheromone traps; cover fruits with net bags; spray neem oil.",
+    "Powdery Mildew/pSymptom: White powdery patches on leaves. Remedy: Spray diluted cow milk solution or sulfur-based fungicide.",
+    "Downy Mildew/pSymptom: Yellow angular patches on leaves. Remedy: Remove affected leaves and spray copper fungicide."
+  ],
+  "commonTroublesImages": [
+    "https://notesbynats.com/wp-content/uploads/2021/01/ea3eb9e3-e912-4c24-98e6-e854220ebc2c-768x1024.jpg",
+    "https://cdn.mos.cms.futurecdn.net/S6TndtkEW3u6v6eYDrxBxT.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFOMoXYiH_YtCgiF2pcKdOszmwBvctWYwQYA&s"
+  ],
+  "quickFacts": [
+    "Pumpkin is rich in vitamin A, beta-carotene, and antioxidants.",
+    "Pumpkin seeds are edible and high in healthy fats and proteins.",
+    "Pumpkin is used across India in dishes like kaddu ki sabzi, pumpkin halwa, sambar, and soups.",
+    "Typical harvest time for pumpkin is 90–120 days after sowing."
+  ],
+  "category": "Vegetable",
+  "searchWords": [
+    "pumpkin",
+    "kaddu",
+    "gummadikaya",
+    "arka chandan",
+    "kashi harit",
+    "sugar pumpkin",
+    "pumpkin cultivation",
+    "grow pumpkin at home",
+    "pumpkin farming",
+    "pumpkin harvest"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T08:01:24.744Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T08:01:24.744Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "6898537b65eb8870f02481c1"
+  },
+  "customId": "GNV009",
+  "name": "Capsicum (Shimla Mirch) – From Seed to Harvest",
+  "coverImage": "https://royalsplant.com/wp-content/uploads/2023/11/Capsicum-plant-How-to-grow-and-care-for-Capsicum-annum.jpg",
+  "video": "https://youtu.be/AavlYuX8kgg?si=XxrA3xIbZHq3R6Ap",
+  "doYouKnow": "Capsicum, also known as shimla mirch, is a colorful vegetable used in curries, stir-fries, and even pizza toppings. Rich in vitamin C and antioxidants, it strengthens immunity and promotes skin health. Green, yellow, and red capsicums come from the same plant but are harvested at different ripening stages.",
+  "varietiesText": [
+    "California Wonder – Popular blocky green capsicum.",
+    "Indra (Hybrid) – High-yielding, disease-resistant.",
+    "Yellow Bell Pepper – Sweet, mild flavor, rich in beta-carotene.",
+    "Desi Shimla Mirch – Small, desi variety common in Indian markets."
+  ],
+  "varietiesImages": [
+    "https://goldenhillsfarm.in/media/product_images/capsicum-green-wonder.jpg",
+    "https://www.syngenta.co.in/sites/g/files/kgtney376/files/styles/syn_full_width_scale/public/media/image/2022/03/07/indra_edit.jpg?itok=gpxl8WzP",
+    "https://goldenhillsfarm.in/media/product_images/capsicum-op-uyellow.jpg",
+    "https://m.media-amazon.com/images/I/31goxQc-xyL._UF1000,1000_QL80_.jpg"
+  ],
+  "bestCondition": {
+    "sunlight": "5–6 hours of sunlight daily.",
+    "water": "Regular, light irrigation; avoid waterlogging.",
+    "soil": "Fertile, well-drained loamy soil, pH 6–6.5."
+  },
+  "whenToSow": "Rabi Crop: October – November\nSummer Crop: February – March",
+  "growingGuide": [
+    "Seed Preparation /p Use nursery trays for better germination. Transplant seedlings 4–6 weeks old.",
+    "Sowing /p Maintain 45 cm spacing between plants.",
+    "Watering and Feeding /p Light watering every alternate day. Apply compost every 20 days.",
+    "Supporting Growth /p Use stakes to support heavy fruiting plants.",
+    "Pollination /p Bees ensure good pollination; avoid pesticides during flowering."
+  ],
+  "growingGuideImages": [
+    "https://seasol.com.au/wp-content/uploads/2020/12/144793246_s.jpg",
+    "https://c8.alamy.com/comp/2J9KRWB/a-small-capsicum-plant-growing-on-a-pot-in-an-indian-household-isolated-green-plant-pot-placed-on-a-concrete-floor-2J9KRWB.jpg"
+  ],
+  "harvesting": "Capsicum is ready for harvest 70–90 days after sowing. Pick when fruits are firm, shiny, and green (or yellow/red as desired). Frequent picking encourages more fruiting.",
+  "harvestingImage": "https://www.mindfood.com/wp-content/uploads/2024/08/capsicum-iStock-1264082844-1.jpeg",
+  "commonTroubles": [
+    "Fruit Rot /p Avoid overhead watering; use neem oil.",
+    "Aphids /p Spray neem oil or soapy water.",
+    "Powdery Mildew /p Spray diluted cow milk or sulfur fungicide."
+  ],
+  "commonTroublesImages": [
+    "https://us-central1-plantix-8e0ce.cloudfunctions.net/v1/image/w400/d738ffba-ed5c-44d7-8eae-013071b07997",
+    "https://pepperscale.com/wp-content/uploads/2021/11/Aphids-on-a-plant-e1684069682363.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT37TRH86iHXcmgIP7uiQBrCu5_mtA4gFPGQA&s"
+  ],
+  "quickFacts": [
+    "Good Companions: Basil, onions, and carrots.",
+    "Avoid With: Beans (they attract aphids)."
+  ],
+  "category": "Vegetable",
+  "searchWords": [
+    "capsicum",
+    "shimla mirch",
+    "bell pepper",
+    "vegetable",
+    "gardening",
+    "grow capsicum"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T08:08:27.717Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T08:08:27.717Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "6898547d65eb8870f02481c2"
+  },
+  "customId": "GNV010",
+  "name": "Cauliflower (Phool Gobi) – From Seed to Harvest",
+  "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXo1pTXhMFZ52F1Ydkf5Qd7yrdSOrGfYMIQA&s",
+  "video": "https://youtu.be/uhFbRyL5Jrc?si=Gg2SEXT_J9MBbHdu",
+  "doYouKnow": "Cauliflower, or phool gobi, is a versatile winter vegetable used in curries, pakoras, and even as a low-carb substitute in modern diets. Rich in vitamin C, K, and folate, it supports immunity and brain health. India is one of the largest producers of cauliflower in the world.",
+  "varietiesText": [
+    "Early Kunwari – Suitable for early sowing.",
+    "Pusa Snowball K-1 – Popular variety with compact white curds.",
+    "Desi Cauliflower – Traditional variety, slightly loose heads.",
+    "Hybrid Snowball – High-yielding with firm heads."
+  ],
+  "varietiesImages": [
+    "https://3.imimg.com/data3/WA/HW/MY-2207291/early-kuari-cauliflower-500x500.jpg",
+    "https://rukminim2.flixcart.com/image/704/844/xif0q/plant-seed/t/n/6/750-mah-iv-pusa-snowball-k-1-variety-cauliflower-2-5g-750-seeds-original-imagrxcdzazg8seq.jpeg?q=90&crop=false",
+    "https://samsgardenstore.com/cdn/shop/files/CauliflowerDesiVegetableSeeds_51c6b6e3-e6f6-49bc-a038-a5473745e5be.webp?v=1726147038",
+    "https://m.media-amazon.com/images/I/61Iaw39VGPL._UF1000,1000_QL80_.jpg"
+  ],
+  "bestCondition": {
+    "sunlight": "5–6 hours of sunlight daily.",
+    "water": "Regular irrigation; keep soil moist.",
+    "soil": "Fertile loamy soil with good drainage; pH 6–7."
+  },
+  "whenToSow": "Main Season: September – October; Late Season: November – December",
+  "cropCalender": "Main Season: September – October; Late Season: November – December",
+  "growingGuide": [
+    "Seed Preparation/pRaise seedlings in a nursery; transplant at 4–5 weeks.",
+    "Sowing/pPlant with 45 cm spacing.",
+    "Watering and Feeding/pKeep soil evenly moist; top-dress with compost every 15–20 days.",
+    "Special Care/pCover developing curds with inner leaves to maintain whiteness."
+  ],
+  "growingGuideImages": [
+    "https://cdn.mos.cms.futurecdn.net/QBCNvdX8UW2wYTTaMUAK3Y.jpg",
+    "https://harvesttotable.com/wp-content/uploads/2017/01/Cauliflower-bigstock-Agriculture-Photo-Of-Growing-246136111-724x1024.jpg"
+  ],
+  "harvesting": "Ready 90–120 days after sowing. Harvest when curds are firm, white, and compact. Delayed harvesting leads to loose, discolored heads.",
+  "harvestingImage": "https://www.agrifarming.in/wp-content/uploads/Ultimate-Guide-to-Cauliflower-Ghobi-Farming-1.jpg",
+  "commonTroubles": [
+    "Aphids/pSpray neem oil.",
+    "Downy Mildew/pSpray copper fungicide.",
+    "Black Rot/pAvoid waterlogging and practice crop rotation."
+  ],
+  "commonTroublesImages": [
+    "https://www.desikheti.com/cdn/shop/files/Cauliflower_Aphids_4.png?v=1738645023&width=3840",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAUCjpOeaTeZNCzjhDL_XRbC8_GmPawawFRA&s",
+    "https://www.plantdiseases.org/sites/default/files/plant_disease/images/0221.jpg"
+  ],
+  "quickFacts": [
+    "Good Companions: Peas, spinach, and onions.",
+    "Avoid With: Tomatoes (compete for nutrients)."
+  ],
+  "category": "Vegetable",
+  "searchWords": [
+    "cauliflower",
+    "phool gobi",
+    "winter vegetable",
+    "vegetable farming",
+    "vegetable gardening"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T08:12:45.450Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T08:12:45.450Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "6898772365eb8870f02481c3"
+  },
+  "customId": "GNV011",
+  "name": "Cabbage (Patta Gobi)",
+  "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSukh54eOUEMIbPsJ2sZHwBgxCw3hWQLZnRgA&s",
+  "video": "https://youtu.be/Ux-DtELMW5A?si=ar_CIDRk3A7z6pUS",
+  "doYouKnow": "Cabbage, called patta gobi, is a leafy vegetable used in stir-fries, parathas, salads, and soups. Low in calories and high in vitamin K, vitamin C, and antioxidants, it supports digestion and boosts immunity. Sauerkraut and kimchi are famous fermented dishes made from cabbage.",
+  "varietiesText": [
+    "Golden Acre – Early maturing, compact heads.",
+    "Pusa Drum Head – Traditional Indian variety.",
+    "Hybrid Green Cabbage – Firm, large heads.",
+    "Red Cabbage – Rich in antioxidants, striking color."
+  ],
+  "varietiesImages": [
+    "https://dujjhct8zer0r.cloudfront.net/media/prod_image/7d888567749620bd4d0767785b33a392-11-01-23-14-22-38.webp",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF5waKrTszjUFrDZlVAKahk3dHUKprVkafpQ&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3dS_rZZnKpuJXVUoo3rE_BVEEP7K5XIl7sg&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyd-TrkkAKo4r7Wn4sSVRFC-GFobHlNRptGQ&s"
+  ],
+  "bestCondition": {
+    "sunlight": "5–6 hours daily.",
+    "water": "Frequent light irrigation.",
+    "soil": "Fertile loamy soil, rich in organic manure; pH 6–7."
+  },
+  "whenToSow": "Winter Crop: October – November\nSpring Crop: January – February",
+  "cropCalender": "Winter Crop: October – November\nSpring Crop: January – February",
+  "growingGuide": [
+    "Seed Preparation/pRaise seedlings in a nursery. Transplant at 4 weeks.",
+    "Sowing/pMaintain 45 cm spacing.",
+    "Watering and Feeding/pKeep soil moist. Apply compost every 15 days.",
+    "Care/pEarth up soil around the base to support the growing head."
+  ],
+  "growingGuideImages": [
+    "https://i.ytimg.com/vi/dtILJp8yk8Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCDis130SzIqibXCNo63Md9r75a0g",
+    "https://harvesttotable.com/wp-content/uploads/2009/01/Cabbage-bigstock-Young-Seedlings-Of-Cabbage-In-295492042-scaled.jpg"
+  ],
+  "harvesting": "Ready in 80–100 days after sowing. Harvest when heads are firm and compact. Overripe heads may split.",
+  "harvestingImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGQP4LAjsuqPUwAQWdgkpZzLpbqtpR4qw3UA&s",
+  "commonTroubles": [
+    "Cabbage Caterpillar/pHandpick or spray neem oil.",
+    "Aphids/pControl with soapy water spray.",
+    "Black Rot/pPractice crop rotation and avoid overwatering."
+  ],
+  "commonTroublesImages": [
+    "https://www.rhs.org.uk/getmedia/a8744a24-e256-4bd8-a078-92d09374bdb9/20240809_085919.JPG?width=941&height=940&ext=.jpg",
+    "https://extension.usu.edu/vegetableguide/images/brassica-images/cabbage-aphids-cabbage.jpg",
+    "https://plantwiseplusknowledgebank.org/cms/10.1079/pwkb.20177800738/asset/1e12f9f9-8971-4d77-95f6-496d81533a40/assets/graphic/black-rot-on-cabbage-global-2.jpg"
+  ],
+  "quickFacts": [
+    "Good Companions: Celery, onions, and potatoes.",
+    "Avoid With: Strawberries and tomatoes."
+  ],
+  "category": "Vegetable",
+  "searchWords": [
+    "cabbage",
+    "patta gobi",
+    "leafy vegetable",
+    "vegetable farming",
+    "vegetable gardening"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T10:40:35.797Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T10:40:35.797Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "689877a565eb8870f02481c4"
+  },
+  "customId": "GNV012",
+  "name": "Beans (French Beans / Cluster Beans / Yardlong Beans)",
+  "coverImage": "https://www.thespruce.com/thmb/R7XNMLwWfLAXJOy1hVl50SLkqlE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-grow-green-beans-1403459-hero-530fc7f267ce44cf89415748b46d88b4.jpg",
+  "video": "https://youtu.be/IM-F3bwfrvs?si=jbi17FviKmZVjhwW",
+  "doYouKnow": "Beans are a popular vegetable in Indian kitchens, valued for their tender pods and high nutritional value. They are rich in proteins, folate, and fiber, making them a heart-healthy and digestion-friendly addition to meals. From simple stir-fries to curries like 'beans poriyal', beans form a staple in many Indian households.",
+  "varietiesText": [
+    "French Beans (Haricot) – Long, smooth pods suitable for stir-fries.",
+    "Cluster Beans (Guar) – Widely used in dry regions; slightly bitter but highly nutritious.",
+    "Yardlong Beans (Barbati) – Extra-long pods with a delicate flavor."
+  ],
+  "varietiesImages": [
+    "https://m.media-amazon.com/images/I/51AvB-rUw5L._UF1000,1000_QL80_.jpg",
+    "https://www.seedbasket.in/image/cache/catalog/Updated%20Images/Cluster-Beans-500x500-0.png",
+    "https://organicbazar.net/cdn/shop/products/Untitled-design-2022-12-29T165250.986.jpg?v=1694168879"
+  ],
+  "bestCondition": {
+    "sunlight": "Full sunlight for at least 5–6 hours daily.",
+    "water": "Moderate and consistent watering, avoiding waterlogging.",
+    "soil": "Sandy loam soil enriched with compost; pH 6–7."
+  },
+  "whenToSow": "Summer Crop: February – March\nKharif Crop: June – July\nA short late crop: September – October in southern India.",
+  "cropCalender": "Summer Crop: February – March\nKharif Crop: June – July\nA short late crop: September – October in southern India.",
+  "growingGuide": [
+    "Seed Preparation:/pSoak seeds overnight before sowing for better germination.",
+    "Sowing:Sow directly into beds, 30 cm apart.",
+    "Support:/pProvide sticks or trellises for climbing types.",
+    "Watering:/pRegularly water the plants, especially during flowering and pod development.",
+    "Strength:/pAdd compost every 15–20 days.",
+    "Care:/pRegular picking of pods promotes continuous yield."
+  ],
+  "growingGuideImages": [
+    "https://blog.agribegri.com/public/blog_images/beans-seed-germination-time-temperature-process-600x400.png",
+    "https://harvesttotable.com/wp-content/uploads/2009/03/BeanSeedling-Poles-1.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSABjQ0OsCanjatdteJmH3U_svQRFhhyq1r7Q&s"
+  ],
+  "harvesting": "Pods are ready for harvest 50–60 days after sowing. Harvest while pods are tender, green, and seeds inside are still soft. Do not delay, as over-mature beans become fibrous and hard.",
+  "harvestingImage": "https://cdn.mos.cms.futurecdn.net/rvXRrySBe6njPseyPGjpud.jpg",
+  "commonTroubles": [
+    "Aphids/pControl by spraying neem oil.",
+    "Pod Borer/pUse pheromone traps to prevent damage.",
+    "Rust/pManage by spraying sulfur fungicide."
+  ],
+  "commonTroublesImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-VBATRQCHRIrk4kZ_LWeyMJPhAinkLepv3Q&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEN5uVs9S0F_1kAmE_ZrsD9wGXxlDI1uQQ6Q&s",
+    "https://plantwiseplusknowledgebank.org/cms/10.1079/pwkb.20127802224/asset/c0029c3d-3f35-44ac-8af2-02260da9bc78/assets/graphic/d7642e7a-f7b3-4cdd-93b4-1765f42cc33c.jpg"
+  ],
+  "quickFacts": [
+    "Good Companions: Carrots, cucumbers, and corn.",
+    "Avoid With: Onions and garlic."
+  ],
+  "category": "Vegetable",
+  "searchWords": [
+    "beans",
+    "french beans",
+    "cluster beans",
+    "yardlong beans",
+    "vegetable farming",
+    "vegetable gardening"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T10:42:45.970Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T10:42:45.970Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "6898782465eb8870f02481c5"
+  },
+  "customId": "GNV013",
+  "name": "Drumstick (Moringa / Munagakaya)",
+  "coverImage": "https://samsgardenstore.com/cdn/shop/files/DrumsticksLongSeedsMunagakayalu.webp?v=1726211224",
+  "video": "https://youtu.be/vaCZSGiLHWY?si=8Wx2wwEc16ZY6TLo",
+  "doYouKnow": "Drumstick, also known as moringa, is a superfood cherished for its edible pods and highly nutritious leaves. Rich in calcium, vitamin A, and iron, it is commonly added to dishes like 'sambar', curries, and stir-fries. Its leaves are dried and powdered for use as a nutritional supplement.",
+  "varietiesText": [
+    "PKM-1 – Fast-growing and high yielding.",
+    "Desi Munagakaya – Traditional long-podded type found in South India.",
+    "Coimbatore-2 – High-yielding and suitable for large-scale cultivation."
+  ],
+  "varietiesImages": [
+    "https://www.sahajaseeds.com/wp-content/uploads/2022/11/VEGETABLE-DRUMSTICK-Drumstick-PKM1.jpg",
+    "https://m.media-amazon.com/images/I/515XGhHMRVL._UF1000,1000_QL80_.jpg",
+    "https://www.commodityonline.com/leads/2025/07/thumb_1751945805_218550_lead_686c924dbc7fd_.webp"
+  ],
+  "bestCondition": {
+    "sunlight": "6–7 hours of full sunlight.",
+    "water": "Minimal watering once established; drought-resistant.",
+    "soil": "Sandy loam soil that is well-drained."
+  },
+  "whenToSow": "June–July at the onset of monsoon; can be grown year-round in tropical climates.",
+  "cropCalender": "June–July at the onset of monsoon; can be grown year-round in tropical climates.",
+  "growingGuide": [
+    "Propagation:/pSeeds or stem cuttings can be used for planting.",
+    "Sowing:/pSow seeds directly in pits 2–3 feet deep with 3 m spacing between plants.",
+    "Care:/pMinimal care is needed after establishment Add compost every month in the growing stage and water weekly during flowering."
+  ],
+  "growingGuideImages": [
+    "https://i.ytimg.com/vi/83GRUTW5ejc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAdYG6E9d-YAGsijez-4y8gVwfFVQ",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2I9e2CEiYsyz8mWNlSnMrTM_-4TQJ-kj2bw&s",
+    "https://dukaan.b-cdn.net/700x700/webp/media/d27da6b0-fd27-4cc3-bcab-2b0a632cf774.png"
+  ],
+  "harvesting": "Tender pods can be harvested in 6–8 months. They should be 30–45 cm long for the best taste. Leaves can also be harvested regularly for culinary and medicinal use.",
+  "harvestingImage": "https://growbilliontrees.com/cdn/shop/articles/drumstick-moringa-tree-plantation-grow-billion-trees.webp?v=1741595577",
+  "commonTroubles": [
+    "Fruit Fly/pSpray neem oil.",
+    "Caterpillars/pHandpick or use bio-pesticides like Bt.",
+    "Powdery Mildew/pTreat with sulfur-based fungicide."
+  ],
+  "commonTroublesImages": [
+    "https://farmprecise-forum.wotr.org.in/uploads/default/original/2X/d/d6d06142cba726bcfe075e495c0f3f14c1a916a2.jpeg",
+    "https://www.desikheti.com/cdn/shop/files/Drumstick_Hairy_Caterpillar_3.png?v=1738664759&width=3840",
+    "https://doa.gov.lk/wp-content/uploads/2022/10/Moringa-Drumstick-fungal-pod-rot-WM.jpg"
+  ],
+  "quickFacts": [
+    "Good Companions: Tomatoes, eggplants, and okra.",
+    "Avoid With: Peanuts and sunflowers."
+  ],
+  "category": "Vegetable",
+  "searchWords": [
+    "drumstick",
+    "moringa",
+    "munagakaya",
+    "vegetable farming",
+    "vegetable gardening"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T10:44:52.004Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T10:44:52.004Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "689878aa65eb8870f02481c6"
+  },
+  "customId": "GNV014",
+  "name": "Peas (Matar)",
+  "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEDp8dYCM7B00b8joq40cdPnVNL7uwhotJeQ&s",
+  "video": "https://youtu.be/Q7v1QLKg-lo?si=yxg4fgInZtZVz1SE",
+  "doYouKnow": "Peas are a beloved winter vegetable in India. They are protein-rich and used in dishes such as 'matar paneer', 'peas pulao', and samosa fillings. Fresh homegrown peas taste sweeter and fresher compared to store-bought ones.",
+  "varietiesText": [
+    "Arkel – Early-maturing variety.",
+    "Azad P-1 – High-yielding.",
+    "Desi Matar – Traditional, sweeter, and smaller pods."
+  ],
+  "varietiesImages": [
+    "https://3.imimg.com/data3/LN/EB/MY-2207291/peas-arkel-500x500.jpg",
+    "https://rukminim2.flixcart.com/image/292/360/xif0q/plant-seed/w/k/k/250-m-1-hybrid-original-imah9s7ud6hgvhca.jpeg?q=90&crop=false",
+    "https://tukwila.de/wp-content/uploads/2025/02/Desi-Green-Peas-Grune-Erbsen-2-Tukwila-Supermarket-in-Germany-Copy.png"
+  ],
+  "bestCondition": {
+    "sunlight": "5–6 hours of direct sunlight.",
+    "water": "Light but frequent watering.",
+    "soil": "Loamy soil enriched with compost; pH 6–7."
+  },
+  "whenToSow": "October–November during the cool winter season.",
+  "cropCalender": "October–November during the cool winter season.",
+  "growingGuide": [
+    "Sowing/pSow seeds 2 cm deep with 30 cm spacing.",
+    "Support/pProvide trellises or netting for support in climbing varieties.",
+    "Feeding/pAdd compost every 3 weeks to boost flowering and pod development."
+  ],
+  "growingGuideImages": [
+    "https://seasol.com.au/wp-content/uploads/2020/04/104230970_s.sml_-e1657001511742.jpg",
+    "https://cdn.shopify.com/s/files/1/1380/2059/files/Optimized-In_Containers-Growing_Peas_480x480.jpg?v=1682489548",
+    "https://organicbazar.net/cdn/shop/products/Untitled-design-2022-06-13T114053.607.jpg?v=1694168055"
+  ],
+  "harvesting": "Peas are ready in 60–70 days. Pick when pods are tender, green, and filled with soft peas. Regular picking encourages continuous yield.",
+  "harvestingImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4ubs0kCOnpKuKBAqNBqMyyspDntui32rGMw&s",
+  "commonTroubles": [
+    "Powdery Mildew/pSpray diluted cow milk or sulfur fungicide.",
+    "Aphids/pNeem oil spray.",
+    "Pod Borer/pUse pheromone traps."
+  ],
+  "commonTroublesImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7WyMn9ugKxDY3nRS9alUTzt5Ws7x5XgdYig&s",
+    "https://saskpulse.com/wp-content/uploads/2023/04/Pea-aphid-adults-and-nymphs-on-pea-pod.png",
+    "https://infonet-biovision.org/sites/default/files/1020.400x400_0.jpeg"
+  ],
+  "quickFacts": [
+    "Good Companions: Carrots, lettuce, and spinach.",
+    "Avoid With: Onions and garlic."
+  ],
+  "category": "Vegetable",
+  "searchWords": [
+    "peas",
+    "matar",
+    "winter vegetable",
+    "vegetable farming",
+    "vegetable gardening"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T10:47:06.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T10:47:06.774Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "689878ba65eb8870f02481c7"
+  },
+  "customId": "GNV015",
+  "name": "Radish (Mooli)",
+  "coverImage": "https://gardeningsg.nparks.gov.sg/images/Plants/Radish_JacChua%20(1).jpg",
+  "video": "https://youtu.be/PcD-LHVLn-Q?si=0PgZG6JFDkw2ytut",
+  "doYouKnow": "Radish is a crisp, pungent root vegetable enjoyed in salads, parathas, and pickles. Both the root and the green tops are edible and rich in vitamin C and potassium.",
+  "varietiesText": [
+    "Pusa Chetki – Suitable for summer sowing.",
+    "Japanese White – Long, white, and smooth roots.",
+    "Desi Mooli – Smaller and spicier, used in pickles and parathas."
+  ],
+  "varietiesImages": [
+    "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-seeds-radish-pusa-chetki-desi-vegetable-seeds-16969237954700_420x.jpg?v=1634204734",
+    "https://nurserylive.com/cdn/shop/products/nurserylive-seeds-radish-japani-white-desi-vegetable-seeds-16969237037196.jpg?v=1634204722",
+    "https://m.media-amazon.com/images/I/610mp06ICCL._UF1000,1000_QL80_.jpg"
+  ],
+  "bestCondition": {
+    "sunlight": "At least 5 hours of direct sunlight.",
+    "water": "Regular, light watering essential for uniform root growth.",
+    "soil": "Loose, sandy loam soil; pH 6–7."
+  },
+  "whenToSow": "Winter Crop: October – December\nSummer Crop: February – March (heat-tolerant varieties only).",
+  "cropCalender": "Winter Crop: October – December\nSummer Crop: February – March (heat-tolerant varieties only).",
+  "growingGuide": [
+    "Sowing/pSow seeds directly in the soil, 15 cm apart.",
+    "Thinning/pThin seedlings to allow enough space for root development.",
+    "Watering/pKeep soil moist but not waterlogged."
+  ],
+  "growingGuideImages": [
+    "https://www.researchgate.net/publication/236625052/figure/fig1/AS:651192518586368@1532267803174/Radish-seed-germination-treated-with-a-S14-12-MS-medium-b-S4-Artemisia-indica.png",
+    "https://i0.wp.com/homesteadandchill.com/wp-content/uploads/2019/04/how-to-grow-radishes-feature-1.jpeg?fit=768%2C1024&ssl=1",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxnZvQDLtlKUKsR6BoRwOl_ATwjKPru3UqRQ&s"
+  ],
+  "harvesting": "Roots are ready for harvest in 40–50 days. Harvest when they are 15–20 cm long and tender. Delay causes roots to become hollow and fibrous.",
+  "harvestingImage": "https://www.haxnicks.co.uk/cdn/shop/articles/1-2_copy.png?v=1647110933&width=1500",
+  "commonTroubles": [
+    "Root Maggots/pTreat with neem cake in soil.",
+    "Leaf Spot/pSpray copper fungicide.",
+    "Aphids/pNeem oil spray."
+  ],
+  "commonTroublesImages": [
+    "https://gardencomposer.com/wp-content/uploads/2024/05/maggots-in-radish.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH7O6gp9SgyNoCzFDobO6cYhuOxoYyJRdHWw&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTFPEoxTAmn1p7CvzcvV1RHniSefRC3hWiDg&s"
+  ],
+  "quickFacts": [
+    "Good Companions: Carrots, lettuce, and radishes.",
+    "Avoid With: Beans and cabbage."
+  ],
+  "category": "Vegetable",
+  "searchWords": [
+    "radish",
+    "mooli",
+    "root vegetable",
+    "vegetable farming",
+    "vegetable gardening"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T10:47:22.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T10:47:22.045Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "6898792965eb8870f02481c8"
+  },
+  "customId": "GNF001",
+  "name": "Mango (Aam)",
+  "coverImage": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:0,cw:1600,ch:1200,q:80,w:1600/BhEu42a2Tia7RhSwek9fYG.jpg",
+  "video": "https://youtu.be/GeZmuE9H4Lc?si=l1w0Of8zQmr2_G14",
+  "doYouKnow": "Mango, known as the “King of Fruits,” is one of India’s most loved and widely cultivated fruits. It is not only enjoyed fresh but also used in pickles, juices, sweets, and chutneys. Rich in vitamin A, vitamin C, and antioxidants, mango boosts immunity, improves eye health, and provides instant energy during the hot summer months.",
+  "varietiesText": [
+    "Alphonso (Hapus) → Famous for its sweetness and rich flavor, grown in Maharashtra.",
+    "Banganapalli → Large golden-yellow fruits, widely grown in Andhra Pradesh.",
+    "Dasheri → Long, sweet variety popular in North India.",
+    "Langra → Green-skinned with unique tangy-sweet flavor, popular in Uttar Pradesh.",
+    "Kesar → Small, saffron-colored fruits with intense sweetness, grown in Gujarat."
+  ],
+  "varietiesImages": [
+    "https://nurserynisarga.in/wp-content/uploads/2020/09/alphonso-grafted-mango-12.webp",
+    "https://rukminim2.flixcart.com/image/704/844/k05ljm80/plant-seed/8/m/t/1-gardens-live-plant-banganapalle-mango-trothic-original-imafjzrczmqscbpv.jpeg?q=90&crop=false",
+    "https://rukminim2.flixcart.com/image/704/844/l1nwnm80/plant-sapling/n/u/l/no-annual-yes-dasheri-mango-plant-grafted-1-lilyville-dasheri-original-imagd6uypdwyagvz.jpeg?q=90&crop=false",
+    "https://kj1bcdn.b-cdn.net/media/72399/61epzjibi5l_sl1280_.jpg",
+    "https://m.media-amazon.com/images/I/81UNbda9C+L._UF1000,1000_QL80_.jpg"
+  ],
+  "bestCondition": {
+    "sunlight": "Requires full sunlight, at least 7–8 hours daily.",
+    "water": "Needs moderate watering; young trees require regular moisture, while mature trees tolerate dry spells.",
+    "soil": "Deep, well-drained loamy soil rich in organic matter; pH between 5.5–7.5 is ideal."
+  },
+  "whenToSow": "Mango planting is best done during the monsoon (June to August) so that young plants establish with natural rainfall.",
+  "cropCalender": "Mango planting is best done during the monsoon (June to August) so that young plants establish with natural rainfall.",
+  "growingGuide": [
+    "Planting/pMango is usually grown from grafted saplings rather than seeds to ensure true-to-type fruit quality.",
+    "Preparation/pDig pits of 1m × 1m and fill them with a mixture of soil, compost, and sand for good root establishment.",
+    "Planting/pPlant grafts with the graft union above the soil level.",
+    "Care/pProvide staking for young plants and water regularly in the first two years.",
+    "Maintenance/pApply farmyard manure annually and prune weak branches to maintain shape.",
+    "Soil Care/pKeep the area weed-free and mulch around the base to retain soil moisture."
+  ],
+  "growingGuideImages": [
+    "https://cdn.mos.cms.futurecdn.net/nhH3KSQ5niEgKue82M25D6.jpg",
+    "https://www.garden.eco/wp-content/uploads/2018/07/mango-seedling.jpg",
+    "https://i.pinimg.com/736x/46/31/fb/4631fbe6dc3f0bf0cdae66eadde3df56.jpg",
+    "https://m.media-amazon.com/images/I/61WUaLbbUML._UF1000,1000_QL80_.jpg"
+  ],
+  "harvesting": "Mango trees begin bearing fruit in 3–4 years if grafted. Fruits are harvested when they develop full size and color, usually from March to June depending on variety. Mature mangoes give off a fruity aroma and turn slightly soft when gently pressed. Avoid harvesting immature fruits as they do not ripen properly.",
+  "harvestingImage": "https://www.ugaoo.com/cdn/shop/articles/shutterstock_621631772.jpg?v=1661867920",
+  "commonTroubles": [
+    "Powdery Mildew/pWhite coating on flowers and leaves; treat with neem or organic fungicide.",
+    "Fruit Fly Infestation/pCauses black spots and rotting; use pheromone traps and destroy affected fruits.",
+    "Anthracnose/pDark spots on fruits and leaves; improve air circulation and spray copper-based fungicides."
+  ],
+  "commonTroublesImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFkqdAm6BZMDsTapmp9JxVJuG92GWFTzNc8A&s",
+    "https://static.agrostar.in/static/Feeds_20190517_Weekly_Article_Management-of-fruit-fly-in-mango-crop.jpg",
+    "https://apps.lucidcentral.org/pppw_v10/images/entities/mango_anthracnose_009/mangoshoot.jpg"
+  ],
+  "quickFacts": [
+    "Good Companions: Banana, guava, and papaya.",
+    "Avoid With: Walnut and eucalyptus (allelopathic effect)."
+  ],
+  "category": "Fruit",
+  "searchWords": [
+    "mango",
+    "aam",
+    "king of fruits",
+    "fruit farming",
+    "fruit gardening"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T10:49:13.340Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T10:49:13.340Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "6898795e65eb8870f02481c9"
+  },
+  "customId": "GNF002",
+  "name": "Banana (Kela / Arati Pandu)",
+  "coverImage": "https://gardenerspath.com/wp-content/uploads/2019/12/Banana-Plant-with-Ripe-Fruit.jpg",
+  "video": "https://youtu.be/kjVwBbS4so0?si=zOGUIWaeuPjyjIkf",
+  "doYouKnow": "Banana is one of the most consumed fruits in India and a staple in many households. Apart from being a delicious fruit, it is an energy booster rich in potassium, vitamin B6, and dietary fiber. In many South Indian states, banana leaves are traditionally used as plates during festive meals, and raw bananas are cooked as curries or chips.",
+  "varietiesText": [
+    "Robusta → Tall variety with large bunches, popular across India.",
+    "Dwarf Cavendish → Compact plant, widely cultivated and easy to manage.",
+    "Nendran → Kerala’s famous variety, used for banana chips and cooking.",
+    "Rasthali → Sweet and aromatic fruit, commonly grown in Tamil Nadu.",
+    "Poovan → Small, flavorful bananas popular in South India."
+  ],
+  "varietiesImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqwsSebLOgzvnGdXN0_nYW_hWufQd2JTqX-w&s",
+    "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1699119251-super_dwarf_cavendish_musa_banana.jpg?crop=1xw:1.00xh;center,top&resize=980:*",
+    "https://www.greensofkerala.com/wp-content/uploads/2024/01/nendran-pazham-plant.png",
+    "https://m.media-amazon.com/images/I/619-syIWoVL.jpg",
+    "https://m.media-amazon.com/images/I/315nkuyuzcL._UF1000,1000_QL80_.jpg"
+  ],
+  "bestCondition": {
+    "sunlight": "Requires 6–8 hours of direct sunlight daily.",
+    "water": "Needs abundant and regular watering; bananas cannot tolerate drought.",
+    "soil": "Fertile, well-drained loamy soil rich in organic matter; thrives best at pH 6.5–7.5."
+  },
+  "whenToSow": "Banana planting can be done throughout the year in southern India but is most successful during monsoon and post-monsoon months (June–September).",
+  "cropCalender": "Banana planting can be done throughout the year in southern India but is most successful during monsoon and post-monsoon months (June–September).",
+  "growingGuide": [
+    "Propagation/pBanana is propagated through suckers (sword suckers are preferred) or tissue culture plants.",
+    "Soil Preparation/pPits of 45×45×45 cm are dug and filled with compost, sand, and soil mixture.",
+    "Planting/pPlant spacing is usually 6–8 feet apart.",
+    "Watering/pWater regularly and mulch to retain soil moisture.",
+    "Fertilizing/pApply farmyard manure and organic fertilizer at intervals.",
+    "Support/pSupport plants with bamboo poles during fruiting to prevent bending.",
+    "Sucker Management/pRemove excess suckers, keeping only 1–2 strong ones per plant for better yield."
+  ],
+  "growingGuideImages": [
+    "https://www.shutterstock.com/image-photo/banana-suckers-growing-base-plant-260nw-1969745218.jpg",
+    "https://accessagfiles-drupal9-download.s3.eu-west-1.amazonaws.com/attachments/2022-02/246_Producing_healthy_plantain_and_banana_suckers.jpg?VersionId=felCDuOnkXYYlCLHi0aWvwKsvZV1Yfvx",
+    "https://cdn.mos.cms.futurecdn.net/FTsf4zaxFYNb6PanKjf2kW.jpg"
+  ],
+  "harvesting": "Banana plants bear fruit in 10–12 months after planting. Bunches are harvested when the topmost fruit angles are rounded, and the skin turns bright green with a waxy shine. After harvesting, cut the main stem at the base as it bears only once, allowing suckers to grow for the next crop.",
+  "harvestingImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4HN3afK3Sf9OwWP2F8JEZ90-pz_q_ZPE9aw&s",
+  "commonTroubles": [
+    "Banana Stem Borer/pLarvae bore into stems; remove affected stems and use neem-based sprays.",
+    "Leaf Spot Disease/pBrown or yellow patches on leaves; cut infected leaves and use organic fungicides.",
+    "Bunchy Top Virus/pCauses stunted growth and small leaves; use virus-free planting material and control aphids."
+  ],
+  "commonTroublesImages": [
+    "https://th-i.thgim.com/public/migration_catalog/article11833286.ece/alternates/FREE_1200/08THDISEASE",
+    "https://kisanvedika.bighaat.com/wp-content/uploads/2023/03/Banana_Sigatoka_Leaf-41.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/f/f2/Banana_Bunch_Top_Virus.jpg"
+  ],
+  "quickFacts": [
+    "Good Companions: Papaya, guava, and pineapple.",
+    "Avoid With: Avocado and walnut (allelopathic effect)."
+  ],
+  "category": "Fruit",
+  "searchWords": [
+    "banana",
+    "kela",
+    "arati pandu",
+    "fruit farming",
+    "fruit gardening"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T10:50:06.877Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T10:50:06.877Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "6898799965eb8870f02481ca"
+  },
+  "customId": "GNF003",
+  "name": "Guava (Psidium Guajava / Jam)",
+  "coverImage": "https://cdn.shopify.com/s/files/1/0555/8363/7660/files/Urban-plants-guava-fruit.jpg?v=1650512043",
+  "video": "",
+  "doYouKnow": "Guava, popularly called Jam in Hindi and Jama in Telugu, is one of the most nutritious fruits grown in India. Known as the \"poor man’s apple,\" it is highly affordable yet rich in vitamin C, dietary fiber, and antioxidants. Guava is excellent for boosting immunity, improving digestion, and maintaining blood sugar levels. The fruit is enjoyed fresh with a sprinkle of salt and chili powder, made into juices, or used in jams and candies.",
+  "varietiesText": [
+    "Allahabad Safeda → Round, smooth-skinned variety, sweet with soft pulp.",
+    "Lucknow 49 (Sardar) → Large fruit with thick pulp and fewer seeds, highly popular.",
+    "Arka Mridula → High-yielding variety with pink pulp.",
+    "Chittidar → Small, aromatic guavas with red skin.",
+    "Local Seedless Varieties → Found in many states, with sweet pulp and very few seeds."
+  ],
+  "varietiesImages": [
+    "https://m.media-amazon.com/images/I/51bXxBR0mpL._UF1000,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/616JdP0h-xL._UF1000,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/51CPmjttMYL._UF1000,1000_QL80_.jpg",
+    "https://img500.exportersindia.com/product_images/bc-500/dir_112/3341298/fresh-chittidar-guava-1804924.jpg",
+    ""
+  ],
+  "bestCondition": {
+    "sunlight": "Requires 6–7 hours of direct sunlight daily.",
+    "water": "Tolerant of drought but fruits better with regular irrigation.",
+    "soil": "Thrives in well-drained sandy loam or alluvial soil; tolerates a wide pH range from 5 to 7."
+  },
+  "whenToSow": "Guava planting is best done during the monsoon (June to September). With proper care, it can bear fruits twice a year, in winter (November–December) and summer (March–April).",
+  "growingGuide": [
+    "Propagation/pGuava is propagated through air-layering, grafting, or seedlings, though grafted plants give superior fruits.",
+    "Planting/pPlant saplings 5–6 meters apart in well-prepared pits enriched with compost and sand.",
+    "Watering/pIrrigate young plants regularly for establishment.",
+    "Pruning/pMature trees require pruning to allow sunlight and air circulation.",
+    "Fertilizing/pFertilize with compost or organic manure before flowering to improve fruit quality."
+  ],
+  "growingGuideImages": [
+    "https://i.ytimg.com/vi/29BjvrjhyEk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB-e_XfvNbiF3UKDBfWlbq3RyaOnQ",
+    "https://i.ytimg.com/vi/YGUb-5T-y2U/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/Duq0FLbeBUo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAfK-MR0aUSdtzz9jPfiONxJ-xffw"
+  ],
+  "harvesting": "Guava trees start fruiting within 2–3 years of planting. Fruits are harvested when they change from dark green to light green or yellowish and emit a fruity aroma. Overripe guavas become soft and lose flavor, so timely harvesting is important. A healthy tree yields fruits for 20–25 years.",
+  "harvestingImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVtob3uvDn03dWhtV5nzlrZ_I0iXYtFVuEjQ&s",
+  "commonTroubles": [
+    "Fruit Fly Infestation/pCauses maggots inside fruits; use pheromone traps and destroy infested fruits.",
+    "Wilt Disease/pSudden wilting of branches; avoid waterlogging and apply neem cake in soil.",
+    "Rust on Leaves/pCauses brown patches; prune affected branches and use organic fungicide."
+  ],
+  "commonTroublesImages": [
+    "https://www.resetagri.in/cdn/shop/articles/guava_fruit_fly.jpg?v=1698922728&width=1100",
+    "https://discuss.farmnest.com/uploads/default/original/2X/6/6256a09b756a3926263ce85151ce6afa891b4d64.JPG",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4IkPwxrqv7Q7iouZ9hBn5h9iuj4ZKOqcrXQ&s"
+  ],
+  "category": "Fruit",
+  "searchWords": [
+    "guava",
+    "jam",
+    "psidium guajava",
+    "fruit farming",
+    "fruit gardening"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T10:51:05.978Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T10:51:05.978Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "689879c465eb8870f02481cb"
+  },
+  "customId": "GNF004",
+  "name": "Papaya (Carica Papaya)",
+  "coverImage": "https://wildroots.in/wp-content/uploads/2021/05/Untitled-design-2021-05-29T174613.012.jpg",
+  "video": "https://youtu.be/13KBKDwdidI?si=xdbgnX7OJr3Uwcy4",
+  "doYouKnow": "Papaya is a fast-growing tropical fruit rich in vitamin C, vitamin A, and digestive enzymes like papain. It is excellent for digestion, immunity, and skin health. Both ripe and raw papayas are used widely — ripe ones for fresh eating and juices, and raw ones in curries and pickles. Papaya leaves are also used in traditional remedies for improving platelet count during fevers like dengue.",
+  "varietiesText": [
+    "Red Lady → High-yielding hybrid with sweet red flesh.",
+    "Pusa Delicious → Popular Indian variety with soft, sweet pulp.",
+    "Taiwan Hybrid → Large fruits with orange flesh.",
+    "Pusa Dwarf → Compact plant, ideal for small gardens."
+  ],
+  "varietiesImages": [
+    "https://m.media-amazon.com/images/I/61DjWckc-RL.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2023/7/323231301/QT/ON/IA/36179735/fruit-papaya-500x500.jpg",
+    "https://www.mtechgardens.com/cdn/shop/files/Papaya-Red-Lady-1.png?crop=center&height=800&v=1736612278&width=800",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSceG81UPMMFFGAUxG-JyzJb5uih6J7Qcvpfw&s"
+  ],
+  "bestCondition": {
+    "sunlight": "Requires 6–8 hours of bright sunlight daily.",
+    "water": "Needs regular watering but sensitive to waterlogging.",
+    "soil": "Well-drained sandy loam soil rich in organic matter; ideal pH is 6.0–6.5."
+  },
+  "whenToSow": "Papaya can be sown throughout the year in southern India but is best during spring (February–March) and monsoon (June–July) for high yield.",
+  "growingGuide": [
+    "Seedling/pPapaya is generally grown from seeds. Seeds are sown in polythene bags and transplanted after 30–40 days when seedlings are 15–20 cm tall.",
+    "Planting/pPlants should be spaced about 6–8 feet apart.",
+    "Pollination/pBeing dioecious, both male and female plants are needed for pollination, though hybrid varieties are hermaphrodite.",
+    "Care/pRegular irrigation, mulching, and addition of compost promote quick growth.",
+    "Protection/pRemove weeds regularly and protect the plant from strong winds as the stem is fragile."
+  ],
+  "growingGuideImages": [
+    "https://i.ytimg.com/vi/y0teeCe9kgM/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/2shR9YM-k5o/maxresdefault.jpg",
+    "https://agritech.tnau.ac.in/horticulture/images/propogation/papya.png"
+  ],
+  "harvesting": "Papayas are ready for harvest within 8–10 months of planting. Fruits are picked when they change from green to yellow at the base. They should be firm but slightly soft to touch. Avoid harvesting immature fruits as they do not ripen well. A healthy papaya tree bears fruits continuously for 2–3 years.",
+  "harvestingImage": "https://i.ytimg.com/vi/UhASGJT1SlI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC_4cJIJpbumLrkZD7SV0--15bmWw",
+  "commonTroubles": [
+    "Papaya Mosaic Virus/pCauses mottled leaves; remove infected plants to prevent spread.",
+    "Fruit Rot/pDue to excess humidity; improve drainage and avoid water stagnation.",
+    "Mealybugs/pAttack leaves and stems; control with neem oil."
+  ],
+  "commonTroublesImages": [
+    "https://www.desikheti.com/cdn/shop/files/Papaya_Mosaic_Virus_2.png?v=1738301169&width=3840",
+    "https://cdn.mos.cms.futurecdn.net/v2/t:65,l:0,cw:1254,ch:705,q:80,w:1254/rEXTcp9aF4mxGyN5R3oBnf.jpg",
+    "https://iapps2010.wordpress.com/wp-content/uploads/2015/05/papaya-mealybug1.jpg?w=640"
+  ],
+  "category": "Fruit",
+  "searchWords": [
+    "papaya",
+    "carica papaya",
+    "tropical fruit",
+    "fruit farming",
+    "fruit gardening"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T10:51:48.633Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T10:51:48.633Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "689879eb65eb8870f02481cc"
+  },
+  "customId": "GNF005",
+  "name": "Pomegranate (Anar)",
+  "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ45BNxDF1FgWOFuC50eIxwstLx8aiHsh-gmA&s",
+  "video": "https://youtu.be/O-9eG_KbP4c?si=jg492uLZANM8y5MC",
+  "doYouKnow": "Pomegranate, called Anar in Hindi, is a nutrient-rich fruit known for its jewel-like red arils filled with sweet-tart juice. It is highly valued for boosting heart health, improving blood circulation, and being rich in antioxidants, vitamin C, and potassium. Pomegranate is eaten fresh, juiced, or used in cooking, desserts, and Ayurvedic medicine for its healing properties.",
+  "varietiesText": [
+    "Ganesh → Widely grown in Maharashtra, large fruits with soft seeds.",
+    "Bhagwa → Popular commercial variety with bright red color and high juice content.",
+    "Mridula → Medium-sized fruits with deep red arils.",
+    "Arakta → Sweet-tasting, bold red fruits ideal for table use.",
+    "Kandhari → Sour-tasting variety used in making anardana (dried pomegranate seeds)."
+  ],
+  "varietiesImages": [
+    "https://m.media-amazon.com/images/I/81O4JPDODdL._UF1000,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/51i+CYw1BZL._UF1000,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/51R-K6bc14L._UF1000,1000_QL80_.jpg",
+    "https://www.jiomart.com/images/product/original/rvpvq8lbhe/cloud-farm-hybrid-phule-arakta-pomegranate-plant-200-mm-cf_o290-product-images-orvpvq8lbhe-p602993528-0-202307071224.jpg?im=Resize=(1000,1000)",
+    "https://m.media-amazon.com/images/I/514TOwmLYhL._UF1000,1000_QL80_.jpg"
+  ],
+  "bestCondition": {
+    "sunlight": "Requires full sun, at least 6–7 hours daily.",
+    "water": "Needs moderate watering; drought-tolerant once established but requires irrigation during flowering and fruiting.",
+    "soil": "Well-drained sandy loam or black cotton soil rich in organic matter; tolerates pH 5.5–7.5."
+  },
+  "whenToSow": "Planting is usually done in February–March or July–August with fruits harvested mainly in September–February depending on region.",
+  "growingGuide": [
+    "Propagation/pPomegranate is propagated through cuttings or air-layering.",
+    "Planting/pPlant saplings 12–15 feet apart in pits filled with compost and organic matter.",
+    "Pruning/pPrune annually to shape the plant and remove weak branches.",
+    "Fertilizing/pFertilize before flowering with farmyard manure or organic compost.",
+    "Irrigation/pIrrigate regularly during fruit development to prevent fruit cracking.",
+    "Mulching/pMulching around the base helps conserve soil moisture."
+  ],
+  "growingGuideImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS39fQlrJ9snszO1TYjdGBr2lFfN_jH1kgRhg&s",
+    "https://i.ytimg.com/vi/ZgHawwKjMG0/sddefault.jpg",
+    "https://www.wikihow.com/images/thumb/e/e0/Grow-a-Pomegranate-Tree-Step-6-Version-2.jpg/v4-460px-Grow-a-Pomegranate-Tree-Step-6-Version-2.jpg"
+  ],
+  "harvesting": "Pomegranate trees start fruiting in 2–3 years after planting. Fruits are harvested 5–6 months after flowering when they turn deep red and give a metallic sound when tapped. Arils should be juicy and well-colored. Avoid overripe fruits as they may split open.",
+  "harvestingImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwB_J9BOKxgynH4F9NvsPTAuv5m89nA7sTmw&s",
+  "commonTroubles": [
+    "Fruit Cracking/pCaused by irregular watering; maintain consistent soil moisture.",
+    "Aphids and Mealybugs/pAttack young shoots; spray neem oil or use sticky traps.",
+    "Leaf Spot Disease/pCauses brown patches on leaves; remove infected leaves and use organic fungicide."
+  ],
+  "commonTroublesImages": [
+    "https://gardenerspath.com/wp-content/uploads/2021/10/Split-Pomegranate-Close-Up.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsxsLJ3y7FHmPSv2_JWZBpyghYNHKlZqJQAA&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNg3lmpQjNRlDphWRFOzvwiGhYUCy_F16MXg&s"
+  ],
+  "category": "Fruit",
+  "searchWords": [
+    "pomegranate",
+    "anar",
+    "fruit farming",
+    "fruit gardening",
+    "nutritious fruit"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T10:52:27.351Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T10:52:27.351Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "68987a1e65eb8870f02481cd"
+  },
+  "customId": "GNF006",
+  "name": "Sapota (Chikoo)",
+  "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRawz6VV9xNdl6e5aItvAVnpNVcg45QDaZZMQ&s",
+  "video": "https://youtu.be/wrWAa_dV09w?si=zfV36G9Ev9xK7eTi",
+  "doYouKnow": "Sapota, commonly called Chikoo, is a sweet tropical fruit with a grainy texture and caramel-like flavor. It is rich in dietary fiber, vitamin C, and natural sugars, making it a great energy booster. Apart from being eaten fresh, it is used in milkshakes, ice creams, and desserts. Its latex-rich tree is also used for extracting chicle, a base for chewing gum.",
+  "varietiesText": [
+    "Kalipatti → Popular variety in Gujarat and Maharashtra, medium-sized fruits with high sweetness.",
+    "Pala → Large-sized fruits grown in South India.",
+    "Cricket Ball → Round and bigger fruits resembling a cricket ball.",
+    "Dhola Diwani → Small fruits with excellent flavor.",
+    "Local Seedling Varieties → Commonly grown in home gardens."
+  ],
+  "varietiesImages": [
+    "https://m.media-amazon.com/images/I/510Q5i4UsVS._UF1000,1000_QL80_.jpg",
+    "https://www.saharanpurnursery.in/cdn/shop/files/sapodilla-pala-long-lived-evergreen-tree-rare-exotic-plants-garden-plant-1-healthy-live-plant-kadiyam-nursery-3_500x500.jpg?v=1718607906",
+    "https://m.media-amazon.com/images/I/51232lqE8xL._UF1000,1000_QL80_.jpg",
+    "https://rukminim2.flixcart.com/image/704/844/xif0q/plant-sapling/m/v/1/no-annual-yes-dhola-diwani-plant-1-pot-grafted-dhola-diwani-original-imagmsvsefbxk95f.jpeg?q=90&crop=false",
+    "https://rukminim2.flixcart.com/image/704/844/xif0q/plant-sapling/m/v/1/no-annual-yes-dhola-diwani-plant-1-pot-grafted-dhola-diwani-original-imagmsvsefbxk95f.jpeg?q=90&crop=false"
+  ],
+  "bestCondition": {
+    "sunlight": "Requires 6–8 hours of direct sunlight daily.",
+    "water": "Needs regular watering, especially during fruit development; drought-resistant once established.",
+    "soil": "Well-drained sandy loam to alluvial soil; pH between 6.5–8.0 is ideal."
+  },
+  "whenToSow": "Planting is best done during the monsoon (June–July) or post-monsoon (September–October). Fruit production occurs almost year-round, with peak harvest in January–March and May–July.",
+  "growingGuide": [
+    "Propagation/pSapota is propagated through grafting or air-layering.",
+    "Planting/pPits of 1m × 1m are dug and filled with soil, compost, and sand mixture.",
+    "Spacing/pPlant saplings at a spacing of 10–12 meters.",
+    "Irrigation/pRegular irrigation is needed in the first 3 years.",
+    "Fertilizing/pApply farmyard manure and compost yearly.",
+    "Pruning/pMinimal pruning is required, mostly to remove dead or diseased branches.",
+    "Mulching/pMulching helps retain soil moisture."
+  ],
+  "growingGuideImages": [
+    "https://i.ytimg.com/vi/f_-MJST_cws/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBoW0t_chQqhJaRWy4JDSaRDO8FIw",
+    "https://shrigramorganics.com/wp-content/uploads/2020/06/sapota-chikoo-plant-1-greencuration-original-imafhpkawzzcyhhu.jpeg",
+    "https://i.ytimg.com/vi/OvXIdorlM8g/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBYojsZ7SbdlPoxexEbZE8mgUp56A"
+  ],
+  "harvesting": "Sapota trees start bearing fruit in 3–4 years after planting, with full yield after 8–10 years. Fruits are harvested when they turn light brown and become soft when gently pressed. A milky latex discharge reduces on maturity, indicating readiness for picking. Ripe fruits are sweet, aromatic, and grainy.",
+  "harvestingImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMayMlO3K4r6YjR56lPee_oGjXabOJt3w2Kg&s",
+  "commonTroubles": [
+    "Fruit Borer/pLarvae bore into fruits; destroy infested fruits and spray neem solution.",
+    "Leaf Spot Disease/pBrown patches on leaves; control with copper-based sprays.",
+    "Mealybugs/pAffect stems and leaves; wash with soap water or neem oil spray."
+  ],
+  "commonTroublesImages": [
+    "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs42690-020-00378-3/MediaObjects/42690_2020_378_Fig1_HTML.jpg",
+    "https://agritech.tnau.ac.in/ta/crop_protection/images/sapota/leaf.jpg",
+    "https://www.shutterstock.com/shutterstock/photos/1628593837/display_1500/stock-photo-mealybug-and-ants-support-the-other-to-attack-on-sapodilla-fruit-in-viet-nam-1628593837.jpg"
+  ],
+  "category": "Fruit",
+  "searchWords": [
+    "sapota",
+    "chikoo",
+    "fruit farming",
+    "tropical fruit",
+    "energy booster"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T10:53:18.600Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T10:53:18.600Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "68987a4c65eb8870f02481ce"
+  },
+  "customId": "GNF007",
+  "name": "Orange (Santra)",
+  "coverImage": "https://upload.wikimedia.org/wikipedia/commons/b/b0/OrangeBloss_wb.jpg",
+  "video": "https://youtu.be/zoosZ8yW2Xg?si=yq_ZDK69YHXTHWgf",
+  "doYouKnow": "Orange, known as Santra in Hindi, is one of the most popular citrus fruits in India. Juicy, tangy, and refreshing, oranges are packed with vitamin C, potassium, and antioxidants that strengthen immunity and improve skin health. Oranges are eaten fresh, juiced, or used in marmalades and desserts. India is famous for Nagpur Oranges, celebrated for their sweetness and flavor.",
+  "varietiesText": [
+    "Nagpur Orange → Famous variety from Maharashtra, sweet and juicy.",
+    "Coorg Orange → Aromatic variety grown in Karnataka.",
+    "Khasi Mandarin → Small-sized, juicy variety from Northeast India.",
+    "Mosambi Hybrid Oranges → Mildly sweet varieties grown in South India.",
+    "Kinnow → Popular hybrid grown widely in Punjab."
+  ],
+  "varietiesImages": [
+    "https://plantparadise.in/cdn/shop/products/va_288c7bf4-1a92-4327-adb1-116375038e34.jpg?v=1699860248",
+    "https://m.media-amazon.com/images/I/71UsyCo7-pL.jpg",
+    "https://m.media-amazon.com/images/I/71mzewgRgYS._UF1000,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/614oRL6Pw+L.jpg",
+    "https://exoticflora.in/cdn/shop/products/2_aa5d2ad3-0ecf-47f4-96c4-80716bd5395a_900x.jpg?v=1499122219"
+  ],
+  "bestCondition": {
+    "sunlight": "Requires full sunlight for at least 6–7 hours daily.",
+    "water": "Regular watering is needed, especially during fruiting; avoid waterlogging.",
+    "soil": "Well-drained sandy loam or light alluvial soil rich in organic matter; pH 6.0–7.5 is ideal."
+  },
+  "whenToSow": "Planting is done in July–August during the monsoon. Harvesting usually takes place from November to February depending on the region.",
+  "growingGuide": [
+    "Propagation/pOranges are propagated through grafting or budding.",
+    "Planting/pPits of 50×50×50 cm are dug and filled with soil, compost, and sand mixture.",
+    "Spacing/pPlant saplings 4–5 meters apart.",
+    "Irrigation/pProvide regular irrigation during the first two years.",
+    "Fertilizing/pFertilize trees with compost and organic manure before flowering.",
+    "Pruning/pPruning is required to maintain shape and improve air circulation.",
+    "Protection/pProtect plants from strong winds, as citrus roots are shallow."
+  ],
+  "growingGuideImages": [
+    "https://i.ytimg.com/vi/cO_bxMHgQrQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDIzpdjyzguXLApIEUzDgtTvTNOCw",
+    "https://i.ytimg.com/vi/svZ1Bk643oU/maxresdefault.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmwEcj7Rr2FzRXGA0L6Pq532RbhXXBStcehQ&s"
+  ],
+  "harvesting": "Oranges begin bearing fruit in 4–5 years after planting. Fruits are ready when they turn bright orange and develop a sweet aroma. Harvest with clippers to avoid tearing the peel. Overripe fruits tend to become spongy and lose flavor, so timely picking is important.",
+  "harvestingImage": "https://cdn.mos.cms.futurecdn.net/zpAdjDLhn75vHALgSjMu76.jpg",
+  "commonTroubles": [
+    "Citrus Canker/pCauses leaf spots and fruit blemishes; control with copper sprays.",
+    "Fruit Drop/pOften due to water stress; maintain regular watering.",
+    "Aphids and Citrus Psylla/pAttack leaves; control with neem oil spray."
+  ],
+  "commonTroublesImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVgI7mBbmYZXlKErFHxQSDvQ075TT7dopbvg&s",
+    "https://i0.wp.com/citrusindustry.net/wp-content/uploads/2019/06/CitrusIndustry-July2019-orange-drop.jpg?resize=800%2C511&ssl=1",
+    "https://www.krishisewa.com/images/articles/2016/psyllid-pests-4.jpg"
+  ],
+  "category": "Fruit",
+  "searchWords": [
+    "orange",
+    "santra",
+    "citrus fruit",
+    "fruit farming",
+    "nagpur orange"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T10:54:04.847Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T10:54:04.847Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "68987a7065eb8870f02481cf"
+  },
+  "customId": "GNF008",
+  "name": "Mosambi (Sweet Lime)",
+  "coverImage": "https://nurserykart.in/cdn/shop/files/Mosambi-Plant-Sweet-Lime-Plant-Grafted-02.webp?v=1739903968&width=1445",
+  "video": "https://youtu.be/Jm_tn5wOwjA?si=b9ExMmJmrrAKThU-",
+  "doYouKnow": "Mosambi, also known as Sweet Lime, is a refreshing citrus fruit loved for its mild sweetness and hydrating properties. It is especially popular in juices and as a natural remedy during summer to prevent dehydration. Rich in vitamin C, iron, and calcium, mosambi supports digestion, boosts immunity, and helps maintain healthy skin.",
+  "varietiesText": [
+    "Phule Sharbati → Popular variety grown in Maharashtra.",
+    "Jalandhar Sweet Lime → Known for its sweet taste and thin skin.",
+    "Sathgudi → Widely grown in Andhra Pradesh and Tamil Nadu.",
+    "Local Desi Varieties → Found across India with mild sweetness."
+  ],
+  "varietiesImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyNCEv5GMQmD0enIrVVnGLLO80m6qRPFBQ5w&s",
+    "https://content.jdmagicbox.com/quickquotes/images_main/dried-sweet-lime-100-gm-801837595-q1hv8iy5.jpg?impolicy=queryparam&im=Resize=(360,360),aspect=fit",
+    "https://m.media-amazon.com/images/I/61lLXsbldfL._UF1000,1000_QL80_.jpg",
+    "https://nurserylive.com/cdn/shop/products/nurserylive-seeds-citrus-limetta-indian-sweet-lime-mausammi-0-5-kg-seeds-16968785526924.jpg?v=1634216275"
+  ],
+  "bestCondition": {
+    "sunlight": "Requires 6–7 hours of bright sunlight daily.",
+    "water": "Regular watering is essential; sensitive to drought stress.",
+    "soil": "Fertile, well-drained sandy loam soil rich in organic matter; pH 6.0–7.5 is suitable."
+  },
+  "whenToSow": "Planting is generally done during July–August (monsoon season). Harvesting usually occurs between October and January depending on the region.",
+  "growingGuide": [
+    "Propagation/pMosambi is propagated through budding and grafting.",
+    "Pits/pPrepare pits of 50×50×50 cm filled with compost and well-drained soil.",
+    "Spacing/pPlant saplings 4–5 meters apart.",
+    "Irrigation/pRegular watering and mulching help maintain soil moisture.",
+    "Fertilizing/pFertilize with organic manure or compost before flowering to improve fruit set and sweetness.",
+    "Maintenance/pRemove weeds regularly and prune dead branches for healthy growth."
+  ],
+  "growingGuideImages": [
+    "https://i.ytimg.com/vi/I07ISR-Prgw/maxresdefault.jpg",
+    "https://rukminim2.flixcart.com/image/850/1000/kex5ci80/plant-seed/g/t/d/10-xii-22-mosambi-mosmi-plant-seeds-vibex-original-imafvhmasfjycnpd.jpeg?q=90&crop=false",
+    "https://m.media-amazon.com/images/I/51UaPjM87IL._UF1000,1000_QL80_.jpg"
+  ],
+  "harvesting": "Mosambi trees start yielding fruits in 4–5 years after planting. Fruits are harvested when they turn light yellow-green and give off a characteristic sweet aroma. Overripe fruits lose sweetness and become dry, so pick at the correct stage.",
+  "harvestingImage": "https://i.ytimg.com/vi/-9UE8TdxToc/maxresdefault.jpg",
+  "commonTroubles": [
+    "Citrus Greening (HLB)/pCauses yellowing leaves and small fruits; remove affected branches and control psylla insects.",
+    "Fruit Drop/pControlled by regular irrigation and balanced nutrition.",
+    "Leaf Miners/pCause tunnels in leaves; spray neem oil solution."
+  ],
+  "commonTroublesImages": [
+    "https://www.researchgate.net/publication/328207836/figure/fig1/AS:11431281272033339@1723837501329/HLB-disease-symptoms-on-Mosambi-Citrus-sinensis-A-and-B-HLB-symptoms-of-blotchy.tif",
+    "https://kjmarathi.b-cdn.net/media/13638/lemon.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRex-37w140uXGm8nePm9mXCPQQgQxpNt8J9Q&s"
+  ],
+  "category": "Fruit",
+  "searchWords": [
+    "mosambi",
+    "sweet lime",
+    "citrus fruit",
+    "fruit farming",
+    "mosambi sweet lime"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T10:54:40.182Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T10:54:40.182Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "68987aa465eb8870f02481d0"
+  },
+  "customId": "GNF009",
+  "name": "Lemon (Nimbu)",
+  "coverImage": "https://hasiruagro.com/wp-content/uploads/2023/07/Lemon-Tree-All-Season-Kagzi-Hasiruagro.webp",
+  "video": "https://youtu.be/rNRXtYza2qY?si=xWQXikfuJh8JQX_Y",
+  "doYouKnow": "Lemon, known as Nimbu in Hindi, is one of the most common and versatile citrus fruits in India. It is widely used in beverages, pickles, curries, and as a natural flavor enhancer. Lemons are rich in vitamin C, antioxidants, and citric acid, making them excellent for boosting immunity, aiding digestion, and refreshing the body during hot summers.",
+  "varietiesText": [
+    "Kagzi Nimbu → The most popular thin-skinned, juicy variety.",
+    "Assam Lemon (Gol Nemu and Elachi Nemu) → Famous for high juice content and fragrance.",
+    "Pramalini and Vikram → Hybrid varieties with high yield.",
+    "Baramasi Lemon → Bears fruit throughout the year."
+  ],
+  "varietiesImages": [
+    "https://shrigramorganics.com/wp-content/uploads/2020/06/lemon-plant-1561959966-4978164.jpeg",
+    "https://m.media-amazon.com/images/I/71Uau50pQzL._UF1000,1000_QL80_.jpg",
+    "https://www.asiafarming.com/wp-content/uploads/2022/11/High-Yield-Hybrid-Lemon-Varieties2.jpg",
+    "https://5.imimg.com/data5/BK/EE/MY-45352276/baramasi-lemon-plant.jpg"
+  ],
+  "bestCondition": {
+    "sunlight": "Requires 6–8 hours of bright sunlight daily.",
+    "water": "Regular watering is necessary; avoid waterlogging as roots are sensitive.",
+    "soil": "Well-drained sandy loam soil with good organic content; pH 5.5–7.0 is ideal."
+  },
+  "whenToSow": "Planting is best during July–August (monsoon). Some varieties like Baramasi can yield fruits almost year-round, but peak harvest is in winter and summer.",
+  "growingGuide": [
+    "Lemon is usually propagated through budding or air-layering for better fruit quality.",
+    "Dig pits of 50×50×50 cm and fill them with soil, sand, and compost.",
+    "Plant saplings 3–4 meters apart.",
+    "Regular irrigation is essential, especially during flowering and fruiting stages.",
+    "Prune weak or diseased branches to maintain plant health.",
+    "Fertilize with organic compost or farmyard manure before flowering for better yield and juice content."
+  ],
+  "growingGuideImages": [
+    "https://i.ytimg.com/vi/USv4R7Tgf5s/maxresdefault.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUwX6eqdIs07Vsb36rBdZor42WXLaWBmsyOQ&s",
+    "https://cdn.mos.cms.futurecdn.net/aCaeLQMNmnJupAfdJaLmKD.jpg"
+  ],
+  "harvesting": "Lemon trees start bearing fruit in 2–3 years after planting. Fruits are harvested when they turn light green to yellow and feel firm to touch. Mature lemons are juicy and aromatic. Avoid harvesting immature fruits as they lack juice and flavor.",
+  "harvestingImage": "https://www.agrifarming.in/wp-content/uploads/High-Density-Lemon-Plantation1.jpg",
+  "commonTroubles": [
+    "Citrus Canker → Causes leaf and fruit spots; use copper fungicide sprays.",
+    "Leaf Curl and Psylla → Leads to curled, yellow leaves; control with neem oil spray.",
+    "Fruit Drop → Prevented with regular irrigation and balanced manuring."
+  ],
+  "commonTroublesImages": [
+    "https://www.agriculture.gov.au/sites/default/files/images/citrus-canker-main.jpg",
+    "https://www.shutterstock.com/image-photo/diseases-citrus-trees-leaf-curl-260nw-2119647077.jpg",
+    "https://preview.redd.it/any-ideas-on-why-my-mums-lemon-tree-is-dropping-these-tiny-v0-ao9bv9cvyp8c1.jpg?width=640&crop=smart&auto=webp&s=ed01937190b49dc7f85aaf9e21fbe7844bc255bc"
+  ],
+  "category": "Fruit",
+  "searchWords": [
+    "lemon",
+    "nimbu",
+    "citrus fruit",
+    "fruit farming",
+    "lemon nimbu"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T10:55:32.643Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T10:55:32.643Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "68987ad265eb8870f02481d1"
+  },
+  "customId": "GNF010",
+  "name": "Grapes (Angoor)",
+  "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTytwweGLd4xpVLJD9mReewKUXkyAOw8q-57Q&s",
+  "video": "https://youtu.be/7emSoU8PvwU?si=5msxo2EWdhsTcW96",
+  "doYouKnow": "Grapes, known as Angoor in Hindi, are one of the oldest cultivated fruits in the world and are widely grown in India, especially in Maharashtra, Karnataka, and Tamil Nadu. They are rich in antioxidants, vitamins A, C, and K, and are excellent for heart health and digestion. Grapes are eaten fresh, dried into raisins, or used for making juices, jams, and wines.",
+  "varietiesText": [
+    "Thompson Seedless → Popular green variety, sweet and seedless.",
+    "Bangalore Blue → Small, purple, seeded grapes grown in Karnataka, often used for juices and wines.",
+    "Sharad Seedless → Large black seedless grapes, sweet and fleshy.",
+    "Anab-e-Shahi → Big, green, seeded variety, widely grown in South India.",
+    "Flame Seedless → Red-colored, sweet seedless variety."
+  ],
+  "varietiesImages": [
+    "https://m.media-amazon.com/images/I/51mAIhUopmL._UF1000,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/611rh1vEfwL._UF1000,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/61ixRo24RSL.jpg",
+    "https://www.jiomart.com/images/product/original/rvbevs0ccf/cloud-farm-hybrid-anab-e-shahi-grape-plant-200-mm-cf_o126-product-images-orvbevs0ccf-p602994188-1-202307071237.jpg?im=Resize=(1000,1000)",
+    "https://m.media-amazon.com/images/I/61pERotjZFL._UF1000,1000_QL80_.jpg"
+  ],
+  "bestCondition": {
+    "sunlight": "Requires 6–8 hours of bright sunlight daily.",
+    "water": "Needs regular but moderate watering; avoid overwatering to prevent root rot.",
+    "soil": "Well-drained sandy loam or black cotton soil with pH 6.5–7.5 is best."
+  },
+  "whenToSow": "Planting is best during December–January in most grape-growing regions. Harvesting begins from March to May, with some varieties also yielding in July–August.",
+  "growingGuide": [
+    "Grapes are propagated through hardwood cuttings.",
+    "Vines are usually trained on trellises or arbors for proper growth.",
+    "Pits of 60×60×60 cm are dug and filled with compost and sandy loam soil.",
+    "Water the plants regularly during the growing season, but reduce irrigation before harvest to improve sweetness.",
+    "Pruning is essential each year to maintain vine shape and ensure better yields.",
+    "Fertilize with organic manure and apply mulch to conserve soil moisture."
+  ],
+  "growingGuideImages": [
+    "https://i.ytimg.com/vi/CNz6fvHrH0A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDxMXu3YOZaguixMGDUGtoJCSkBKg",
+    "https://i.ytimg.com/vi/MddPIxfHPUQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCB3_1TAXuLiSfbYjI4FS8KkqVy6g",
+    "https://grapes.extension.org/wp-content/uploads/2019/06/muscat-grape-table_644.jpg"
+  ],
+  "harvesting": "Grapevines start bearing fruits in 2–3 years after planting, with peak yields in 5–6 years. Fruits are harvested when they develop full color, sweetness, and a waxy bloom on the surface. They should be firm, juicy, and plump. Grapes do not ripen once picked, so harvesting at the correct maturity is crucial.",
+  "harvestingImage": "https://www.fieldclock.com/hubfs/Growing%20Profitable%20Vineyard%20Grapes-1.jpeg",
+  "commonTroubles": [
+    "Downy Mildew → Yellow patches on leaves; control with organic fungicides like copper sprays.",
+    "Powdery Mildew → White powdery coating on leaves and fruits; treat with sulfur dusting."
+  ],
+  "commonTroublesImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL6kldCE7xsy8n8YH53BmwGKNegIPfLJjA7w&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMLqlmbyBg7TDdQm3CGfC78ro_ud73f-7BXQ&s"
+  ],
+  "category": "Fruit",
+  "searchWords": [
+    "grapes",
+    "angoor",
+    "fruit farming",
+    "vineyard",
+    "seedless grapes"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T10:56:18.811Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T10:56:18.811Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "68987bc865eb8870f02481d2"
+  },
+  "customId": "GNL001",
+  "name": "Spinach (Palak)",
+  "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTboQcH9ktQaD6yHy4_ojgBOKZ38wPtj64l0w&s",
+  "video": "https://youtu.be/T80z70mZU7M?si=SopNAe6UJw4RNqMW",
+  "doYouKnow": "Spinach, or Palak, is one of the most loved and nutritious leafy greens in Indian kitchens. From the comforting palak dal and creamy palak paneer to crispy palak pakoras and stuffed parathas, this humble leaf is versatile in both traditional and modern recipes. Rich in iron, calcium, vitamin A, and fiber, spinach strengthens bones, improves blood health, and boosts immunity. Adding spinach to your diet just twice a week can significantly increase your intake of essential nutrients.",
+  "varietiesText": [
+    "Broad-Leaf Palak → Large green leaves, soft texture, great for palak paneer or curries.",
+    "Small-Leaf Palak → Tender leaves, perfect for salads and stir-fries.",
+    "Dark Green Palak → Rich in flavor, ideal for dals and saag dishes."
+  ],
+  "varietiesImages": [
+    "https://bombayseeds.com/cdn/shop/files/Spinach_seeds.jpg?v=1729234607",
+    "https://m.media-amazon.com/images/I/71B9i8nXWQL._UF1000,1000_QL80_.jpg",
+    "https://5.imimg.com/data5/SELLER/Default/2024/3/402550210/ML/VQ/AI/214334827/dried-spinach-palak-leaf-500x500.jpg"
+  ],
+  "bestCondition": {
+    "sunlight": "Needs at least 4–5 hours of direct sunlight daily; partial shade also works in very hot regions.",
+    "water": "Requires regular watering; soil should always be moist but not waterlogged.",
+    "soil": "Well-drained loamy soil enriched with compost; pH 6.0–7.5 is ideal."
+  },
+  "whenToSow": "Spinach is a year-round crop, but it grows best during the cooler months (October to February). In northern India, it thrives in winter; in southern India, it can be grown almost throughout the year with good irrigation.",
+  "growingGuide": [
+    "Begin by loosening the soil and mixing in plenty of organic compost.",
+    "Sow the seeds directly into the soil, keeping them about 2–3 cm deep and spaced 5–6 inches apart.",
+    "Cover them lightly with soil and water gently.",
+    "The seedlings usually emerge within 6–8 days.",
+    "Thin the seedlings to allow enough space for the leaves to spread.",
+    "Keep the soil moist at all times, as spinach grows best with regular watering.",
+    "Applying mulch helps retain moisture and keeps weeds away.",
+    "For continuous harvest, sow a new batch every 3–4 weeks."
+  ],
+  "growingGuideImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEmGC_mFXLl5dVUnoar5ETg0umCQ6rConxA&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8HC7340LF4VkOS0t-SOCZuqb4rDxnOi2Sig&s",
+    "https://m.media-amazon.com/images/I/81xnHQMaiNL._UF350,350_QL80_.jpg"
+  ],
+  "harvesting": "Spinach is ready for harvest within 30–40 days of sowing. Harvest the outer leaves first while letting the inner ones continue to grow — this way, you can keep harvesting from the same plant for weeks. Leaves should be bright green, tender, and about 4–6 inches long. Avoid harvesting leaves that have turned yellowish or tough, as they will be bitter.",
+  "harvestingImage": "https://gardenerspath.com/wp-content/uploads/2023/04/How-to-Pick-and-Harvest-Spinach-Featured.jpg",
+  "commonTroubles": [
+    "Yellowing Leaves → Usually caused by poor soil nutrition; add organic compost or liquid fertilizer.",
+    "Leaf Spot Disease → Brown spots on leaves; treat with neem oil spray and ensure proper spacing for airflow.",
+    "Aphids (Green Insects) → Small insects that suck leaf sap; control them by spraying a mild solution of soap water or neem oil."
+  ],
+  "commonTroublesImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9-qFPX324UCqBqlqR5lVD9bX8Jw93qWGh8g&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD4zV8DiVxBSM4OpugFcDwSQWeyH3B8FML5w&s",
+    "https://i0.wp.com/farm6.static.flickr.com/5100/5547164873_5c1c6b76f6.jpg"
+  ],
+  "category": "Leafy Green",
+  "searchWords": [
+    "spinach",
+    "palak",
+    "leafy greens",
+    "iron rich vegetable",
+    "nutritious greens"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T11:00:24.182Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T11:00:24.182Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "68987c8965eb8870f02481d3"
+  },
+  "customId": "GNL002",
+  "name": "Methi (Fenugreek)",
+  "coverImage": "https://mumbaifarmer.com/wp-content/uploads/2014/09/methi.jpg?w=640",
+  "video": "https://youtu.be/FUmfJgdF8Ss?si=E2GBDWq-8lnDaF8l",
+  "doYouKnow": "Methi, or fenugreek, is a beloved leafy vegetable in Indian households, known for its distinct aroma and slightly bitter taste that enhances curries, parathas, and dals. It is also valued for its medicinal properties, aiding digestion, controlling blood sugar, and improving skin health. A simple dish like methi thepla or aloo-methi can turn a regular meal into something comforting and wholesome.",
+  "varietiesText": [
+    "Small-Leaf Methi → Tender, perfect for quick stir-fries.",
+    "Broad-Leaf Methi → Larger leaves, commonly used in parathas and curries.",
+    "Kasuri Methi → Dried fenugreek leaves, strong flavor for gravies and rotis.",
+    "Microgreen Methi → Young, harvested early for salads and garnishing."
+  ],
+  "varietiesImages": [
+    "https://www.bbassets.com/media/uploads/p/l/40077227_1-fresho-methi-smallnani-mathi.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoGHHtb2yWg0UmrEMbmETMjg0DijT-7s_jtQ&s",
+    "https://www.jiomart.com/images/product/original/rveepd4g11/marwar-premium-kasuri-methi-dry-fenugreek-leaves-100gm-aromatic-kasoori-methi-product-images-orveepd4g11-p592184188-2-202206232254.jpg?im=Resize=(420,420)",
+    "https://www.allthatgrows.in/cdn/shop/products/FenugreekMicrogreens.png?v=1596433725"
+  ],
+  "bestCondition": {
+    "sunlight": "Needs 4–5 hours of sunlight daily; tolerates partial shade.",
+    "water": "Regular watering to keep soil moist; avoid waterlogging.",
+    "soil": "Loamy soil rich in compost; pH between 6.0 and 7.0 is ideal."
+  },
+  "whenToSow": "Methi grows best in the cool season (October to February). In southern India, it can be grown almost year-round with sufficient irrigation.",
+  "growingGuide": [
+    "Start by soaking methi seeds overnight for quick germination.",
+    "Scatter the seeds evenly in a pot or bed and cover lightly with soil.",
+    "Keep the soil moist with gentle watering.",
+    "Germination usually occurs within 3–5 days.",
+    "As seedlings sprout, thin them lightly if they are overcrowded.",
+    "Regular weeding ensures the plants get enough nutrition.",
+    "Adding compost after 2 weeks encourages lush leaf growth."
+  ],
+  "growingGuideImages": [
+    "https://plantura.garden/uk/wp-content/uploads/sites/2/2022/04/fenugreek-seedling-1024x683.jpg?x54327",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR541d86lmb5_M4DjWDJMKF5DbGLFjPWbLNkg&s",
+    "https://saskpulse.com/wp-content/uploads/2023/05/Growing-Fenugreek-Banner-scaled.jpg"
+  ],
+  "harvesting": "Methi can be harvested in 20–25 days. Either pluck the tender leaves individually or cut the entire plant above the soil to allow regrowth. Ideal leaves are bright green and tender; older leaves may be more bitter. To maintain a steady supply, sow new seeds every 2–3 weeks.",
+  "harvestingImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfUeWNs9xm4LZm54VhM4Y2y9qxd0JrrKsrhQ&s",
+  "commonTroubles": [
+    "Powdery Mildew/pAppears as white powdery patches; treat with neem oil spray.",
+    "Aphids/pSmall insects on leaf undersides; control with mild soap water spray.",
+    "Root Rot/pCaused by overwatering; ensure well-drained soil."
+  ],
+  "commonTroublesImages": [
+    "https://www.desikheti.com/cdn/shop/files/Fenugreek_Powdery_Mildew_3.png?v=1738387265&width=3840",
+    "https://cdn.shopify.com/s/files/1/0550/9401/8125/files/Aphids_in_Fenugreek_480x480.jpg?v=1719252926",
+    "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10658-017-1208-7/MediaObjects/10658_2017_1208_Fig2_HTML.gif"
+  ],
+  "category": "Leafy Green",
+  "searchWords": [
+    "methi",
+    "fenugreek",
+    "leafy greens",
+    "medicinal herb",
+    "nutritious greens"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T11:03:37.580Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T11:03:37.580Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "68987cc565eb8870f02481d4"
+  },
+  "customId": "GNL003",
+  "name": "Amaranthus (Thotakura)",
+  "coverImage": "https://m.media-amazon.com/images/I/51A8LisPekL._UF1000,1000_QL80_.jpg",
+  "video": "https://youtu.be/RVIkXGLO5RU?si=NJXvgROEBooRx4WF",
+  "doYouKnow": "Amaranthus, popularly called Thotakura in Telugu, is a powerhouse of nutrition and one of the easiest leafy vegetables to grow in India. Rich in iron, calcium, and vitamin C, it strengthens the body and boosts immunity. Thotakura finds its way into many kitchens in the form of dal, stir-fries, chutneys, and even chapati fillings. Its tender stems are also edible and add a pleasant crunch to dishes. A bowl of thotakura pappu or stir-fry is a staple comfort food in many Indian households.",
+  "varietiesText": [
+    "Red Amaranthus (Erra Thotakura) → Attractive red leaves, slightly earthy taste, adds color to dishes.",
+    "Green Amaranthus (Pachcha Thotakura) → Most common, soft leaves, mild flavor, widely used in dals and curries.",
+    "White-Stem Amaranthus (Tella Thotakura) → Pale stems with light green leaves, known for tenderness and fast growth.",
+    "Mixed Amaranthus → Combination of red and green leaves, appealing for salads and stir-fries."
+  ],
+  "varietiesImages": [
+    "https://www.seedbasket.in/image/cache/catalog/Products/Non%20Hybrid/WhatsApp%20Image%202021-09-22%20at%2021.03.39-500x500-0.jpeg",
+    "https://dukaan.b-cdn.net/500x500/webp/projecteagle/images/01e57577-a764-4d4d-9932-0d4a4bb81ff2.jpg",
+    "https://static.wixstatic.com/media/86eefd_f8d46197c7c4491cafb2191d3566a9a5~mv2.jpeg/v1/fill/w_480,h_387,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/86eefd_f8d46197c7c4491cafb2191d3566a9a5~mv2.jpeg",
+    "https://i.etsystatic.com/23404686/r/il/39a096/2583726644/il_fullxfull.2583726644_km37.jpg"
+  ],
+  "bestCondition": {
+    "sunlight": "Prefers 5–6 hours of direct sunlight daily.",
+    "water": "Requires moderate watering; soil should be kept moist but not soggy.",
+    "soil": "Well-drained loamy soil enriched with compost; thrives in slightly sandy soil too."
+  },
+  "whenToSow": "Thotakura is a year-round crop, but it flourishes best during the warmer months from March to October. With proper care, it can be grown throughout the year in southern India.",
+  "growingGuide": [
+    "Prepare the soil by loosening it and mixing organic compost.",
+    "Scatter the tiny seeds evenly across the bed or in pots and cover lightly with soil.",
+    "Water gently to avoid washing away seeds.",
+    "Germination takes about 3–4 days.",
+    "Once the seedlings appear, thin them to maintain proper spacing of around 5–6 inches.",
+    "Regular weeding is necessary, as weeds compete for nutrients.",
+    "To encourage lush leaf growth, apply liquid organic fertilizer once every 10 days.",
+    "Ensure the soil remains moist for tender leaves."
+  ],
+  "growingGuideImages": [
+    "https://myecobin.in/img/cms/amaranthus_03.jpg",
+    "https://i.ytimg.com/vi/QNCOitnBT80/sddefault.jpg",
+    "https://m.media-amazon.com/images/I/712K3ESBOJS._UF1000,1000_QL80_.jpg"
+  ],
+  "harvesting": "Thotakura is ready for harvest in 25–30 days. Tender leaves and stems should be plucked carefully, allowing new shoots to continue growing. For continuous harvest, cut only the top portion, leaving the lower part intact. Leaves should be soft and vibrant in color; avoid harvesting once stems turn hard or fibrous.",
+  "harvestingImage": "https://images.meesho.com/images/products/52667048/drz3o_512.jpg",
+  "commonTroubles": [
+    "Leaf-Eating Caterpillars/pCreate holes in leaves; handpick them or spray neem solution.",
+    "Aphids/pCluster on young leaves; control with a neem oil or soap water spray.",
+    "Leaf Spot Disease/pBrown patches appear on leaves; ensure good spacing for air circulation and spray diluted neem extract."
+  ],
+  "commonTroublesImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmqvQCTyAQ5kxriU5fQcMMJllZhFTPozSOug&s",
+    "https://cdn.shopify.com/s/files/1/0550/9401/8125/files/Aphids_in_Fenugreek_480x480.jpg?v=1719252926",
+    "https://s3-us-west-1.amazonaws.com/sg-production-public/data/images/824/files/big_alternariablight.jpg"
+  ],
+  "category": "Leafy Green",
+  "searchWords": [
+    "amaranthus",
+    "thotakura",
+    "leafy greens",
+    "iron rich vegetable",
+    "nutritious greens"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T11:04:37.176Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T11:04:37.176Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "68987cfb65eb8870f02481d5"
+  },
+  "customId": "GNL004",
+  "name": "Curry Leaves (Karuveppilai / Karivepaku)",
+  "coverImage": "https://theaffordableorganicstore.com/cdn/shop/files/Curry-Leaves-Sapling-1.webp?v=1744629678",
+  "video": "https://youtu.be/Cz-z0YWfyaw?si=oqXf4dpGNOgCGVN1",
+  "doYouKnow": "Curry leaves are a staple in Indian cooking, known for their distinctive aroma and flavor that elevates dishes like sambar, rasam, curries, and chutneys. Beyond flavor, they are rich in iron, vitamin A, and antioxidants that improve digestion, strengthen hair, and help control blood sugar. A handful of fresh curry leaves added to tempering can transform even a simple dal or upma into something fragrant and irresistible.",
+  "varietiesText": [
+    "Regular Green Curry Leaves → Commonly grown, glossy dark green leaves, strong aroma, used in everyday cooking.",
+    "Dwarf Curry Leaf Plant → Compact in size, ideal for growing in pots and balconies, with equally flavorful leaves.",
+    "Gamthi Curry Leaf → A smaller, slow-growing variety with thick, highly aromatic leaves, considered superior in flavor."
+  ],
+  "varietiesImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCPOXFlvMlrfX9_JRxm06ZaVT_XDU8OQNWiw&s",
+    "https://puspitanursery.in/wp-content/uploads/2024/08/k1-119-374x374.jpg",
+    "https://i.etsystatic.com/35392435/r/il/09831a/5767295206/il_fullxfull.5767295206_ei8n.jpg"
+  ],
+  "bestCondition": {
+    "sunlight": "Requires 6–7 hours of direct sunlight daily.",
+    "water": "Moderate watering; soil should be moist but never waterlogged. Reduce watering in winter.",
+    "soil": "Well-drained sandy loam soil with plenty of compost; prefers slightly acidic to neutral pH (6.0–7.0)."
+  },
+  "whenToSow": "Curry leaf plants can be grown year-round, but saplings establish best during the early monsoon (June–August). In southern India, they thrive almost throughout the year.",
+  "growingGuide": [
+    "Curry leaves are usually grown from saplings or stem cuttings rather than seeds, as they take long to germinate.",
+    "Choose a healthy sapling and plant it in a deep pot or garden bed enriched with compost.",
+    "Water regularly but sparingly, as too much water can lead to root rot.",
+    "Prune the top shoots once the plant reaches about 1–1.5 feet to encourage bushy growth.",
+    "Apply organic manure every month for healthy leaves.",
+    "Keep the plant in full sunlight for strong flavor.",
+    "During winters, move potted plants to a warmer spot."
+  ],
+  "growingGuideImages": [
+    "https://www.wikihow.com/images/thumb/a/ab/Grow-Curry-Leaves-Step-1.jpg/v4-460px-Grow-Curry-Leaves-Step-1.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3GrJtxin-qrbUB6_VYSM_oF0x745H_GvWPg&s",
+    "https://www.shutterstock.com/image-photo/real-life-curry-leaf-close-600nw-2636599871.jpg"
+  ],
+  "harvesting": "Leaves can be harvested once the plant is 1–2 years old and well established. Pick mature, dark green leaves from the middle branches while leaving young shoots to grow. For home use, harvest only a few sprigs at a time so the plant continues to flourish. The best leaves are glossy and tender, with a strong aroma. Avoid harvesting yellowing or dried leaves.",
+  "harvestingImage": "https://www.wikihow.com/images/thumb/a/a1/Grow-Curry-Leaves-Step-10.jpg/v4-460px-Grow-Curry-Leaves-Step-10.jpg",
+  "commonTroubles": [
+    "Leaf Yellowing/pOften caused by nutrient deficiency; add organic compost or diluted cow dung manure.",
+    "Root Rot/pResults from overwatering; ensure soil drainage and reduce watering frequency.",
+    "Aphid and Scale Insects/pSeen on stems and undersides of leaves; treat with neem oil spray or wipe with a cotton swab dipped in soapy water."
+  ],
+  "commonTroublesImages": [
+    "https://curryleafplant.com/cdn/shop/articles/curry-leaf-closeup.jpg?v=1696107126&width=1100",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjHh6u3Vkre-wkKC_QMAXSVkb9j2zTWTr7g&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJCwPHSsIDJPLKvnFEXIbg9m9N7hjoNHMuww&s"
+  ],
+  "category": "Leafy Green",
+  "searchWords": [
+    "curry leaves",
+    "karuveppilai",
+    "karivepaku",
+    "leafy greens",
+    "aromatic herb"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T11:05:31.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T11:05:31.774Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "68987d1d65eb8870f02481d6"
+  },
+  "customId": "GNL005",
+  "name": "Coriander (Kothimeera / Dhania)",
+  "coverImage": "https://www.apnikheti.com/upload/crops/7042idea99Coriander_0.jpg",
+  "video": "https://youtu.be/MjhP1wQ_59c?si=klFTA5n8OTvA_Ks3",
+  "doYouKnow": "Coriander, called Kothimeera in Telugu and Dhania in Hindi, is a must-have herb in every Indian kitchen. Its fresh leaves brighten curries, chutneys, salads, and garnishes, while the seeds are used as a spice in masalas and pickles. Packed with vitamin C, vitamin K, and antioxidants, coriander supports immunity, improves digestion, and adds a refreshing aroma to food. Imagine a steaming bowl of rasam or a hot plate of biryani — both feel incomplete without a sprinkle of fresh coriander.",
+  "varietiesText": [
+    "Local Desi Coriander → Traditional variety with a strong fragrance, preferred in many households.",
+    "Hybrid Coriander → Longer-lasting and slow to bolt (produce flowers), ideal for continuous harvest."
+  ],
+  "varietiesImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5tVIfFtDbtq1tB-c0bVjYYqGxwQeSOEf_Wg&s",
+    "https://m.media-amazon.com/images/I/61a9PjSZJgL._UF1000,1000_QL80_.jpg"
+  ],
+  "bestCondition": {
+    "sunlight": "Requires 4–5 hours of direct sunlight daily.",
+    "water": "Regular watering; soil should remain moist, but avoid overwatering.",
+    "soil": "Loose, well-drained loamy soil enriched with compost; pH between 6.2 and 7.5 is best."
+  },
+  "whenToSow": "Coriander is a cool-season crop, growing best from October to February in most parts of India. In southern India, it can also be grown during the monsoon and winter months.",
+  "growingGuide": [
+    "Coriander seeds germinate better when split lightly before sowing.",
+    "Soak the seeds overnight, then sow them about 1 cm deep and 4–5 inches apart.",
+    "Cover lightly with soil and water gently.",
+    "Germination occurs in 7–10 days.",
+    "Thin the seedlings if overcrowded, ensuring each plant has enough space to grow bushy.",
+    "Keep the soil consistently moist, and avoid letting it dry out, as coriander bolts quickly in hot, dry conditions.",
+    "Adding compost every 2 weeks encourages lush leaves.",
+    "To prolong the leaf harvest, pinch off flower buds as they appear."
+  ],
+  "growingGuideImages": [
+    "https://geekgardener.in/wp-content/uploads/growing-coriander-in-containers-Coriander-seeds.jpg",
+    "https://geekgardener.in/wp-content/uploads/growing-coriander-seedlings-germinated.jpg",
+    "https://geekgardener.in/wp-content/uploads/growing-coriander-seedlings-healthy.jpg"
+  ],
+  "harvesting": "Coriander is ready to harvest within 25–30 days for leaves. Cut the outer leaves first and let the inner shoots continue growing. For seeds, allow the plant to mature for about 90–100 days until the flowers turn into small green seeds, which then dry and turn brown. Leaves are best harvested when tender and bright green; avoid harvesting once the plant bolts, as leaves become bitter.",
+  "harvestingImage": "https://www.bhg.com/thmb/JkJ9wN0e0iFCuKozg_DuJxc0x6I=/4000x0/filters:no_upscale():strip_icc()/BHG-how-to-harvest-cilantro-101757744-a930b11c015447309b8dfeb9e6ea419c.jpg",
+  "commonTroubles": [
+    "Bolting (Early Flowering)/pCaused by high temperatures; sow in cool weather and keep soil moist.",
+    "Aphids/pSmall insects on tender shoots; control with neem oil spray or soap water solution.",
+    "Leaf Spot Disease/pYellow or brown patches; improve air circulation and spray with diluted neem extract."
+  ],
+  "commonTroublesImages": [
+    "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:200,cw:1200,ch:1200,q:80,w:1200/9G4xqG52UgoCNaH2f5yLTC.jpg",
+    "https://cdn.shopify.com/s/files/1/0550/9401/8125/files/Aphids_in_Fenugreek_480x480.jpg?v=1719252926",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcCruYtJwX6qFPyUvpsMWpRZz1_aScMvjB1g&s"
+  ],
+  "category": "Leafy Green",
+  "searchWords": [
+    "coriander",
+    "kothimeera",
+    "dhania",
+    "leafy greens",
+    "aromatic herb"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T11:06:05.955Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T11:06:05.955Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "68987d3e65eb8870f02481d7"
+  },
+  "customId": "GNL006",
+  "name": "Mint (Pudina)",
+  "coverImage": "https://sowrightseeds.com/cdn/shop/articles/mint-closeup-pot.jpeg-1696612175222_f2a0a245-4cfe-4442-a24d-6fef1ae709c0.jpg?v=1736453022",
+  "video": "https://youtu.be/JRAJ3l2Mm4k?si=XColvAPh8BncOZAw",
+  "doYouKnow": "Mint, or Pudina, is one of the most refreshing herbs in Indian cooking, loved for its cooling flavor and aroma. From pudina chutney and raita to masala chai and refreshing pudina sherbet, it adds a burst of freshness to countless recipes. Apart from its culinary use, mint is well-known for its medicinal benefits — it aids digestion, reduces acidity, soothes headaches, and keeps the body cool in summer.",
+  "varietiesText": [
+    "Common Green Mint → Bright green leaves with strong flavor, most widely grown in home gardens.",
+    "Peppermint → Slightly darker leaves, very aromatic, used for teas and medicinal purposes.",
+    "Spearmint → Softer flavor, commonly used in drinks, chutneys, and raitas.",
+    "Wild Mint (Pudina Desi) → Traditional Indian variety, highly fragrant, often grown locally."
+  ],
+  "varietiesImages": [
+    "https://sowrightseeds.com/cdn/shop/articles/mint-closeup-pot.jpeg-1696612175222_f2a0a245-4cfe-4442-a24d-6fef1ae709c0.jpg?v=1736453022",
+    "https://gardenerspath.com/wp-content/uploads/2020/07/How-to-Grow-and-Care-For-Peppermint-Plants-Pin2.jpg",
+    "https://cdn.mos.cms.futurecdn.net/jd99sb8huNicJyXauN2ZFR.jpg",
+    "https://cdn.insteading.com/wp-content/uploads/2022/04/Lemon-Balm.png"
+  ],
+  "bestCondition": {
+    "sunlight": "Grows best in 4–6 hours of partial to full sunlight daily.",
+    "water": "Requires frequent watering; soil should be kept moist at all times.",
+    "soil": "Rich, loamy, and well-drained soil with plenty of compost; prefers a pH of 6.0–7.5."
+  },
+  "whenToSow": "Mint is a year-round crop in India, thriving particularly well during the cooler months of October to March. With good watering, it can be grown through the summer too.",
+  "growingGuide": [
+    "Mint is best grown from cuttings rather than seeds.",
+    "Take healthy stems from an existing plant and place them in moist soil or even in water until roots appear.",
+    "Plant them 8–10 inches apart in pots or beds, and water regularly.",
+    "Mint spreads quickly, so it’s best to grow it in containers to prevent it from overtaking other plants.",
+    "Apply compost or organic fertilizer every 3–4 weeks to encourage lush, aromatic growth.",
+    "Pinch off flower buds to prolong leaf production, as flowering reduces leaf flavor."
+  ],
+  "growingGuideImages": [
+    "https://i.ytimg.com/vi/131NMv3O3mk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC7zzoews5OfKTKJNVvFWpH44jV-Q",
+    "https://cdn.mos.cms.futurecdn.net/QCbHMVhzXRTCV2VqzhFMmb.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTS0azMboYFKxxeLeWksgQteEaH8yQW0awKw&s"
+  ],
+  "harvesting": "Mint is ready to harvest within 25–30 days after planting cuttings. Regularly pluck the top leaves and shoots, which encourages bushier growth. The best leaves are tender, bright green, and aromatic. Avoid harvesting too much from a young plant; take only a few sprigs at a time. For continuous supply, cut the plant back every 6–8 weeks.",
+  "harvestingImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa416vYk9eWBkZ7Mq2RNuGKmhwfKm0b67RrA&s",
+  "commonTroubles": [
+    "Leaf Curling/pUsually due to aphid infestation; control with neem oil or soap water spray.",
+    "Powdery Mildew/pWhite powder-like coating on leaves; improve air circulation and spray diluted neem oil.",
+    "Root Rot/pCaused by overwatering; ensure well-drained soil and avoid waterlogging."
+  ],
+  "commonTroublesImages": [
+    "https://i.redd.it/8ht56znc9gw61.jpg",
+    "",
+    "https://i.redd.it/mse4sxxpruq41.jpg"
+  ],
+  "category": "Leafy Green",
+  "searchWords": [
+    "mint",
+    "pudina",
+    "refreshing herb",
+    "culinary herb",
+    "medicinal herb"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T11:06:38.466Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-12T04:32:57.173Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "68987d5565eb8870f02481d8"
+  },
+  "customId": "GNL008",
+  "name": "Lettuce (Salad Patta)",
+  "coverImage": "https://m.media-amazon.com/images/I/51QSUo5X2rL._UF1000,1000_QL80_.jpg",
+  "video": "https://youtu.be/wj6hN9oQ4d4?si=TFCap9azSGaBVf07",
+  "doYouKnow": "Lettuce, popularly called Salad Patta in India, is a cool, crisp leafy vegetable often used in salads, sandwiches, burgers, and wraps. While it’s not traditional in most Indian meals, it has become increasingly popular in urban diets for its refreshing crunch and low-calorie nutrition. Lettuce is rich in vitamin K, folate, and fiber, making it excellent for heart health and digestion. Adding lettuce to a daily salad bowl can keep meals light yet filling.",
+  "varietiesText": [
+    "Iceberg Lettuce → Round, crunchy heads with pale green leaves; great for burgers and sandwiches.",
+    "Romaine Lettuce → Long, dark green leaves; popular for Caesar salads.",
+    "Leaf Lettuce → Loose, curly leaves in green or red shades; easy to grow and harvest.",
+    "Butterhead Lettuce → Soft, tender leaves that almost melt in the mouth."
+  ],
+  "varietiesImages": [
+    "https://i.ytimg.com/vi/iAlqWHnjIwE/maxresdefault.jpg",
+    "https://urjaseeds.com/cdn/shop/products/Picture3.jpg?v=1590684065",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVMjMxcAgbnpJezT7OXHnp7fSZQJJgelWouA&s",
+    "https://i.redd.it/s780i1lysnu91.jpg"
+  ],
+  "bestCondition": {
+    "sunlight": "Prefers 4–5 hours of mild sunlight daily; does best in cooler temperatures.",
+    "water": "Requires frequent, light watering; soil must remain moist but not soggy.",
+    "soil": "Fertile, well-drained loamy soil rich in organic matter; pH 6.0–7.0."
+  },
+  "whenToSow": "Lettuce is a cool-season crop, best grown from October to February in India. In very hot regions, it should be grown under shade nets to avoid bolting.",
+  "growingGuide": [
+    "Prepare soft, fertile soil mixed with compost.",
+    "Sow seeds about 1 cm deep and cover lightly with soil.",
+    "Keep the soil evenly moist; germination takes 7–10 days.",
+    "Thin seedlings to maintain spacing of 8–10 inches between plants.",
+    "Lettuce grows fast, so it’s important to maintain regular watering to keep leaves tender.",
+    "Shade nets or partial cover can help in hot climates.",
+    "Mulching around the plants helps keep the roots cool."
+  ],
+  "growingGuideImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs28UPSj4KvgTwkJ9vrYZbzJJBJ_4u5umgGA&s",
+    "https://i.ytimg.com/vi/yBYXrIQScuM/maxresdefault.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdIIiqmPJovJa-ppzBFHVe0SvrIrxdqnBnJA&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AIDs4HZvsjh2WCSpena0YPLtbGg-xSwiiQ&s"
+  ],
+  "harvesting": "Lettuce is ready for harvest in 35–45 days. For leaf lettuce, pluck the outer leaves first while allowing the inner ones to keep growing. For head lettuce like iceberg, harvest the whole head once it feels firm and compact. Leaves should be fresh, crisp, and bright green; avoid harvesting leaves that are turning yellow or have a bitter taste.",
+  "harvestingImage": "https://www.attainable-sustainable.net/wp-content/uploads/2021/12/harvest-lettuce.jpg",
+  "commonTroubles": [
+    "Bolting (Premature Flowering)/pTriggered by high heat; provide shade and keep soil moist.",
+    "Aphids/pOften hide in leaf folds; wash with mild soap water or spray neem oil.",
+    "Leaf Tip Burn/pBrown edges due to irregular watering or calcium deficiency; ensure consistent moisture and add organic calcium supplements."
+  ],
+  "commonTroublesImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_MXeuB9HBUsjsHurFEA1YbtvcZL6vxGjdCA&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJslOTi0lnzuab2mYmL4xqEVFfjA1hyiMcMA&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdQUQDhok0VKwEysoDLjZ0s8I80HUdxgJKCg&s"
+  ],
+  "category": "Leafy Green",
+  "searchWords": [
+    "lettuce",
+    "salad patta",
+    "leafy vegetable",
+    "cool vegetable",
+    "crisp greens"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T11:07:01.787Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T11:07:01.787Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "68987d8165eb8870f02481d9"
+  },
+  "customId": "GNL009",
+  "name": "Gongura (Roselle Leaves / Sorrel Leaves)",
+  "coverImage": "https://www.greendna.in/cdn/shop/products/Gongura_leaves_4c087c02-4811-40c2-b27c-a8a67af0395b_600x.jpg?v=1571322649",
+  "video": "https://youtu.be/HJACxgwz6FM?si=33D3iyUXCpppDjV5",
+  "doYouKnow": "Gongura, also called Sorrel Leaves or Pulicha Keerai in Tamil, is a much-loved leafy vegetable in Andhra Pradesh, where it is the star ingredient in the famous Gongura Pachadi (chutney). Its tangy, slightly sour flavor makes it unique, pairing wonderfully with rice, dal, and pickles. Gongura is rich in iron, vitamin C, and antioxidants, which help improve blood health, immunity, and digestion. A traditional gongura pachadi with hot rice and ghee is a comfort dish for many Telugu families.",
+  "varietiesText": [
+    "Red-Stem Gongura → Dark green leaves with reddish stems; more sour and commonly used for chutneys.",
+    "Green-Stem Gongura → Slightly less sour; preferred for curries and dal recipes.",
+    "Red Gongura → Red leaves and stem with more sourness, mostly used for salads, curries, or dals."
+  ],
+  "varietiesImages": [
+    "https://www.dispatch.com/gcdn/authoring/2012/08/26/NCOD/ghows-OH-d9d99ea4-e8d2-468b-82e7-1e99ac44b65c-d109d760.jpeg?width=1200&disable=upscale&format=pjpg&auto=webp",
+    "https://www.trustbasket.com/cdn/shop/articles/Bunch_roselle_large.jpg?v=1687243323",
+    "https://yarrowayfarm.com/cdn/shop/files/RedGongura_20455312-2334-4a90-8c3e-379ac00dac55.webp?v=1703054497&width=1946"
+  ],
+  "bestCondition": {
+    "sunlight": "Requires full sunlight, at least 6–7 hours a day.",
+    "water": "Moderate watering; prefers slightly dry soil between waterings. Overwatering reduces leaf flavor.",
+    "soil": "Well-drained sandy loam soil; grows well even in less fertile soil with minimal care."
+  },
+  "whenToSow": "Gongura is a warm-season crop, best grown from June to October during the monsoon and early winter. In southern India, it can be grown almost year-round.",
+  "growingGuide": [
+    "Gongura is usually grown from seeds sown directly into the soil.",
+    "Sow seeds 1–2 cm deep in rows, keeping 8–10 inches between plants.",
+    "Germination occurs in 5–7 days.",
+    "Thin seedlings to ensure proper growth.",
+    "The plant is hardy and grows well with minimal care, but applying compost or cow dung manure every 3–4 weeks ensures lush leaves.",
+    "Regular weeding is essential.",
+    "Since it loves the sun, place the plant in a spot that receives good light.",
+    "Pruning the top shoots encourages bushier growth."
+  ],
+  "growingGuideImages": [
+    "https://i.ytimg.com/vi/9K8GtmyQszA/maxresdefault.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlHCQE3sJEazEr2m-swgJG-tuhdcDOKDpQ4g&s",
+    "https://i.ytimg.com/vi/vkDcbhKaL4s/sddefault.jpg",
+    "https://3.imimg.com/data3/MG/BI/MY-3436813/easy-grow-kit-gongura-pulicha-keerai.jpg"
+  ],
+  "harvesting": "Gongura is ready to harvest in 45–50 days. Harvest young, tender leaves for the best flavor, as older leaves can become fibrous and less sour. Pluck leaves individually or cut tender branches. Frequent plucking encourages new growth, ensuring a continuous supply for several months.",
+  "harvestingImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCch2s897-FDUZpV0WR6AA5JPdAMtW_fP5nA&s",
+  "commonTroubles": [
+    "Leaf Miners/pCause white trails on leaves; remove affected leaves and spray neem oil.",
+    "Aphids/pAttack tender shoots; control with soap water or neem oil spray.",
+    "Fungal Leaf Spots/pAppear as dark patches; improve air circulation and avoid overhead watering."
+  ],
+  "commonTroublesImages": [
+    "https://www.desikheti.com/cdn/shop/files/Bitter_gourd_Serpentine_Leaf_Miner_1.png?v=1738209430&width=3840",
+    "https://cdn.shopify.com/s/files/1/0550/9401/8125/files/Aphids_in_Fenugreek_480x480.jpg?v=1719252926",
+    "https://www.planetnatural.com/wp-content/uploads/2012/12/leaf-spot-fungus-920x518.jpg"
+  ],
+  "category": "Leafy Green",
+  "searchWords": [
+    "gongura",
+    "roselle leaves",
+    "sorrel leaves",
+    "pulicha keerai",
+    "tangy leafy vegetable"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T11:07:45.439Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T11:07:45.439Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "68987d9965eb8870f02481da"
+  },
+  "customId": "GNL010",
+  "name": "Moringa Leaves (Munagaku / Drumstick Leaves)",
+  "coverImage": "https://hips.hearstapps.com/hmg-prod/images/moringa-tree-leaf-close-up-background-royalty-free-image-1716409885.jpg",
+  "video": "https://youtu.be/n-DHQ5mc3ew?si=GIYd8QQmzfQLZsfV",
+  "doYouKnow": "Moringa leaves, popularly known as Munagaku in Telugu, are considered a superfood due to their exceptional nutritional value. They are packed with protein, calcium, iron, vitamin C, and antioxidants, making them an excellent addition to daily meals. In India, they are widely used in curries, dals, stir-fries, and powders for health supplements. Regular consumption of moringa leaves is believed to strengthen bones, improve immunity, and reduce fatigue. A simple munagaku pappu or drumstick leaf stir-fry is not just tasty but a true health booster.",
+  "varietiesText": [
+    "Desi Moringa → Traditional variety, commonly grown in Indian backyards, highly nutritious leaves.",
+    "PKM-1 Hybrid Moringa → Fast-growing, bushy plant with abundant leaves, ideal for frequent harvest.",
+    "Perennial Moringa → Tall, long-living trees producing drumsticks and leaves regularly."
+  ],
+  "bestCondition": {
+    "sunlight": "Thrives in full sunlight, needing 6–8 hours daily.",
+    "water": "Requires moderate watering; drought-tolerant once established, but young plants need regular moisture.",
+    "soil": "Well-drained sandy loam or red soil with good organic matter; pH 6.2–7.0 is ideal."
+  },
+  "whenToSow": "Moringa can be grown year-round in India, but sowing during the early monsoon (June–July) or early spring (February–March) ensures the best growth.",
+  "growingGuide": [
+    "Moringa is commonly grown from seeds or stem cuttings.",
+    "For seeds, sow them directly into the soil about 1 inch deep.",
+    "If using cuttings, select a healthy stem about 1–2 feet long and plant it vertically in well-prepared soil.",
+    "Ensure regular watering until the plant establishes roots.",
+    "Add compost or farmyard manure monthly to boost leaf production.",
+    "Prune regularly to prevent the plant from growing too tall and to encourage more side branches for leaf harvest.",
+    "Protect young plants from heavy winds, as the stems can be fragile."
+  ],
+  "growingGuideImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqcdoAswwEET4BJF2xEwsZvZQRiLOVAL3E7Q&s",
+    "https://www.thespruce.com/thmb/wKozQfyZVP7OMeWX3WUnv_8a1BA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-978171498-38b0545f6a85474aa94c0428eb485f30.jpg",
+    "https://i.ytimg.com/vi/-qK3fYqzKcs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCAQptj5msTnOih7-dp-qC0AkLcTA"
+  ],
+  "harvesting": "Leaves can be harvested 6–8 weeks after planting. Pick tender leaflets from branches, leaving enough to allow regrowth. Harvesting can continue year-round. Leaves are best when they are small, tender, and bright green. Avoid old, yellowing leaves as they lose flavor and nutrition. For regular supply, harvest once every 7–10 days.",
+  "harvestingImage": "https://www.shutterstock.com/shutterstock/videos/3511717487/thumb/6.jpg?ip=x480",
+  "commonTroubles": [
+    "Leaf Caterpillars/pChew on leaves; handpick or use neem spray to control.",
+    "Aphids and Whiteflies/pAttack tender shoots; treat with soap water or neem oil.",
+    "Powdery Mildew/pWhite patches on leaves in humid weather; improve air circulation and spray diluted neem solution."
+  ],
+  "commonTroublesImages": [
+    "https://agritech.tnau.ac.in/crop_protection/moringa/images/Moringa-Noorda%20blitealis-larva.jpg",
+    "https://cdn.shopify.com/s/files/1/0550/9401/8125/files/Aphids_in_Fenugreek_480x480.jpg?v=1719252926",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ-oGnaOsE5uH-jtItrKpFPgOmdVRN6xxl4Q&s"
+  ],
+  "category": "Leafy Green",
+  "searchWords": [
+    "moringa",
+    "munagaku",
+    "drumstick leaves",
+    "superfood",
+    "nutritious leaves"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T11:08:09.213Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T11:08:09.213Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "68987db465eb8870f02481db"
+  },
+  "customId": "GNL011",
+  "name": "Basil (Tulsi / Sweet Basil)",
+  "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv-NApccOqyosFnQFT3PYJSuijPmk03jbZiw&s",
+  "video": "https://youtu.be/uhYnR1ciT7M?si=Ah1xDe6e5-jZEMe0",
+  "doYouKnow": "Basil, known in India as Tulsi when referring to holy basil and Sweet Basil in culinary use, is both a sacred and medicinal plant. In Indian households, tulsi is worshipped and consumed daily for its healing properties, while sweet basil is popular in continental and fusion cooking, especially in pasta, salads, soups, and herbal teas. Basil is rich in vitamin K, antioxidants, and essential oils that boost immunity, improve digestion, and reduce stress. A cup of fresh basil tea or tulsi water in the morning is considered an age-old remedy for good health.",
+  "varietiesText": [
+    "Holy Basil (Tulsi) → Traditional Indian variety, aromatic leaves, used in teas and Ayurveda.",
+    "Sweet Basil → Common in Italian and Thai cooking, tender broad leaves with a sweet aroma.",
+    "Thai Basil → Pointed leaves with a hint of spice and licorice flavor, ideal for stir-fries.",
+    "Purple Basil → Deep purple leaves, used for garnishing and adding color to salads."
+  ],
+  "bestCondition": {
+    "sunlight": "Prefers 5–6 hours of direct sunlight daily.",
+    "water": "Moderate watering; soil should remain moist but not soggy. Avoid waterlogging.",
+    "soil": "Well-drained loamy soil enriched with compost; thrives in slightly acidic to neutral soil (pH 6.0–7.0)."
+  },
+  "whenToSow": "Basil is a warm-season crop, best sown from February to June in most parts of India. In southern India, it can be grown almost year-round with proper care.",
+  "growingGuide": [
+    "Sow basil seeds about ¼ inch deep in moist soil. Seeds germinate in 7–10 days.",
+    "Once seedlings have 3–4 leaves, thin them to maintain 8–10 inches spacing.",
+    "Basil grows well in pots, kitchen gardens, or directly in beds.",
+    "Pinch off the top shoots regularly to encourage bushy growth and prevent early flowering.",
+    "Adding compost every 2–3 weeks helps keep leaves lush and aromatic.",
+    "Avoid overhead watering to prevent fungal issues."
+  ],
+  "growingGuideImages": [
+    "https://growfully.com/wp-content/uploads/2021/04/how-to-grow-basil-from-seed-steps.jpg",
+    "https://www.epicgardening.com/wp-content/uploads/2023/09/grow-basil-from-seed.jpeg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eTfgue2AZPajX-okvLS7S8LVHIKxNyBccA&s"
+  ],
+  "harvesting": "Basil is ready to harvest in 35–40 days after sowing. Pluck tender leaves regularly, starting from the top branches. Always leave at least one-third of the plant intact to encourage continuous growth. The best leaves are bright green, soft, and aromatic. Avoid harvesting once flowers bloom, as leaves turn bitter.",
+  "harvestingImage": "https://i.ytimg.com/vi/v0OiDsziyow/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBwpyk7hpYsjk6ROU7MXp7LSdC3tQ",
+  "commonTroubles": [
+    "Downy Mildew/pYellowing leaves with gray patches; improve air circulation and avoid wet leaves.",
+    "Aphids and Whiteflies/pFound on young shoots; control with neem oil spray.",
+    "Root Rot/pCaused by poor drainage and overwatering; use well-drained soil and water moderately."
+  ],
+  "commonTroublesImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_xDGc03O95fftWGblz8qseF6RZzdjLMtFBQ&s",
+    "https://cdn.shopify.com/s/files/1/0550/9401/8125/files/Aphids_in_Fenugreek_480x480.jpg?v=1719252926",
+    "https://i.redd.it/i-believe-this-is-root-rot-is-there-anything-i-can-do-to-v0-gq0mphcov0eb1.jpg?width=3024&format=pjpg&auto=webp&s=f499d49ab647de3a03bc4359ad82bd0376caff63"
+  ],
+  "category": "Leafy Green",
+  "searchWords": [
+    "basil",
+    "tulsi",
+    "sweet basil",
+    "herbs",
+    "medicinal plants"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T11:08:36.225Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T11:08:36.225Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "68987dca65eb8870f02481dc"
+  },
+  "customId": "GNL012",
+  "name": "Parsley (Ajmood)",
+  "coverImage": "https://growfully.com/wp-content/uploads/2022/03/Parsley-Plant-600x900.jpg",
+  "video": "https://youtu.be/Na6JicCMSxw?si=-3WKhqLXp8hOJpxE",
+  "doYouKnow": "Parsley, known as Ajmood in Hindi, is a versatile herb used worldwide for garnishing, flavoring, and even for its medicinal benefits. Though not as traditional in Indian cooking as coriander, it’s gaining popularity in salads, soups, pastas, and green juices. Parsley is rich in vitamin C, vitamin K, and iron, making it excellent for blood purification and bone health. Its fresh, slightly peppery flavor can brighten up any dish — from a bowl of soup to a plate of grilled vegetables.",
+  "varietiesText": [
+    "Curly Parsley → Decorative curly leaves, often used for garnishing.",
+    "Flat-Leaf Parsley (Italian Parsley) → Stronger flavor, commonly used in cooking.",
+    "Hamburg Parsley → Grown for both its leaves and root; roots are used like carrots in stews."
+  ],
+  "bestCondition": {
+    "sunlight": "Needs 4–6 hours of sunlight; partial shade is also suitable.",
+    "water": "Requires regular watering; soil should stay moist but not waterlogged.",
+    "soil": "Fertile, well-drained loamy soil with good compost; prefers pH 6.0–7.0."
+  },
+  "whenToSow": "Parsley grows best in the cool season (October to February) in India. In cooler hill regions, it can be grown almost year-round.",
+  "growingGuide": [
+    "Soak parsley seeds overnight before sowing to speed up germination, as they are slow to sprout.",
+    "Sow seeds about ½ cm deep in moist soil, keeping 6–8 inches spacing.",
+    "Germination may take 2–3 weeks.",
+    "Thin seedlings to allow enough room for growth.",
+    "Regular pruning of outer leaves encourages bushy plants.",
+    "Apply compost every 3–4 weeks for lush greenery.",
+    "Protect plants from harsh summer heat with shade nets if needed."
+  ],
+  "growingGuideImages": [
+    "https://getbusygardening.com/wp-content/uploads/2020/01/baby-parsley-seedlings-germinating.jpg",
+    "https://gardenerspath.com/wp-content/uploads/2022/01/Small-Potted-Parsley-Seedlings.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfhwVXoC8Kyoi58N-3Vtl76jmJJz0EzWyhOQ&s"
+  ],
+  "harvesting": "Parsley is ready to harvest in 70–80 days after sowing. Pick the outer leaves first, leaving the inner shoots to continue growing. Leaves are best when tender, bright green, and fragrant. Avoid harvesting yellowing or tough leaves. Regular harvesting encourages more leaf production.",
+  "harvestingImage": "https://growfully.com/wp-content/uploads/2022/01/Harvesting-parsley.jpg",
+  "commonTroubles": [
+    "Slow Germination/pNormal for parsley; soaking seeds overnight helps.",
+    "Aphids/pAttack tender leaves; spray with neem oil or soap water.",
+    "Yellowing Leaves/pOften due to nutrient deficiency; add compost or liquid organic fertilizer."
+  ],
+  "commonTroublesImages": [
+    "https://gardenerspath.com/wp-content/uploads/2022/05/Soaking-Parsley-Seeds-Before-Sowing.jpg",
+    "https://cdn.shopify.com/s/files/1/0550/9401/8125/files/Aphids_in_Fenugreek_480x480.jpg?v=1719252926",
+    "https://cdn.mos.cms.futurecdn.net/v2/t:320,l:0,cw:2000,ch:1125,q:80,w:2000/t4BJtyrYkwRnGK3QTFfctH.jpg"
+  ],
+  "category": "Leafy Green",
+  "searchWords": [
+    "parsley",
+    "ajmood",
+    "herbs",
+    "garnishing",
+    "medicinal plants"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T11:08:58.533Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T11:08:58.533Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "68987de865eb8870f02481dd"
+  },
+  "customId": "GNL013",
+  "name": "Ponaganti Kura (Water Amaranth)",
+  "coverImage": "https://www.gandhisgardentokitchen.com/product-images/v5klv5J5YL.png/1481995000000232116/1100x1100",
+  "video": "https://youtu.be/eZ-tLKzAjhc?si=6cxTU-QMGPXMZxci",
+  "doYouKnow": "Ponaganti Kura, also called Water Amaranth, is a traditional leafy green widely grown and consumed in Andhra Pradesh and Telangana. Known for its ability to thrive in both soil and water-logged areas, it’s a favorite in rural households. Ponaganti is rich in iron, calcium, and vitamins A and C, making it excellent for boosting immunity, improving eyesight, and maintaining strong bones. It is most popularly cooked as a simple stir-fry or dal, often paired with hot rice and ghee for a wholesome meal.",
+  "varietiesText": [
+    "Green-Stem Ponaganti → Tender green leaves with soft stems, mild taste.",
+    "Red-Stem Ponaganti → Leaves and stems have a reddish hue; slightly stronger flavor.",
+    "Mixed Variety → Combination of red and green leaves, grown in many backyards."
+  ],
+  "bestCondition": {
+    "sunlight": "Grows well in 5–6 hours of direct sunlight; tolerates partial shade.",
+    "water": "Thrives in moist or even water-logged soil; regular watering is essential.",
+    "soil": "Fertile loamy soil enriched with compost; adapts even to marshy or clay soils."
+  },
+  "whenToSow": "Ponaganti Kura can be grown year-round, but it thrives particularly well during the monsoon and post-monsoon seasons (June to November).",
+  "growingGuide": [
+    "Sow seeds directly into well-prepared soil or sprinkle them in shallow water-logged beds.",
+    "Seeds germinate in about 5–7 days.",
+    "Thin seedlings to maintain spacing of 6–8 inches between plants.",
+    "Since it prefers moisture, ensure regular watering without letting the soil dry out.",
+    "Add compost or cow dung manure every 3–4 weeks to encourage lush green leaves.",
+    "Regular weeding and pruning of the tops encourage bushier growth and tender leaves."
+  ],
+  "growingGuideImages": [
+    "https://i.ytimg.com/vi/FdbJj8Yfqf0/hqdefault.jpg",
+    "https://assets.thehansindia.com/h-upload/2021/08/23/1103806-groundnut-seeds.webp",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC_xT3K6u2Qn0r4WYVpcZJNVuv6LXJ52t5gA&s"
+  ],
+  "harvesting": "Ponaganti is ready for harvesting in 30–35 days after sowing. Pluck tender leaves and shoots regularly for continuous supply. Leaves should be bright green or reddish (depending on variety) and tender. Avoid over-harvesting from one plant; cut a few stems at a time and allow regrowth.",
+  "harvestingImage": "https://thumbs.dreamstime.com/b/sessile-joyweed-dwarf-copperleaf-leaves-ponnaganti-aaku-alternanthera-white-background-145167226.jpg",
+  "commonTroubles": [
+    "Leaf Spot Disease/pBrown patches on leaves; treat with neem-based spray and avoid overhead watering.",
+    "Aphids/pAttack tender shoots; spray with soap water or neem oil.",
+    "Stunted Growth/pOften due to lack of nutrients; add compost or organic fertilizer."
+  ],
+  "commonTroublesImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJOPWGTUcRqDBwD07ti-U0A_AsE4agapb9AQ&s",
+    "https://cdn.shopify.com/s/files/1/0550/9401/8125/files/Aphids_in_Fenugreek_480x480.jpg?v=1719252926",
+    "https://i.etsystatic.com/34970007/r/il/01b00b/3900553021/il_300x300.3900553021_27o8.jpg"
+  ],
+  "category": "Leafy Green",
+  "searchWords": [
+    "ponaganti kura",
+    "water amaranth",
+    "amaranth",
+    "leafy greens",
+    "traditional greens"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T11:09:28.882Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T11:09:28.882Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "68987e1d65eb8870f02481de"
+  },
+  "customId": "GNL014",
+  "name": "Nalleru (Ceylon Spinach / Basella Alba)",
+  "coverImage": "https://www.sakshi.com/article_images/2024/10/16/Nallerupachadi.jpg",
+  "video": "https://youtu.be/0Bzp6uokD38?si=AlXraVayZ6_3C46Q",
+  "doYouKnow": "Nalleru, also called Ceylon Spinach or Basella Alba, is a unique leafy vegetable commonly grown in Andhra Pradesh and Telangana. Unlike most leafy greens, Nalleru is a climbing vine, with thick, fleshy leaves and stems. It is highly nutritious, rich in iron, calcium, and vitamin C, and is known for its cooling properties. In Andhra cuisine, it is often cooked as a curry, dal, or stir-fry, and sometimes combined with tamarind for a tangy flavor. It also aids digestion and is considered a natural remedy for constipation.",
+  "varietiesText": [
+    "Green-Stem Nalleru → Most common, with thick green stems and leaves; mild taste.",
+    "Red-Stem Nalleru → Leaves have a slight reddish tinge; more flavorful and rich in antioxidants."
+  ],
+  "bestCondition": {
+    "sunlight": "Requires 5–6 hours of direct sunlight daily; partial shade is also tolerated.",
+    "water": "Needs regular watering; soil should always remain moist as the plant thrives in humidity.",
+    "soil": "Fertile, well-drained loamy soil enriched with compost; prefers slightly acidic to neutral pH."
+  },
+  "whenToSow": "Nalleru is a year-round crop in southern India but grows best during the warm, humid months of March to October.",
+  "growingGuide": [
+    "Prepare soil with compost and organic manure.",
+    "Sow seeds or plant cuttings directly near a trellis, fence, or stick support, as Nalleru is a climbing vine.",
+    "Seeds germinate in 7–10 days.",
+    "Provide regular watering and occasional organic fertilizer for vigorous growth.",
+    "Mulching helps retain soil moisture.",
+    "The plant grows rapidly and can spread widely, so training the vines upwards ensures healthy leaf production."
+  ],
+  "growingGuideImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgXRYNaa6FFN7hmULhduGTH0QHeLdv7yFriQ&s",
+    "https://i.ytimg.com/vi/Xba5HSkabHI/maxresdefault.jpg",
+    "https://i.etsystatic.com/24597974/r/il/4c8070/3223568313/il_570xN.3223568313_h8ta.jpg"
+  ],
+  "harvesting": "Nalleru is ready for harvesting in 45–50 days after sowing. Tender leaves and young shoots can be plucked every 7–10 days. The leaves should be bright green, thick, and fleshy. Avoid harvesting very old leaves as they may turn fibrous and bitter. Continuous harvesting encourages new vine growth.",
+  "harvestingImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOP8Nr_N0UFnq6bttenn9_xhOwLB4vV0ShA&s",
+  "commonTroubles": [
+    "Leaf-Eating Caterpillars/pEat tender leaves; handpick or spray neem solution.",
+    "Aphids/pAttack young shoots; wash with soap water or spray neem oil.",
+    "Powdery Mildew/pWhite patches on leaves during humid weather; improve air circulation and spray organic fungicides."
+  ],
+  "commonTroublesImages": [
+    "https://media.licdn.com/dms/image/v2/D5622AQG2GPlqePrrfw/feedshare-shrink_800/feedshare-shrink_800/0/1727007926929?e=2147483647&v=beta&t=XHrr0g5HbZizY93_PO8qSBCcx_dkV0ujg2SfYQeztsA",
+    "https://cdn.shopify.com/s/files/1/0550/9401/8125/files/Aphids_in_Fenugreek_480x480.jpg?v=1719252926",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7PwbJh4dHLpIk_DxJjoeZDD84_Dsedjw-Lw&s"
+  ],
+  "category": "Leafy Green",
+  "searchWords": [
+    "nalleru",
+    "ceylon spinach",
+    "basella alba",
+    "spinach",
+    "leafy greens"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T11:10:21.478Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T11:10:21.478Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "68987e3065eb8870f02481df"
+  },
+  "customId": "GNL015",
+  "name": "Bachali Kura (Malabar Spinach)",
+  "coverImage": "https://www.csrorganics.com/image/cache/catalog/Product/seeds/leafy/csr-organics-organic-terrace-garden-vegetable-malabar-spinach-bachali-kura-seeds-5-1000x1000.jpg",
+  "video": "https://youtu.be/b-fYNslc_QM?si=_aAMZqxZwBch6DCB",
+  "doYouKnow": "Bachali Kura, also known as Malabar Spinach, is a popular leafy vegetable in Andhra Pradesh and Telangana. Unlike regular spinach, it is a perennial climbing vine with thick, fleshy leaves that are mildly mucilaginous when cooked. It is an excellent summer green since it thrives in heat and humidity, unlike many other leafy vegetables that wilt during hot weather. Rich in iron, calcium, vitamin A, and folate, Bachali Kura is considered beneficial for improving hemoglobin levels, strengthening bones, and aiding digestion. A traditional favorite is Bachali Kura Pappu (dal) or a curry with sesame and tamarind.",
+  "varietiesText": [
+    "Teega Bachali → The most common variety, with green stems and thick green leaves.",
+    "Erra Bachali → Red-stemmed variety, rich in antioxidants, with leaves having a purplish tint.",
+    "Local Backyard Varieties → Often grown in village households; highly adaptable and long-yielding."
+  ],
+  "bestCondition": {
+    "sunlight": "Prefers 6–7 hours of sunlight daily but tolerates partial shade.",
+    "water": "Requires regular watering; soil should stay moist, as the plant loves humidity.",
+    "soil": "Fertile, loamy soil enriched with compost or cow dung; thrives best in slightly acidic to neutral soil."
+  },
+  "whenToSow": "Bachali Kura can be grown almost year-round, but it thrives best during the warm months from March to October. In cooler climates, it slows down in winter.",
+  "growingGuide": [
+    "Sow seeds directly or propagate from stem cuttings near a trellis, fence, or stick for support.",
+    "Seeds germinate in 7–10 days.",
+    "Since Bachali is a vigorous climber, provide a sturdy support structure.",
+    "Water regularly and apply compost or vermicompost every 3–4 weeks to promote lush growth.",
+    "Prune the vines regularly to control length and encourage side shoots.",
+    "Avoid letting the plant flower too early, as leaf production reduces after flowering."
+  ],
+  "growingGuideImages": [
+    "https://i.ytimg.com/vi/6pyMWeeM7ZA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCqPg9_Kbh4JS560A3mJ4XLO7f4Tw",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJx3a38PFKJb5Qugzn_CDI2Qv_11Gdo3ORpw&s"
+  ],
+  "harvesting": "Leaves can be harvested in 40–45 days after sowing. Pluck young leaves and tender shoots regularly. Always harvest from the top and sides to allow continuous regrowth. Leaves should be thick, glossy, and bright green (or purplish for red-stemmed varieties). Avoid harvesting very mature leaves as they can become fibrous and less tasty.",
+  "commonTroubles": [
+    "Aphids and Mealybugs/pAttack tender leaves and stems; spray neem oil or wash with soap water.",
+    "Snails and Slugs/pCommon in moist soil; handpick or sprinkle ash around the plant base.",
+    "Yellowing Leaves/pUsually due to poor soil nutrition; add compost or liquid fertilizer."
+  ],
+  "commonTroublesImages": [
+    "https://cdn.shopify.com/s/files/1/0550/9401/8125/files/Aphids_in_Fenugreek_480x480.jpg?v=1719252926",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtzO6z2V9E0vUoQADjmeut7tOO8WOOSISTig&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpbZ9pnyXV4TbOQXTP6GubaHxZMs37yKnODg&s"
+  ],
+  "category": "Leafy Green",
+  "searchWords": [
+    "bachali kura",
+    "malabar spinach",
+    "basella",
+    "leafy greens",
+    "climbing spinach"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T11:10:40.441Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T11:10:40.441Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "68987e4b65eb8870f02481e0"
+  },
+  "customId": "GNL016",
+  "name": "Chukka Kura (Sorrel Leaves / Rumex Vesicarius)",
+  "coverImage": "https://rukminim3.flixcart.com/image/850/1000/ktep2fk0/plant-seed/b/4/f/55-nxx-972-paudha-original-imag6rdnvwecafch.jpeg?q=20&crop=false",
+  "video": "https://youtu.be/Ef1h1qj8rHw?si=3PyfToqW-GOVKyjC",
+  "doYouKnow": "Chukka Kura, also known as Sorrel Leaves, is a tangy leafy vegetable that adds a refreshing sour flavor to many Andhra-style dishes. Unlike Gongura, which has a sharp sourness, Chukka Kura has a milder tang, making it perfect for quick curries, dals, and chutneys. It is rich in iron, vitamin C, and folic acid, making it excellent for improving blood health, boosting immunity, and aiding digestion. A popular preparation is Chukka Kura Pappu, a comforting dish paired with hot rice and ghee.",
+  "varietiesText": [
+    "Desi Green Chukka Kura → Common variety with tender green leaves and mild tang.",
+    "Broad-Leaf Chukka Kura → Larger leaves, used for quick curries and chutneys."
+  ],
+  "bestCondition": {
+    "sunlight": "Requires 5–6 hours of sunlight daily; partial shade is tolerated.",
+    "water": "Needs regular watering; soil should be kept moist but not waterlogged.",
+    "soil": "Grows best in sandy loam soil enriched with organic compost; prefers a slightly acidic soil."
+  },
+  "whenToSow": "Chukka Kura can be grown throughout the year, but thrives best during the cooler months of September to February.",
+  "growingGuide": [
+    "Seeds are usually sown directly into well-prepared soil beds. Sow them about ½ inch deep and 6 inches apart.",
+    "Germination takes 6–8 days.",
+    "Keep the soil moist and weed-free.",
+    "Apply compost or organic fertilizer every 3–4 weeks to boost leaf growth.",
+    "Since the plant grows low to the ground, keep the beds clean and dry to prevent fungal infections.",
+    "Regular pruning of leaves helps continuous growth."
+  ],
+  "growingGuideImages": [
+    "https://i.ytimg.com/vi/tqodWvqZghA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCRNUWoIzvjgjv5kJzdqHJeDcnZFA",
+    "https://rukminim1.flixcart.com/image/300/300/xif0q/plant-seed/x/h/u/36-x-460-xolda-original-imafvdppzqh6bxuk.jpeg",
+    "https://plantsguru.com/cdn/shop/files/Chukka_Kura_Seeds.jpg?v=1743495776"
+  ],
+  "harvesting": "Leaves can be harvested in 25–30 days after sowing. Pluck tender leaves regularly, as younger leaves have the best flavor and texture. Harvesting outer leaves while leaving the inner ones ensures a longer harvesting period. Avoid letting the plant flower, as leaf production reduces afterward.",
+  "commonTroubles": [
+    "Leaf Spot Disease/pCauses brown or black patches; spray neem solution and avoid overhead watering.",
+    "Aphids/pAttack tender shoots; control with soap water spray."
+  ],
+  "commonTroublesImages": [
+    "https://www.agrifarming.in/wp-content/uploads/Leaf-Spot-Management-in-Plants5.jpg",
+    "https://cdn.shopify.com/s/files/1/0550/9401/8125/files/Aphids_in_Fenugreek_480x480.jpg?v=1719252926"
+  ],
+  "category": "Leafy Green",
+  "searchWords": [
+    "chukka kura",
+    "sorrel leaves",
+    "rumex vesicarius",
+    "leafy greens",
+    "andhra vegetables"
+  ],
+  "createdAt": {
+    "$date": "2025-08-10T11:11:07.938Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-10T11:11:07.938Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+},
+{
+  "_id": {
+    "$oid": "689ad3dfed6763a3744dc75d"
+  },
+  "customId": "GNL017",
+  "name": "Spring Onion (Green Onion / Scallion)",
+  "coverImage": "https://images.immediate.co.uk/production/volatile/sites/10/2018/02/45c94e79-efd1-4792-ab62-a674357a2fbf-87c9736.jpg?quality=90&webp=true&resize=800,534",
+  "video": "https://youtu.be/6hDnZwoAqeA?si=b5p_SJTGFWjlNiM3",
+  "doYouKnow": "Spring Onion, also called Green Onion or Scallion, is a versatile vegetable used both for its long green leaves and tender white bulbs. In Indian cooking, it is often added to stir-fries, noodles, parathas, and curries for its mild onion flavor. Rich in vitamin C, vitamin K, and antioxidants, spring onions help boost immunity, improve bone health, and aid digestion. They are also very quick-growing, making them a favorite in kitchen gardens. Freshly harvested spring onions give a crisp texture and a delicate flavor that enhances any dish.",
+  "varietiesText": [
+    "White Lisbon → Popular variety with long, tender stalks and mild flavor.",
+    "Evergreen Bunching → Perennial type that regrows after cutting, perfect for continuous harvest.",
+    "Local Desi Varieties → Grown widely in Indian backyards, adaptable to different climates."
+  ],
+  "bestCondition": {
+    "sunlight": "Needs 5–6 hours of direct sunlight daily.",
+    "water": "Requires moderate watering; soil should be moist but not waterlogged.",
+    "soil": "Loose, sandy loam soil rich in organic matter; prefers slightly acidic to neutral pH (6.0–7.0)."
+  },
+  "whenToSow": "Spring Onions can be grown almost year-round, but the best seasons are October to February for the best yield and quality.",
+  "growingGuide": [
+    "Spring onions can be grown from seeds or sets (small bulbs). Sow seeds ½ inch deep in rows 6 inches apart.",
+    "Thin seedlings after germination to avoid crowding.",
+    "Regular watering is essential, especially during dry spells, to keep the bulbs tender and juicy.",
+    "Adding compost every 2–3 weeks ensures steady growth.",
+    "Avoid excessive nitrogen fertilizers, as they can make the stalks floppy.",
+    "For kitchen gardening, spring onions also grow well in pots and containers."
+  ],
+  "growingGuideImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFCYnV8LPA5L7NS0D5JVjChnppjGLZKM0dVA&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo8aUVnjC6a2UL0kJ4TjaAVAdwTwfePR44tg&s",
+    "https://cdn.mos.cms.futurecdn.net/TMurg6AqY8EXA2RdaP58MN.jpg"
+  ],
+  "harvesting": "Spring onions are ready to harvest in 45–55 days after sowing. Pull out the whole plant when bulbs are ½ to 1 inch thick, or cut the green tops as needed for continuous supply. The best harvest is when the stalks are crisp, green, and upright. Avoid waiting too long, as older stalks become fibrous and lose flavor.",
+  "commonTroubles": [
+    "Onion Thrips/pTiny pests that damage leaves; spray neem oil or garlic extract solution.",
+    "Purple Blotch Disease/pFungal spots on leaves; avoid overhead watering and use organic fungicide.",
+    "Bulb Rot/pCaused by waterlogging; ensure good drainage and avoid excess watering."
+  ],
+  "commonTroublesImages": [
+    "https://hort.extension.wisc.edu/files/2014/11/OnionThrip-2.jpg",
+    "https://cdn.mos.cms.futurecdn.net/4NLxQTGmsoFxQGrCKb6Wv.jpg",
+    "https://pubs.nmsu.edu/_circulars/CR538/images/Fig03a_Botrytis_bulb_rot.jpg"
+  ],
+  "category": "Leafy Green",
+  "searchWords": [
+    "spring onion",
+    "green onion",
+    "scallion",
+    "kitchen garden",
+    "leafy vegetable"
+  ],
+  "createdAt": {
+    "$date": "2025-08-12T05:40:47.746Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-12T05:40:47.746Z"
+  },
+  "_class": "com.example.TheGreenPanther.Entity.GrowAndNurtureEntity"
+}]
