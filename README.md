@@ -47,6 +47,13 @@ This repository contains the **Spring Boot REST API backend**, connected to **Mo
 
 ---
 
+## 🔐 MongoDB Configuration (Security Notice)
+
+For security reasons, the **MongoDB connection URI is NOT included in this repository**.  
+Before running the backend, you must configure your own database connection.
+
+---
+
 ## 🗂️ Project Modules Overview
 
 | Module | Base API Path | Description |
